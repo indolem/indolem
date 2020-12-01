@@ -1,0 +1,4650 @@
+# sent_id = n01111030
+# text = Ini artinya bahwa mereka belum mendapatkan keuntungan dari uplift yang telah diberikan oleh kejatuhan sterling ke aset luar negeri.
+# text_en = This means that they have not benefited from the uplift that the fall in sterling has given to overseas assets.
+1	Ini	_	PRON	PRD	_	2	nsubj	_	_
+2	arti	_	NOUN	NN	_	0	root	_	SpaceAfter=No
+3	nya	_	DET	DT	_	2	det	_	_
+4	bahwa	_	SCONJ	SC	_	7	mark	_	_
+5	mereka	_	PRON	PRP	_	7	nsubj	_	_
+6	belum	_	PART	NEG	_	7	advmod	_	_
+7	mendapatkan	_	VERB	VV	_	2	acl	_	_
+8	keuntungan	_	NOUN	NN	_	7	obj	_	_
+9	dari	_	ADP	IN	_	10	case	_	_
+10	uplift	_	NOUN	NN	_	7	obl	_	_
+11	yang	_	PRON	WP	_	13	nsubj:pass	_	_
+12	telah	_	AUX	MD	_	13	aux	_	_
+13	diberikan	_	VERB	VV	_	10	acl:relcl	_	_
+14	oleh	_	ADP	IN	_	15	case	_	_
+15	kejatuhan	_	NOUN	NN	_	13	obl	_	_
+16	sterling	_	NOUN	NN	_	15	compound	_	_
+17	ke	_	ADP	IN	_	18	case	_	_
+18	aset	_	NOUN	NN	_	13	obl	_	_
+19	luar	_	NOUN	NN	_	20	nmod:npmod	_	_
+20	negeri	_	NOUN	NN	_	18	nmod:npmod	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01123024
+# text = Mungkin itu tidak akan menjadi masalah karena kebingungan saya tidak akan berlangsung lama.
+# text_en = Perhaps it won’t matter as I won’t be troubled long.
+1	Mungkin	_	ADV	RB	_	5	advmod	_	_
+2	itu	_	PRON	PRD	_	5	nsubj	_	_
+3	tidak	_	PART	NEG	_	5	advmod	_	_
+4	akan	_	AUX	MD	_	5	aux	_	_
+5	menjadi	_	VERB	VV	_	0	root	_	_
+6	masalah	_	NOUN	NN	_	5	obl:mod	_	_
+7	karena	_	SCONJ	SC	_	12	mark	_	_
+8	kebingungan	_	NOUN	NN	_	12	nsubj	_	_
+9	saya	_	DET	PRP$	_	8	nmod:poss	_	_
+10	tidak	_	PART	NEG	_	12	advmod	_	_
+11	akan	_	AUX	MD	_	12	aux	_	_
+12	berlangsung	_	VERB	VV	_	5	advcl	_	_
+13	lama	_	ADJ	JJ	_	12	advmod	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01123012
+# text = Cotton dilahirkan pada tanggal 31 Oktober 1832 di sebuah desa dekat Sunderland.
+# text_en = Cotton was born on October 31, 1832, in a village near Sunderland.
+1	Cotton	_	PROPN	NNP	_	2	nsubj:pass	_	_
+2	dilahirkan	_	VERB	VV	_	0	root	_	_
+3	pada	_	ADP	IN	_	4	case	_	_
+4	tanggal	_	NOUN	NN	_	2	obl	_	_
+5	31	_	NUM	CD	_	4	nmod	_	_
+6	Oktober	_	PROPN	NNP	_	5	flat	_	_
+7	1832	_	NUM	CD	_	5	flat	_	_
+8	di	_	ADP	IN	_	10	case	_	_
+9	sebuah	_	DET	DT	_	10	det	_	_
+10	desa	_	NOUN	NN	_	2	obl	_	_
+11	dekat	_	ADJ	JJ	_	12	amod	_	_
+12	Sunderland	_	PROPN	NNP	_	10	nmod:npmod	_	SpaceAfter=No
+13	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w01018019
+# text = Prancis mengintegrasikan ekonomi Kamerun dengan ekonomi Prancis dan memperbaiki infrastruktur dengan investasi modal dan tenaga terampil, mengubah sistem kerja paksa.
+# text_en = France integrated the economy of Cameroun with that of France and improved the infrastructure with capital investments and skilled workers, modifying the system of forced labour.
+1	Prancis	_	PROPN	NNP	_	2	nsubj	_	_
+2	mengintegrasikan	_	VERB	VV	_	0	root	_	_
+3	ekonomi	_	NOUN	NN	_	2	obj	_	_
+4	Kamerun	_	PROPN	NNP	_	3	nmod:npmod	_	_
+5	dengan	_	ADP	IN	_	6	case	_	_
+6	ekonomi	_	NOUN	NN	_	2	obl	_	_
+7	Prancis	_	PROPN	NNP	_	6	nmod:npmod	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	memperbaiki	_	VERB	VV	_	2	conj	_	_
+10	infrastruktur	_	NOUN	NN	_	9	obj	_	_
+11	dengan	_	ADP	IN	_	12	case	_	_
+12	investasi	_	NOUN	NN	_	9	obl	_	_
+13	modal	_	NOUN	NN	_	12	compound	_	_
+14	dan	_	CCONJ	CC	_	15	cc	_	_
+15	tenaga	_	NOUN	NN	_	12	conj	_	_
+16	terampil	_	ADJ	JJ	_	15	amod	_	SpaceAfter=No
+17	,	_	PUNCT	,	_	18	punct	_	_
+18	mengubah	_	VERB	VV	_	9	advcl	_	_
+19	sistem	_	NOUN	NN	_	18	obj	_	_
+20	kerja	_	VERB	VV	_	19	acl	_	_
+21	paksa	_	VERB	VV	_	20	advcl	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01003007
+# text = Maksimal diberikan $5.000 per orang.
+# text_en = $5,000 per person, the maximum allowed.
+1	Maksimal	_	ADJ	JJ	_	2	advmod	_	_
+2	diberikan	_	VERB	VV	_	0	root	_	_
+3	$	_	SYM	SYM	_	2	nsubj:pass	_	SpaceAfter=No
+4	5.000	_	NUM	CD	_	3	nummod	_	_
+5	per	_	ADP	IN	_	6	case	_	_
+6	orang	_	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+7	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01125030
+# text = Tentu saja, tren yang berhubungan dengan sentuhan ini erat kaitannya dengan berkembangnya obsesi kita untuk membuat berbagai hal.
+# text_en = Of course, the tactile trend is closely linked to our growing obsession with making things.
+1	Tentu	_	ADV	RB	_	10	advmod	_	_
+2	saja	_	ADV	RB	_	1	advmod	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	1	punct	_	_
+4	tren	_	NOUN	NN	_	10	dislocated	_	_
+5	yang	_	PRON	WP	_	6	nsubj	_	_
+6	berhubungan	_	VERB	VV	_	4	acl:relcl	_	_
+7	dengan	_	ADP	IN	_	8	case	_	_
+8	sentuhan	_	NOUN	NN	_	6	obl	_	_
+9	ini	_	DET	DT	_	4	det	_	_
+10	erat	_	ADJ	JJ	_	0	root	_	_
+11	kaitan	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
+12	nya	_	DET	DT	_	11	det	_	_
+13	dengan	_	ADP	IN	_	14	case	_	_
+14	berkembangnya	_	NOUN	NN	_	10	obl	_	_
+15	obsesi	_	NOUN	NN	_	14	compound	_	_
+16	kita	_	DET	PRP$	_	15	nmod:poss	_	_
+17	untuk	_	SCONJ	SC	_	18	mark	_	_
+18	membuat	_	VERB	VV	_	15	acl	_	_
+19	berbagai	_	DET	NN	_	20	det	_	_
+20	hal	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = w01143037
+# text = Ia membintangi sebagai adik laki-laki Humphrey Bogart, seorang playboy yang riang, dalam film Sabrina (1954), dimainkan oleh Audrey Hepburn.
+# text_en = He co-starred as Humphrey Bogart's younger brother, a carefree playboy, in Sabrina (1954), played by Audrey Hepburn.
+1	Ia	_	PRON	PRP	_	2	nsubj	_	_
+2	membintangi	_	VERB	VV	_	0	root	_	_
+3	sebagai	_	ADP	IN	_	4	case	_	_
+4	adik	_	NOUN	NN	_	2	obl	_	_
+5	laki-laki	_	NOUN	NN	_	4	compound	_	_
+6	Humphrey	_	PROPN	NNP	_	4	nmod:poss	_	_
+7	Bogart	_	PROPN	NNP	_	6	flat	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	10	punct	_	_
+9	seorang	_	DET	DT	_	10	det	_	_
+10	playboy	_	NOUN	NN	_	4	appos	_	_
+11	yang	_	PRON	WP	_	12	nsubj	_	_
+12	riang	_	ADJ	JJ	_	10	acl:relcl	_	SpaceAfter=No
+13	,	_	PUNCT	,	_	10	punct	_	_
+14	dalam	_	ADP	IN	_	15	case	_	_
+15	film	_	NOUN	NN	_	2	obl	_	_
+16	Sabrina	_	PROPN	NNP	_	15	nmod:npmod	_	_
+17	(	_	PUNCT	(	_	18	punct	_	SpaceAfter=No
+18	1954	_	NUM	CD	_	15	nmod:tmod	_	SpaceAfter=No
+19	)	_	PUNCT	)	_	18	punct	_	SpaceAfter=No
+20	,	_	PUNCT	,	_	21	punct	_	_
+21	dimainkan	_	VERB	VV	_	15	acl	_	_
+22	oleh	_	ADP	IN	_	23	case	_	_
+23	Audrey	_	PROPN	NNP	_	21	obl	_	_
+24	Hepburn	_	PROPN	NNP	_	23	flat	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01064009
+# text = Akan jauh lebih aman, pikir Plato, untuk mempercayakan kekuasaan secara hati-hati kepada para wali yang berpendidikan.
+# text_en = It would be much safer, Plato thought, to entrust power to carefully educated guardians.
+1	Akan	_	AUX	MD	_	4	aux	_	_
+2	jauh	_	ADJ	JJ	_	4	advmod	_	_
+3	lebih	_	ADV	RB	_	4	advmod	_	_
+4	aman	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	6	punct	_	_
+6	pikir	_	VERB	VV	_	4	parataxis	_	_
+7	Plato	_	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	6	punct	_	_
+9	untuk	_	SCONJ	SC	_	10	mark	_	_
+10	mempercayakan	_	VERB	VV	_	4	advcl	_	_
+11	kekuasaan	_	NOUN	NN	_	10	obj	_	_
+12	secara	_	ADP	IN	_	13	case:adv	_	_
+13	hati-hati	_	ADV	RB	_	10	advmod	_	_
+14	kepada	_	ADP	IN	_	16	case	_	_
+15	para	_	DET	DT	_	16	det	_	_
+16	wali	_	NOUN	NN	_	10	obl	_	_
+17	yang	_	PRON	WP	_	18	nsubj	_	_
+18	berpendidikan	_	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w01020016
+# text = Beberapa peradaban kuno terletak di sekitar pesisir dan sangat dipengaruhi oleh posisinya yang dekat dengan laut.
+# text_en = Several ancient civilisations were located around the Mediterranean shores, and were greatly influenced by their proximity to the sea.
+1	Beberapa	_	DET	DT	_	2	det	_	_
+2	peradaban	_	NOUN	NN	_	4	nsubj:pass	_	_
+3	kuno	_	ADJ	JJ	_	2	amod	_	_
+4	terletak	_	VERB	VV	_	0	root	_	_
+5	di	_	ADP	IN	_	7	case	_	_
+6	sekitar	_	NOUN	NN	_	7	nmod	_	_
+7	pesisir	_	NOUN	NN	_	4	obl	_	_
+8	dan	_	CCONJ	CC	_	10	cc	_	_
+9	sangat	_	ADV	RB	_	10	advmod	_	_
+10	dipengaruhi	_	VERB	VV	_	4	conj	_	_
+11	oleh	_	ADP	IN	_	12	case	_	_
+12	posisi	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
+13	nya	_	DET	PRP$	_	12	nmod:poss	_	_
+14	yang	_	PRON	WP	_	15	nsubj	_	_
+15	dekat	_	ADJ	JJ	_	12	acl:relcl	_	_
+16	dengan	_	ADP	IN	_	17	case	_	_
+17	laut	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01019004
+# text = Kursus selama 10 minggu ini telah “disertifikasi” oleh badan mata-mata Inggris, GCHQ.
+# text_en = The 10-week course has been "certified" by UK spy agency GCHQ.
+1	Kursus	_	NOUN	NN	_	8	nsubj:pass	_	_
+2	selama	_	ADP	IN	_	4	case	_	_
+3	10	_	NUM	CD	_	4	nummod	_	_
+4	minggu	_	NOUN	NN	_	1	nmod	_	_
+5	ini	_	DET	DT	_	1	det	_	_
+6	telah	_	AUX	MD	_	8	aux	_	_
+7	“	_	PUNCT	``	_	8	punct	_	SpaceAfter=No
+8	disertifikasi	_	VERB	VV	_	0	root	_	SpaceAfter=No
+9	”	_	PUNCT	''	_	8	punct	_	_
+10	oleh	_	ADP	IN	_	11	case	_	_
+11	badan	_	NOUN	NN	_	8	obl	_	_
+12	mata-mata	_	NOUN	NN	_	11	compound	_	_
+13	Inggris	_	PROPN	NNP	_	11	nmod:npmod	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	15	punct	_	_
+15	GCHQ	_	PROPN	NNP	_	11	appos	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = n01087035
+# text = “Aku suka warna-warna tropis,” katanya.
+# text_en = “I loved the tropical colours,” he says.
+1	“	_	PUNCT	``	_	3	punct	_	SpaceAfter=No
+2	Aku	_	PRON	PRP	_	3	nsubj	_	_
+3	suka	_	VERB	VV	_	0	root	_	_
+4	warna-warna	_	NOUN	NN	_	3	obj	_	_
+5	tropis	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	3	punct	_	SpaceAfter=No
+7	”	_	PUNCT	''	_	3	punct	_	_
+8	kata	_	VERB	VV	_	3	parataxis	_	SpaceAfter=No
+9	nya	_	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
+10	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01001049
+# text = Piagam ini mengizinkan pembentukan serikat pedagang, yang dijalankan oleh perwakilan kota untuk menarik pajak dari orang yang melintasi borough.
+# text_en = The charter allowed for the creation of a merchants' guild, run by the town's burgesses to tax people passing through the borough.
+1	Piagam	_	NOUN	NN	_	3	nsubj	_	_
+2	ini	_	DET	DT	_	1	det	_	_
+3	mengizinkan	_	VERB	VV	_	0	root	_	_
+4	pembentukan	_	NOUN	NN	_	3	obj	_	_
+5	serikat	_	NOUN	NN	_	4	compound	_	_
+6	pedagang	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	9	punct	_	_
+8	yang	_	PRON	WP	_	9	nsubj:pass	_	_
+9	dijalankan	_	VERB	VV	_	5	acl:relcl	_	_
+10	oleh	_	ADP	IN	_	11	case	_	_
+11	perwakilan	_	NOUN	NN	_	9	obl	_	_
+12	kota	_	NOUN	NN	_	11	nmod	_	_
+13	untuk	_	SCONJ	SC	_	14	mark	_	_
+14	menarik	_	VERB	VV	_	9	advcl	_	_
+15	pajak	_	NOUN	NN	_	14	obj	_	_
+16	dari	_	ADP	IN	_	17	case	_	_
+17	orang	_	NOUN	NN	_	14	obl	_	_
+18	yang	_	PRON	WP	_	19	nsubj	_	_
+19	melintasi	_	VERB	VV	_	17	acl:relcl	_	_
+20	borough	_	NOUN	NN	_	19	obj	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01027030
+# text = Sebagian besar dari debat itu, dari sisi Demokratik tahun ini, adalah tentang identitas laki-laki kulit putih.
+# text_en = Much of the debate, from the Democratic side this year, has been about white male identity.
+1	Sebagian	_	NOUN	NN	_	15	nsubj	_	_
+2	besar	_	ADJ	JJ	_	1	amod	_	_
+3	dari	_	ADP	IN	_	4	case	_	_
+4	debat	_	NOUN	NN	_	1	nmod	_	_
+5	itu	_	DET	DT	_	4	det	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	dari	_	ADP	IN	_	8	case	_	_
+8	sisi	_	NOUN	NN	_	1	nmod	_	_
+9	Demokratik	_	PROPN	NNP	_	8	nmod:npmod	_	_
+10	tahun	_	NOUN	NN	_	8	nmod:tmod	_	_
+11	ini	_	DET	DT	_	10	det	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	8	punct	_	_
+13	adalah	_	AUX	VC	_	15	cop	_	_
+14	tentang	_	ADP	IN	_	15	case	_	_
+15	identitas	_	NOUN	NN	_	0	root	_	_
+16	laki-laki	_	NOUN	NN	_	15	nmod:npmod	_	_
+17	kulit	_	NOUN	NN	_	16	nmod:npmod	_	_
+18	putih	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = w01125034
+# text = Wilkes terpilih kembali dan ditendang dua kali lagi, sebelum House of Commons memutuskan bahwa pencalonannya tidak sah dan mengumumkan peraih suara terbanyak kedua sebagai pemenang.
+# text_en = Wilkes was re-elected and expelled twice more, before the House of Commons resolved that his candidature was invalid and declared the runner-up as the victor.
+1	Wilkes	_	PROPN	NNP	_	2	nsubj:pass	_	_
+2	terpilih	_	VERB	VV	_	0	root	_	_
+3	kembali	_	ADV	RB	_	2	advmod	_	_
+4	dan	_	CCONJ	CC	_	5	cc	_	_
+5	ditendang	_	VERB	VV	_	2	conj	_	_
+6	dua	_	NUM	CD	_	7	nummod	_	_
+7	kali	_	NOUN	NNB	_	5	obl:mod	_	_
+8	lagi	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	14	punct	_	_
+10	sebelum	_	SCONJ	SC	_	14	mark	_	_
+11	House	_	PROPN	NNP	_	14	nsubj	_	_
+12	of	_	PROPN	NNP	_	11	flat	_	_
+13	Commons	_	PROPN	NNP	_	11	flat	_	_
+14	memutuskan	_	VERB	VV	_	2	advcl	_	_
+15	bahwa	_	SCONJ	SC	_	19	mark	_	_
+16	pencalonan	_	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
+17	nya	_	DET	PRP$	_	16	nmod:poss	_	_
+18	tidak	_	PART	NEG	_	19	advmod	_	_
+19	sah	_	ADJ	JJ	_	14	ccomp	_	_
+20	dan	_	CCONJ	CC	_	21	cc	_	_
+21	mengumumkan	_	VERB	VV	_	14	conj	_	_
+22	peraih	_	NOUN	NN	_	21	obj	_	_
+23	suara	_	NOUN	NN	_	22	nmod:npmod	_	_
+24	terbanyak	_	ADJ	JJ	_	23	amod	_	_
+25	kedua	_	ADJ	JJ	_	22	amod	_	_
+26	sebagai	_	ADP	IN	_	27	case	_	_
+27	pemenang	_	NOUN	NN	_	22	nmod	_	SpaceAfter=No
+28	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w01066008
+# text = Warna hari baik orang Thailand ditunjukkan dalam tabel hari-hari dalam seminggu, di bawahnya diikuti dengan tautan ke gambar Budha untuk setiap hari dalam seminggu.
+# text_en = Thai auspicious colours of the day are given in the table of weekdays, followed below it by a link to the Buddha images for each day of the week.
+1	Warna	_	NOUN	NN	_	6	nsubj:pass	_	_
+2	hari	_	NOUN	NN	_	1	compound	_	_
+3	baik	_	ADJ	JJ	_	2	amod	_	_
+4	orang	_	NOUN	NN	_	1	nmod:poss	_	_
+5	Thailand	_	PROPN	NNP	_	4	nmod:npmod	_	_
+6	ditunjukkan	_	VERB	VV	_	0	root	_	_
+7	dalam	_	ADP	IN	_	8	case	_	_
+8	tabel	_	NOUN	NN	_	6	obl	_	_
+9	hari-hari	_	NOUN	NN	_	8	compound	_	_
+10	dalam	_	ADP	IN	_	11	case	_	_
+11	seminggu	_	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	16	punct	_	_
+13	di	_	ADP	IN	_	15	case	_	_
+14	bawah	_	NOUN	NN	_	15	nmod:npmod	_	SpaceAfter=No
+15	nya	_	PRON	PRP	_	16	obl	_	_
+16	diikuti	_	VERB	VV	_	8	acl	_	_
+17	dengan	_	ADP	IN	_	18	case	_	_
+18	tautan	_	NOUN	NN	_	16	obl	_	_
+19	ke	_	ADP	IN	_	20	case	_	_
+20	gambar	_	NOUN	NN	_	18	nmod	_	_
+21	Budha	_	PROPN	NNP	_	20	nmod:npmod	_	_
+22	untuk	_	ADP	IN	_	24	case	_	_
+23	setiap	_	DET	DT	_	24	det	_	_
+24	hari	_	NOUN	NN	_	18	nmod	_	_
+25	dalam	_	ADP	IN	_	24	case	_	_
+26	seminggu	_	NOUN	NN	_	24	nmod	_	SpaceAfter=No
+27	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01116035
+# text = Tapi membiarkan Glenda bermain sangat bagus, siapa yang bisa menyalahkan itu?
+# text_en = But having allowed Glenda to score such a blinder, who can blame it?
+1	Tapi	_	CCONJ	CC	_	8	cc	_	_
+2	membiarkan	_	VERB	VV	_	8	advcl	_	_
+3	Glenda	_	PROPN	NNP	_	2	obj	_	_
+4	bermain	_	VERB	VV	_	2	xcomp	_	_
+5	sangat	_	ADV	RB	_	6	advmod	_	_
+6	bagus	_	ADJ	JJ	_	4	advmod	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	2	punct	_	_
+8	siapa	_	PRON	WP	_	0	root	_	_
+9	yang	_	PRON	WP	_	11	nsubj	_	_
+10	bisa	_	AUX	MD	_	11	aux	_	_
+11	menyalahkan	_	VERB	VV	_	8	csubj	_	_
+12	itu	_	PRON	PRD	_	11	obj	_	SpaceAfter=No
+13	?	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = n01050006
+# text = Besi adalah elemen penting yang dibutuhkan oleh tubuh untuk memproduksi hemoglobin, protein yang ditemukan dalam sel darah merah yang bertanggung jawab untuk mengangkut oksigen ke jaringan di dalam tubuh.
+# text_en = Iron is an essential element the body requires to produce hemoglobin, the protein found in red blood cells that's responsible for transporting oxygen to tissues in the body.
+1	Besi	_	NOUN	NN	_	3	nsubj	_	_
+2	adalah	_	AUX	VC	_	3	cop	_	_
+3	elemen	_	NOUN	NN	_	0	root	_	_
+4	penting	_	ADJ	JJ	_	3	amod	_	_
+5	yang	_	PRON	WP	_	6	nsubj:pass	_	_
+6	dibutuhkan	_	VERB	VV	_	3	acl:relcl	_	_
+7	oleh	_	ADP	IN	_	8	case	_	_
+8	tubuh	_	NOUN	NN	_	6	obl	_	_
+9	untuk	_	SCONJ	SC	_	10	mark	_	_
+10	memproduksi	_	VERB	VV	_	6	advcl	_	_
+11	hemoglobin	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	protein	_	NOUN	NN	_	11	appos	_	_
+14	yang	_	PRON	WP	_	15	nsubj:pass	_	_
+15	ditemukan	_	VERB	VV	_	13	acl:relcl	_	_
+16	dalam	_	ADP	IN	_	17	case	_	_
+17	sel	_	NOUN	NN	_	15	obl	_	_
+18	darah	_	NOUN	NN	_	17	compound	_	_
+19	merah	_	ADJ	JJ	_	18	amod	_	_
+20	yang	_	PRON	WP	_	21	nsubj	_	_
+21	bertanggung	_	VERB	VV	_	17	acl:relcl	_	_
+22	jawab	_	PART	RP	_	21	compound:prt	_	_
+23	untuk	_	SCONJ	SC	_	24	mark	_	_
+24	mengangkut	_	VERB	VV	_	21	advcl	_	_
+25	oksigen	_	NOUN	NN	_	24	obj	_	_
+26	ke	_	ADP	IN	_	27	case	_	_
+27	jaringan	_	NOUN	NN	_	24	obl	_	_
+28	di	_	ADP	IN	_	30	case	_	_
+29	dalam	_	NOUN	NN	_	30	nmod:npmod	_	_
+30	tubuh	_	NOUN	NN	_	27	nmod	_	SpaceAfter=No
+31	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01115013
+# text = Tahun lalu adalah tahun yang luar biasa dan saya siap untuk kita kembali semakin baik di tahun 2017.
+# text_en = Last year was an incredible year and I’m ready for us to come back even better in 2017.
+1	Tahun	_	NOUN	NN	_	4	nsubj	_	_
+2	lalu	_	VERB	VV	_	1	acl	_	_
+3	adalah	_	AUX	VC	_	4	cop	_	_
+4	tahun	_	NOUN	NN	_	0	root	_	_
+5	yang	_	PRON	WP	_	7	nsubj	_	_
+6	luar	_	PART	RP	_	7	compound:prt	_	_
+7	biasa	_	ADJ	JJ	_	4	acl:relcl	_	_
+8	dan	_	CCONJ	CC	_	10	cc	_	_
+9	saya	_	PRON	PRP	_	10	nsubj	_	_
+10	siap	_	VERB	VV	_	4	conj	_	_
+11	untuk	_	SCONJ	SC	_	13	mark	_	_
+12	kita	_	PRON	PRP	_	13	nsubj	_	_
+13	kembali	_	VERB	VV	_	10	advcl	_	_
+14	semakin	_	ADV	RB	_	15	advmod	_	_
+15	baik	_	ADJ	JJ	_	13	xcomp	_	_
+16	di	_	ADP	IN	_	17	case	_	_
+17	tahun	_	NOUN	NN	_	15	obl	_	_
+18	2017	_	NUM	CD	_	17	nummod	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01088026
+# text = Tapi, saat saya menyarankan agar Frank menjadi modelnya, ia tertawa.
+# text_en = But, when I suggest that she get Frank to model for her, she laughs.
+1	Tapi	_	CCONJ	CC	_	13	cc	_	SpaceAfter=No
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	saat	_	SCONJ	SC	_	5	mark	_	_
+4	saya	_	PRON	PRP	_	5	nsubj	_	_
+5	menyarankan	_	VERB	VV	_	13	advcl	_	_
+6	agar	_	SCONJ	SC	_	8	mark	_	_
+7	Frank	_	PROPN	NNP	_	8	nsubj	_	_
+8	menjadi	_	VERB	VV	_	5	ccomp	_	_
+9	model	_	NOUN	NN	_	8	obl:mod	_	SpaceAfter=No
+10	nya	_	DET	PRP$	_	9	nmod:poss	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	5	punct	_	_
+12	ia	_	PRON	PRP	_	13	nsubj:pass	_	_
+13	tertawa	_	VERB	VV	_	0	root	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = w01053067
+# text = Mungkin saja membuat fase bulan pada hari tertentu dua ribu tahun yang lalu tapi tidak apakah bulan itu dihalangi oleh awan atau kabut.
+# text_en = It is possible to establish the phase of the moon on a particular day two thousand years ago but not whether it was obscured by clouds or haze.
+1	Mungkin	_	ADJ	JJ	_	0	root	_	_
+2	saja	_	ADV	RB	_	1	advmod	_	_
+3	membuat	_	VERB	VV	_	1	csubj	_	_
+4	fase	_	NOUN	NN	_	3	obj	_	_
+5	bulan	_	NOUN	NN	_	4	compound	_	_
+6	pada	_	ADP	IN	_	7	case	_	_
+7	hari	_	NOUN	NN	_	4	nmod	_	_
+8	tertentu	_	ADJ	JJ	_	7	amod	_	_
+9	dua	_	NUM	CD	_	11	nummod	_	_
+10	ribu	_	NUM	CD	_	9	flat	_	_
+11	tahun	_	NOUN	NN	_	4	nmod:npmod	_	_
+12	yang	_	PRON	WP	_	13	nsubj	_	_
+13	lalu	_	VERB	VV	_	11	acl:relcl	_	_
+14	tapi	_	CCONJ	CC	_	19	cc	_	_
+15	tidak	_	PART	NEG	_	19	advmod	_	_
+16	apa	_	SCONJ	SC	_	19	mark	_	SpaceAfter=No
+17	kah	_	PART	RP	_	16	fixed	_	_
+18	bulan	_	NOUN	NN	_	20	nsubj:pass	_	_
+19	itu	_	DET	DT	_	18	det	_	_
+20	dihalangi	_	VERB	VV	_	3	conj	_	_
+21	oleh	_	ADP	IN	_	22	case	_	_
+22	awan	_	NOUN	NN	_	20	obl	_	_
+23	atau	_	CCONJ	CC	_	24	cc	_	_
+24	kabut	_	NOUN	NN	_	22	conj	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = n02038007
+# text = Simon Krätschmer meraba-raba sendiri di barak yang sudah bobrok dan seram itu.
+# text_en = Simon Krätschmer gropes around alone through the dilapidated, sinister barrack.
+1	Simon	_	PROPN	NNP	_	3	nsubj	_	_
+2	Krätschmer	_	PROPN	NNP	_	1	flat	_	_
+3	meraba-raba	_	VERB	VV	_	0	root	_	_
+4	sendiri	_	ADJ	JJ	_	3	advmod	_	_
+5	di	_	ADP	IN	_	6	case	_	_
+6	barak	_	NOUN	NN	_	3	obl	_	_
+7	yang	_	PRON	WP	_	9	nsubj	_	_
+8	sudah	_	AUX	MD	_	9	aux	_	_
+9	bobrok	_	ADJ	JJ	_	6	acl:relcl	_	_
+10	dan	_	CCONJ	CC	_	11	cc	_	_
+11	seram	_	ADJ	JJ	_	9	conj	_	_
+12	itu	_	DET	DT	_	6	det	_	SpaceAfter=No
+13	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01049033
+# text = Namun tanpa kerangka legislatif, dan dengan asal-muasal ganja sebagai obat tradisional pengubah suasana hati, perusahaan-perusahaan bertanya-tanya
+# text_en = But without a legislative framework, and with the grassroots origins of pot as a mood-altering folk remedy, companies are left guessing.
+1	Namun	_	CCONJ	CC	_	18	cc	_	_
+2	tanpa	_	ADP	IN	_	3	case	_	_
+3	kerangka	_	NOUN	NN	_	18	obl	_	_
+4	legislatif	_	ADJ	JJ	_	3	amod	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	8	punct	_	_
+6	dan	_	CCONJ	CC	_	8	cc	_	_
+7	dengan	_	ADP	IN	_	8	case	_	_
+8	asal-muasal	_	NOUN	NN	_	3	conj	_	_
+9	ganja	_	NOUN	NN	_	8	compound	_	_
+10	sebagai	_	ADP	IN	_	11	case	_	_
+11	obat	_	NOUN	NN	_	8	nmod	_	_
+12	tradisional	_	ADJ	JJ	_	11	amod	_	_
+13	pengubah	_	NOUN	NN	_	11	nmod:npmod	_	_
+14	suasana	_	NOUN	NN	_	13	compound	_	_
+15	hati	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	3	punct	_	_
+17	perusahaan-perusahaan	_	NOUN	NN	_	18	nsubj	_	_
+18	bertanya-tanya	_	VERB	VV	_	0	root	_	_
+
+# sent_id = n01076017
+# text = Ny. Clinton memiliki reputasi untuk pandangan seperti mata elang, tapi ini akan dirusak oleh opini publik di AS yang sudah jemu tentang perang.
+# text_en = Mrs Clinton has a reputation for a hawkish outlook, but this will be tempered by war-weary public opinion in the US.
+1	Ny.	_	PROPN	NNP	_	3	nsubj	_	_
+2	Clinton	_	PROPN	NNP	_	1	flat	_	_
+3	memiliki	_	VERB	VV	_	0	root	_	_
+4	reputasi	_	NOUN	NN	_	3	obj	_	_
+5	untuk	_	ADP	IN	_	6	case	_	_
+6	pandangan	_	NOUN	NN	_	4	nmod	_	_
+7	seperti	_	ADP	IN	_	8	case	_	_
+8	mata	_	NOUN	NN	_	6	nmod	_	_
+9	elang	_	NOUN	NN	_	8	compound	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	14	punct	_	_
+11	tapi	_	CCONJ	CC	_	14	cc	_	_
+12	ini	_	PRON	PRP	_	14	nsubj:pass	_	_
+13	akan	_	AUX	MD	_	14	aux	_	_
+14	dirusak	_	VERB	VV	_	3	conj	_	_
+15	oleh	_	ADP	IN	_	16	case	_	_
+16	opini	_	NOUN	NN	_	14	obl	_	_
+17	publik	_	NOUN	NN	_	16	compound	_	_
+18	di	_	ADP	IN	_	19	case	_	_
+19	AS	_	PROPN	NNP	_	17	nmod	_	_
+20	yang	_	PRON	WP	_	22	nsubj	_	_
+21	sudah	_	AUX	MD	_	22	aux	_	_
+22	jemu	_	VERB	VV	_	17	acl:relcl	_	_
+23	tentang	_	ADP	IN	_	24	case	_	_
+24	perang	_	NOUN	NN	_	22	obl	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n03003036
+# text = Mayoritas pihak ketiga diperlukan, khususnya suara 367 MP (dari 550), walaupun 330 suara diperlukan untuk memicu referendum.
+# text_en = A third-party majority is needed, specifically the votes of 367 MPs (out of 550), whereas 330 votes are required in order to trigger a referendum.
+1	Mayoritas	_	NOUN	NN	_	4	nsubj:pass	_	_
+2	pihak	_	NOUN	NN	_	1	nmod:npmod	_	_
+3	ketiga	_	ADJ	JJ	_	2	amod	_	_
+4	diperlukan	_	VERB	VV	_	0	root	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	7	punct	_	_
+6	khususnya	_	ADV	IN	_	7	advmod	_	_
+7	suara	_	NOUN	NN	_	4	obl:mod	_	_
+8	367	_	NUM	CD	_	9	nummod	_	_
+9	MP	_	NOUN	NN	_	7	nmod:npmod	_	_
+10	(	_	PUNCT	(	_	12	punct	_	SpaceAfter=No
+11	dari	_	ADP	IN	_	12	case	_	_
+12	550	_	NUM	CD	_	9	nmod	_	SpaceAfter=No
+13	)	_	PUNCT	)	_	12	punct	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	18	punct	_	_
+15	walaupun	_	SCONJ	SC	_	18	mark	_	_
+16	330	_	NUM	CD	_	17	nummod	_	_
+17	suara	_	NOUN	NN	_	18	nsubj:pass	_	_
+18	diperlukan	_	VERB	VV	_	4	advcl	_	_
+19	untuk	_	SCONJ	SC	_	20	mark	_	_
+20	memicu	_	VERB	VV	_	18	advcl	_	_
+21	referendum	_	NOUN	NN	_	20	obj	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w01095090
+# text = Dalam kasus keluarga kekaisaran, dipandang sangat tidak pantas untuk menggunakan nama depan.
+# text_en = In the case of the imperial family, it is considered extremely inappropriate to use the given name.
+1	Dalam	_	ADP	IN	_	2	case	_	_
+2	kasus	_	NOUN	NN	_	6	obl	_	_
+3	keluarga	_	NOUN	NN	_	2	nmod:npmod	_	_
+4	kekaisaran	_	NOUN	NN	_	3	compound	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	dipandang	_	VERB	VV	_	0	root	_	_
+7	sangat	_	ADV	RB	_	9	advmod	_	_
+8	tidak	_	PART	NEG	_	9	advmod	_	_
+9	pantas	_	ADJ	JJ	_	6	xcomp	_	_
+10	untuk	_	SCONJ	SC	_	11	mark	_	_
+11	menggunakan	_	VERB	VV	_	6	csubj:pass	_	_
+12	nama	_	NOUN	NN	_	11	obj	_	_
+13	depan	_	NOUN	NN	_	12	compound	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w01133016
+# text = Secara bersamaan pada pertengahan tahun 1970-an, Starlin menyumbangkan sebuah koleksi cerita ke antologi fiksi ilmiah yang diterbitkan secara independen, Star Reach.
+# text_en = Concurrently in the mid-1970s, Starlin contributed a cache of stories to the independently published science-fiction anthology Star Reach.
+1	Secara	_	ADP	IN	_	2	case:adv	_	_
+2	bersamaan	_	ADV	RB	_	9	advmod	_	_
+3	pada	_	ADP	IN	_	5	case	_	_
+4	pertengahan	_	NOUN	NN	_	5	nmod:npmod	_	_
+5	tahun	_	NOUN	NN	_	9	obl	_	_
+6	1970-an	_	NUM	CD	_	5	nummod	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	5	punct	_	_
+8	Starlin	_	PROPN	NNP	_	9	nsubj	_	_
+9	menyumbangkan	_	VERB	VV	_	0	root	_	_
+10	sebuah	_	DET	DT	_	11	det	_	_
+11	koleksi	_	NOUN	NN	_	9	obj	_	_
+12	cerita	_	NOUN	NN	_	11	compound	_	_
+13	ke	_	ADP	IN	_	14	case	_	_
+14	antologi	_	NOUN	NN	_	9	obl	_	_
+15	fiksi	_	NOUN	NN	_	14	compound	_	_
+16	ilmiah	_	ADJ	JJ	_	15	amod	_	_
+17	yang	_	PRON	WP	_	18	nsubj:pass	_	_
+18	diterbitkan	_	VERB	VV	_	14	acl:relcl	_	_
+19	secara	_	ADP	IN	_	20	case:adv	_	_
+20	independen	_	ADV	RB	_	18	advmod	_	SpaceAfter=No
+21	,	_	PUNCT	,	_	22	punct	_	_
+22	Star	_	PROPN	NNP	_	14	appos	_	_
+23	Reach	_	PROPN	NNP	_	22	flat	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = w02001069
+# text = Dedikasi pesta ini berlangsung pada 30 April 1955.
+# text_en = The festive dedication took place on April 30, 1955.
+1	Dedikasi	_	NOUN	NN	_	4	nsubj	_	_
+2	pesta	_	NOUN	NN	_	1	compound	_	_
+3	ini	_	DET	DT	_	1	det	_	_
+4	berlangsung	_	VERB	VV	_	0	root	_	_
+5	pada	_	ADP	IN	_	6	case	_	_
+6	30	_	NUM	CD	_	4	obl	_	_
+7	April	_	PROPN	NNP	_	6	flat	_	_
+8	1955	_	NUM	CD	_	6	flat	_	SpaceAfter=No
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01111021
+# text = Diikuti dengan Aviva Investors MultiStrategy Target Return dan Penghasilan, yang ke dalamnya investor memasukkan masing-masing £ 2 miliar dan £ 1,4 miliar.
+# text_en = It was followed by the Aviva Investors Multi Strategy Target Return and Income funds, into which investors put £2bn and £1.4bn respectively.
+1	Diikuti	_	VERB	VV	_	0	root	_	_
+2	dengan	_	ADP	IN	_	3	case	_	_
+3	Aviva	_	PROPN	NNP	_	1	obl	_	_
+4	Investors	_	PROPN	NNP	_	3	flat	_	_
+5	MultiStrategy	_	PROPN	NNP	_	3	flat	_	_
+6	Target	_	PROPN	NNP	_	3	flat	_	_
+7	Return	_	PROPN	NNP	_	3	flat	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	Penghasilan	_	NOUN	NN	_	7	conj	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	16	punct	_	_
+11	yang	_	SCONJ	SC	_	16	mark	_	_
+12	ke	_	ADP	IN	_	14	case	_	_
+13	dalam	_	NOUN	NN	_	14	nmod:npmod	_	SpaceAfter=No
+14	nya	_	PRON	PRP	_	16	obl	_	_
+15	investor	_	NOUN	NN	_	16	nsubj	_	_
+16	memasukkan	_	VERB	VV	_	3	acl:relcl	_	_
+17	masing-masing	_	DET	DT	_	18	det	_	_
+18	£	_	SYM	SYM	_	16	obj	_	_
+19	2	_	NUM	CD	_	18	nummod	_	_
+20	miliar	_	NUM	CD	_	19	flat	_	_
+21	dan	_	CCONJ	CC	_	22	cc	_	_
+22	£	_	SYM	SYM	_	18	conj	_	_
+23	1,4	_	NUM	CD	_	22	nummod	_	_
+24	miliar	_	NUM	CD	_	23	flat	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = n01072021
+# text = Salah satu dari banyak postingan belasungkawa di Facebook pasti akan sangat menggembirakan Chris: "Saya tidak kenal seorang pun, yang lebih afrika dari kamu. “
+# text_en = One of their many grieving Facebook posts has a line which would have delighted Chris: “More African than you, I have not known.”
+1	Salah	_	PART	RP	_	2	compound:prt	_	_
+2	satu	_	NUM	CD	_	12	nsubj	_	_
+3	dari	_	ADP	IN	_	5	case	_	_
+4	banyak	_	DET	DT	_	5	det	_	_
+5	postingan	_	NOUN	NN	_	2	nmod	_	_
+6	belasungkawa	_	NOUN	NN	_	5	compound	_	_
+7	di	_	ADP	IN	_	8	case	_	_
+8	Facebook	_	PROPN	NNP	_	5	nmod	_	_
+9	pasti	_	ADV	RB	_	12	advmod	_	_
+10	akan	_	AUX	MD	_	12	aux	_	_
+11	sangat	_	ADV	RB	_	12	advmod	_	_
+12	menggembirakan	_	VERB	VV	_	0	root	_	_
+13	Chris	_	PROPN	NNP	_	12	obj	_	SpaceAfter=No
+14	:	_	PUNCT	:	_	18	punct	_	_
+15	"	_	PUNCT	``	_	18	punct	_	SpaceAfter=No
+16	Saya	_	PRON	PRP	_	18	nsubj	_	_
+17	tidak	_	PART	NEG	_	18	advmod	_	_
+18	kenal	_	VERB	VV	_	12	parataxis	_	_
+19	seorang	_	NOUN	NN	_	18	obl:mod	_	_
+20	pun	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No
+21	,	_	PUNCT	,	_	24	punct	_	_
+22	yang	_	PRON	WP	_	24	nsubj	_	_
+23	lebih	_	ADV	RB	_	24	advmod	_	_
+24	afrika	_	NOUN	NN	_	19	acl:relcl	_	_
+25	dari	_	ADP	IN	_	26	case	_	_
+26	kamu	_	PRON	PRP	_	24	nmod	_	SpaceAfter=No
+27	.	_	PUNCT	.	_	18	punct	_	_
+28	“	_	PUNCT	''	_	18	punct	_	_
+
+# sent_id = n02027021
+# text = Undang-undang ini menggambarkan sejumlah kondisi yang jika dipenuhi dapat membuat perjanjian itu kembali berlaku: AS harus menarik semua pasukannya dari negara-negara yang bergabung dengan NATO setelah tahun 2000, menghapus semua sanksi terhadap Rusia serta mengganti rugi semua biaya yang telah timbul akibat sanksi itu.
+# text_en = The law delineates a number of conditions whose fulfillment could bring the agreement back into effect: the USA would have to withdraw all of its troops from countries who joined NATO after 2000, rescind all of the sanctions against Russia as well as reimburse the costs that have been incurred as a result of the sanctions.
+1	Undang-undang	_	NOUN	NN	_	3	nsubj	_	_
+2	ini	_	DET	DT	_	1	det	_	_
+3	menggambarkan	_	VERB	VV	_	0	root	_	_
+4	sejumlah	_	NOUN	NN	_	3	obj	_	_
+5	kondisi	_	NOUN	NN	_	4	nmod:npmod	_	_
+6	yang	_	PRON	WP	_	10	nsubj	_	_
+7	jika	_	SCONJ	SC	_	8	mark	_	_
+8	dipenuhi	_	VERB	VV	_	5	acl:relcl	_	_
+9	dapat	_	AUX	MD	_	10	aux	_	_
+10	membuat	_	VERB	VV	_	5	acl	_	_
+11	perjanjian	_	NOUN	NN	_	10	obj	_	_
+12	itu	_	DET	DT	_	11	det	_	_
+13	kembali	_	ADV	RB	_	14	advmod	_	_
+14	berlaku	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
+15	:	_	PUNCT	:	_	3	punct	_	_
+16	AS	_	PROPN	NNP	_	18	nsubj	_	_
+17	harus	_	AUX	MD	_	18	aux	_	_
+18	menarik	_	VERB	VV	_	3	parataxis	_	_
+19	semua	_	DET	DT	_	20	det	_	_
+20	pasukan	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
+21	nya	_	DET	PRP$	_	20	nmod:poss	_	_
+22	dari	_	ADP	IN	_	23	case	_	_
+23	negara-negara	_	NOUN	NN	_	18	obl	_	_
+24	yang	_	PRON	WP	_	25	nsubj	_	_
+25	bergabung	_	VERB	VV	_	23	acl:relcl	_	_
+26	dengan	_	ADP	IN	_	27	case	_	_
+27	NATO	_	PROPN	NNP	_	25	obl	_	_
+28	setelah	_	ADP	IN	_	29	case	_	_
+29	tahun	_	NOUN	NN	_	25	obl	_	_
+30	2000	_	NUM	CD	_	29	nummod	_	SpaceAfter=No
+31	,	_	PUNCT	,	_	32	punct	_	_
+32	menghapus	_	VERB	VV	_	18	conj	_	_
+33	semua	_	DET	DT	_	34	det	_	_
+34	sanksi	_	NOUN	NN	_	32	obj	_	_
+35	terhadap	_	ADP	IN	_	36	case	_	_
+36	Rusia	_	PROPN	NNP	_	34	nmod	_	_
+37	serta	_	CCONJ	CC	_	38	cc	_	_
+38	mengganti	_	VERB	VV	_	18	conj	_	_
+39	rugi	_	PART	RP	_	38	compound:prt	_	_
+40	semua	_	DET	DT	_	41	det	_	_
+41	biaya	_	NOUN	NN	_	38	obj	_	_
+42	yang	_	PRON	WP	_	44	nsubj	_	_
+43	telah	_	AUX	MD	_	44	aux	_	_
+44	timbul	_	VERB	VV	_	41	acl:relcl	_	_
+45	akibat	_	ADP	IN	_	46	case	_	_
+46	sanksi	_	NOUN	NN	_	44	obl	_	_
+47	itu	_	DET	DT	_	46	det	_	SpaceAfter=No
+48	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01002058
+# text = Apa yang ia katakan dan apa yang ia lakukan — sesungguhnya, luar biasa.
+# text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
+1	Apa	_	PRON	WP	_	14	nsubj	_	_
+2	yang	_	SCONJ	SC	_	4	mark	_	_
+3	ia	_	PRON	PRP	_	4	nsubj	_	_
+4	katakan	_	VERB	VV	_	1	acl:relcl	_	_
+5	dan	_	CCONJ	CC	_	6	cc	_	_
+6	apa	_	PRON	WP	_	1	conj	_	_
+7	yang	_	SCONJ	SC	_	9	mark	_	_
+8	ia	_	PRON	PRP	_	9	nsubj	_	_
+9	lakukan	_	VERB	VV	_	6	acl:relcl	_	_
+10	—	_	PUNCT	HYPH	_	1	punct	_	_
+11	sesungguhnya	_	ADV	RB	_	14	advmod	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	luar	_	PART	RP	_	14	compound:prt	_	_
+14	biasa	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = w01018029
+# text = Pada 1 Oktober 1961, bekas Kamerun Selatan yang dikuasai Inggris bersatu dengan Kamerun Prancis untuk membentuk Republik Federal Kamerun.
+# text_en = On 1 October 1961, the formerly British Southern Cameroons united with French Cameroun to form the Federal Republic of Cameroon.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	1	_	NUM	CD	_	12	obl	_	_
+3	Oktober	_	PROPN	NNP	_	2	flat	_	_
+4	1961	_	NUM	CD	_	2	flat	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	bekas	_	ADJ	JJ	_	7	amod	_	_
+7	Kamerun	_	PROPN	NNP	_	12	nsubj	_	_
+8	Selatan	_	PROPN	NNP	_	7	flat	_	_
+9	yang	_	PRON	WP	_	10	nsubj:pass	_	_
+10	dikuasai	_	VERB	VV	_	6	acl:relcl	_	_
+11	Inggris	_	PROPN	NNP	_	10	obl	_	_
+12	bersatu	_	VERB	VV	_	0	root	_	_
+13	dengan	_	ADP	IN	_	14	case	_	_
+14	Kamerun	_	PROPN	NNP	_	12	obl	_	_
+15	Prancis	_	PROPN	NNP	_	14	flat	_	_
+16	untuk	_	SCONJ	SC	_	17	mark	_	_
+17	membentuk	_	VERB	VV	_	12	advcl	_	_
+18	Republik	_	PROPN	NNP	_	17	obj	_	_
+19	Federal	_	PROPN	NNP	_	18	flat	_	_
+20	Kamerun	_	PROPN	NNP	_	18	flat	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = n02033113
+# text = Surat kabar "Die ZEIT" pertama-tama meminta informasi dari bisnis real estate itu tentang arus kasnya yang kurang dapat dipercaya dan ancaman bangkrut pada bulan Juli.
+# text_en = The newspaper "Die ZEIT" first inquired with the real estate business about its dubious cash flows and the threat of insolvency in July.
+1	Surat	_	NOUN	NN	_	8	nsubj	_	_
+2	kabar	_	NOUN	NN	_	1	compound	_	_
+3	"	_	PUNCT	``	_	4	punct	_	SpaceAfter=No
+4	Die	_	PROPN	NNP	_	1	nmod:npmod	_	_
+5	ZEIT	_	PROPN	NNP	_	4	flat	_	SpaceAfter=No
+6	"	_	PUNCT	''	_	4	punct	_	_
+7	pertama-tama	_	ADV	RB	_	8	advmod	_	_
+8	meminta	_	VERB	VV	_	0	root	_	_
+9	informasi	_	NOUN	NN	_	8	obj	_	_
+10	dari	_	ADP	IN	_	11	case	_	_
+11	bisnis	_	NOUN	NN	_	9	nmod	_	_
+12	real	_	X	FW	_	11	nmod:npmod	_	_
+13	estate	_	X	FW	_	12	flat:foreign	_	_
+14	itu	_	DET	DT	_	11	det	_	_
+15	tentang	_	ADP	IN	_	16	case	_	_
+16	arus	_	NOUN	NN	_	9	nmod	_	_
+17	kas	_	NOUN	NN	_	16	compound	_	SpaceAfter=No
+18	nya	_	DET	PRP$	_	16	nmod:poss	_	_
+19	yang	_	PRON	WP	_	22	nsubj:pass	_	_
+20	kurang	_	ADV	RB	_	22	advmod	_	_
+21	dapat	_	AUX	MD	_	22	aux	_	_
+22	dipercaya	_	VERB	VV	_	16	acl:relcl	_	_
+23	dan	_	CCONJ	CC	_	24	cc	_	_
+24	ancaman	_	NOUN	NN	_	16	conj	_	_
+25	bangkrut	_	VERB	VV	_	24	acl	_	_
+26	pada	_	ADP	IN	_	27	case	_	_
+27	bulan	_	NOUN	NN	_	24	nmod	_	_
+28	Juli	_	PROPN	NNP	_	27	nmod:npmod	_	SpaceAfter=No
+29	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = n02082017
+# text = Kontaminan itu tak hanya menyerang paru-paru bayi yang belum berkembang; kontaminan itu juga bisa mengakibatkan kerusakan jangka panjang dalam perkembangan otak dewasa.
+# text_en = The contaminants not only attack the undeveloped lungs of the little ones; they can also lead to long-term impairment in the development of the adolescent brain.
+1	Kontaminan	_	NOUN	NN	_	5	nsubj	_	_
+2	itu	_	DET	DT	_	1	det	_	_
+3	tak	_	PART	NEG	_	5	advmod	_	_
+4	hanya	_	ADV	RB	_	5	advmod	_	_
+5	menyerang	_	VERB	VV	_	0	root	_	_
+6	paru-paru	_	NOUN	NN	_	5	obj	_	_
+7	bayi	_	NOUN	NN	_	6	nmod:npmod	_	_
+8	yang	_	PRON	WP	_	10	nsubj	_	_
+9	belum	_	PART	NEG	_	10	advmod	_	_
+10	berkembang	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No
+11	;	_	PUNCT	:	_	16	punct	_	_
+12	kontaminan	_	NOUN	NN	_	16	nsubj	_	_
+13	itu	_	DET	DT	_	12	det	_	_
+14	juga	_	ADV	RB	_	16	advmod	_	_
+15	bisa	_	AUX	MD	_	16	aux	_	_
+16	mengakibatkan	_	VERB	VV	_	5	parataxis	_	_
+17	kerusakan	_	NOUN	NN	_	16	obj	_	_
+18	jangka	_	NOUN	NN	_	17	nmod:npmod	_	_
+19	panjang	_	ADJ	JJ	_	18	amod	_	_
+20	dalam	_	ADP	IN	_	21	case	_	_
+21	perkembangan	_	NOUN	NN	_	17	nmod	_	_
+22	otak	_	NOUN	NN	_	21	compound	_	_
+23	dewasa	_	ADJ	JJ	_	22	amod	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n02050052
+# text = Sudah jelas: Manusia bisa lebih bertanggung jawab dalam hal kontrasepsi.
+# text_en = It's clear: Men could have more responsibility in matters of contraception.
+1	Sudah	_	AUX	MD	_	2	aux	_	_
+2	jelas	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
+3	:	_	PUNCT	:	_	2	punct	_	_
+4	Manusia	_	NOUN	NN	_	7	nsubj	_	_
+5	bisa	_	AUX	MD	_	7	aux	_	_
+6	lebih	_	ADV	RB	_	7	advmod	_	_
+7	bertanggung	_	VERB	VV	_	2	csubj	_	_
+8	jawab	_	PART	RP	_	7	compound:prt	_	_
+9	dalam	_	ADP	IN	_	10	case	_	_
+10	hal	_	NOUN	NN	_	7	obl	_	_
+11	kontrasepsi	_	NOUN	NN	_	10	nmod:npmod	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n04007018
+# text = Inilah yang telah ditulis dalam sebuah catatan untuk Mps setelah keputusan mantan menteri tersebut untuk keluar dari partai.
+# text_en = This is what has been written in a note to Mps after the decision of the ex-minister to leave the party.
+1	Ini	_	PRON	PRD	_	0	root	_	SpaceAfter=No
+2	lah	_	PART	RP	_	1	dep:prt	_	_
+3	yang	_	PRON	WP	_	5	nsubj:pass	_	_
+4	telah	_	AUX	MD	_	5	aux	_	_
+5	ditulis	_	VERB	VV	_	1	csubj	_	_
+6	dalam	_	ADP	IN	_	8	case	_	_
+7	sebuah	_	DET	DT	_	8	det	_	_
+8	catatan	_	NOUN	NN	_	5	obl	_	_
+9	untuk	_	ADP	IN	_	10	case	_	_
+10	Mps	_	PROPN	NNP	_	8	nmod	_	_
+11	setelah	_	ADP	IN	_	12	case	_	_
+12	keputusan	_	NOUN	NN	_	5	obl	_	_
+13	mantan	_	ADJ	JJ	_	14	amod	_	_
+14	menteri	_	NOUN	NN	_	12	nmod:poss	_	_
+15	tersebut	_	DET	VV	_	14	det	_	_
+16	untuk	_	SCONJ	SC	_	17	mark	_	_
+17	keluar	_	VERB	VV	_	12	acl	_	_
+18	dari	_	ADP	IN	_	19	case	_	_
+19	partai	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = n05002004
+# text = Untuk pertama kalinya dalam enam tahun terakhir, tingkat pengangguran telah turun di bawah 20%, dan sudah ada 600.000 orang lebih yang bekerja dibandingkan tahun lalu.
+# text_en = For the first time in the last six years the rate of unemployment has dropped below 20%, and there are already 600,000 more people employed than there were a year ago.
+1	Untuk	_	ADP	IN	_	3	case	_	_
+2	pertama	_	ADJ	JJ	_	3	amod	_	_
+3	kali	_	NOUN	NNB	_	13	obl	_	SpaceAfter=No
+4	nya	_	DET	DT	_	3	det	_	_
+5	dalam	_	ADP	IN	_	7	case	_	_
+6	enam	_	NUM	CD	_	7	nummod	_	_
+7	tahun	_	NOUN	NN	_	3	nmod	_	_
+8	terakhir	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	3	punct	_	_
+10	tingkat	_	NOUN	NN	_	13	nsubj	_	_
+11	pengangguran	_	NOUN	NN	_	10	compound	_	_
+12	telah	_	AUX	MD	_	13	aux	_	_
+13	turun	_	VERB	VV	_	0	root	_	_
+14	di	_	ADP	IN	_	17	case	_	_
+15	bawah	_	NOUN	NN	_	17	nmod:npmod	_	_
+16	20	_	NUM	CD	_	17	nummod	_	SpaceAfter=No
+17	%	_	SYM	SYM	_	13	obl	_	SpaceAfter=No
+18	,	_	PUNCT	,	_	21	punct	_	_
+19	dan	_	CCONJ	CC	_	21	cc	_	_
+20	sudah	_	AUX	MD	_	21	aux	_	_
+21	ada	_	VERB	VV	_	13	conj	_	_
+22	600.000	_	NUM	CD	_	23	nummod	_	_
+23	orang	_	NOUN	NN	_	21	nsubj	_	_
+24	lebih	_	ADV	RB	_	23	advmod	_	_
+25	yang	_	PRON	WP	_	26	nsubj	_	_
+26	bekerja	_	VERB	VV	_	23	acl:relcl	_	_
+27	dibandingkan	_	VERB	VV	_	26	advcl	_	_
+28	tahun	_	NOUN	NN	_	27	obl:tmod	_	_
+29	lalu	_	VERB	VV	_	28	acl	_	SpaceAfter=No
+30	.	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = w02008038
+# text = Kemungkinan orang yang paling terkenal dari Zaman Tembaga adalah Ötzi, mummy beku yang hidup selama 3300 BC.
+# text_en = Likely the most well-known person from the Copper Age is Ötzi, the frozen mummy who lived during 3300 BC.
+1	Kemungkinan	_	ADV	RB	_	10	advmod	_	_
+2	orang	_	NOUN	NN	_	10	nsubj	_	_
+3	yang	_	PRON	WP	_	5	nsubj:pass	_	_
+4	paling	_	ADV	RB	_	5	advmod	_	_
+5	terkenal	_	VERB	VV	_	2	acl:relcl	_	_
+6	dari	_	ADP	IN	_	7	case	_	_
+7	Zaman	_	PROPN	NNP	_	2	nmod	_	_
+8	Tembaga	_	PROPN	NNP	_	7	flat	_	_
+9	adalah	_	AUX	VC	_	10	cop	_	_
+10	Ötzi	_	PROPN	NNP	_	0	root	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	12	punct	_	_
+12	mummy	_	NOUN	NN	_	10	appos	_	_
+13	beku	_	ADJ	JJ	_	12	amod	_	_
+14	yang	_	PRON	WP	_	15	nsubj	_	_
+15	hidup	_	VERB	VV	_	12	acl:relcl	_	_
+16	selama	_	ADP	IN	_	17	case	_	_
+17	3300	_	NUM	CD	_	15	obl	_	_
+18	BC	_	NOUN	NN	_	17	flat	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = w01140033
+# text = Mendapatkan pengakuran sebagai pakar di bidang itu, ia membawa keterampilan itu kembali ke Radium Institute bersama satu wadah cakram kecil polonium.
+# text_en = Gaining recognition as an expert in the field, she took those skills back to the Radium Institute along with a small disc of polonium.
+1	Mendapatkan	_	VERB	VV	_	10	advcl	_	_
+2	pengakuran	_	NOUN	NN	_	1	obj	_	_
+3	sebagai	_	ADP	IN	_	4	case	_	_
+4	pakar	_	NOUN	NN	_	2	nmod	_	_
+5	di	_	ADP	IN	_	6	case	_	_
+6	bidang	_	NOUN	NN	_	4	nmod	_	_
+7	itu	_	DET	DT	_	6	det	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	1	punct	_	_
+9	ia	_	PRON	PRP	_	10	nsubj	_	_
+10	membawa	_	VERB	VV	_	0	root	_	_
+11	keterampilan	_	NOUN	NN	_	10	obj	_	_
+12	itu	_	DET	DT	_	11	det	_	_
+13	kembali	_	VERB	VV	_	10	advcl	_	_
+14	ke	_	ADP	IN	_	15	case	_	_
+15	Radium	_	PROPN	NNP	_	13	obl	_	_
+16	Institute	_	PROPN	NNP	_	15	flat	_	_
+17	bersama	_	ADP	IN	_	19	case	_	_
+18	satu	_	NUM	CD	_	19	nummod	_	_
+19	wadah	_	NOUN	NN	_	13	obl	_	_
+20	cakram	_	NOUN	NN	_	19	compound	_	_
+21	kecil	_	ADJ	JJ	_	19	amod	_	_
+22	polonium	_	NOUN	NN	_	19	nmod:npmod	_	SpaceAfter=No
+23	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = n01020017
+# text = Tentunya Tiongkok akan menyajikan banyak perangkat keras militer lain minggu ini mulai dari helikopter serangan hingga pesawat laut.
+# text_en = Naturally China will be presenting plenty of other military hardware this week from attack helicopters to seaplanes.
+1	Tentunya	_	ADV	RB	_	4	advmod	_	_
+2	Tiongkok	_	PROPN	NNP	_	4	nsubj	_	_
+3	akan	_	AUX	MD	_	4	aux	_	_
+4	menyajikan	_	VERB	VV	_	0	root	_	_
+5	banyak	_	DET	DT	_	6	det	_	_
+6	perangkat	_	NOUN	NN	_	4	obj	_	_
+7	keras	_	ADJ	JJ	_	6	amod	_	_
+8	militer	_	NOUN	NN	_	6	nmod:npmod	_	_
+9	lain	_	ADJ	JJ	_	6	amod	_	_
+10	minggu	_	NOUN	NN	_	4	obl:tmod	_	_
+11	ini	_	DET	DT	_	10	det	_	_
+12	mulai	_	VERB	VV	_	6	acl	_	_
+13	dari	_	ADP	IN	_	14	case	_	_
+14	helikopter	_	NOUN	NN	_	12	obl	_	_
+15	serangan	_	NOUN	NN	_	14	compound	_	_
+16	hingga	_	ADP	IN	_	17	case	_	_
+17	pesawat	_	NOUN	NN	_	14	nmod	_	_
+18	laut	_	NOUN	NN	_	17	compound	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n02052023
+# text = Menurut iman Kristiani, kuburan yang ditanam dalam batu kapur itu adalah tempat peristirahatan terakhir Yesus.
+# text_en = According to Christian belief, a grave which had been embedded in the chalkstone was the last resting place of Jesus.
+1	Menurut	_	ADP	IN	_	2	case	_	_
+2	iman	_	NOUN	NN	_	13	nmod	_	_
+3	Kristiani	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	kuburan	_	NOUN	NN	_	13	nsubj	_	_
+6	yang	_	PRON	WP	_	7	nsubj:pass	_	_
+7	ditanam	_	VERB	VV	_	5	acl:relcl	_	_
+8	dalam	_	ADP	IN	_	9	case	_	_
+9	batu	_	NOUN	NN	_	7	obl	_	_
+10	kapur	_	NOUN	NN	_	9	compound	_	_
+11	itu	_	DET	DT	_	9	det	_	_
+12	adalah	_	AUX	VC	_	13	cop	_	_
+13	tempat	_	NOUN	NN	_	0	root	_	_
+14	peristirahatan	_	NOUN	NN	_	13	compound	_	_
+15	terakhir	_	ADJ	JJ	_	13	amod	_	_
+16	Yesus	_	PROPN	NNP	_	13	nmod:poss	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = w01113074
+# text = Sebelum menjabat Jokowi meminta Presiden Yudhoyono yang akan selesai masa jabatannya untuk bertanggung jawab atas keputusan untuk menaikkan kembali harga bahan bakar minyak dengan menghilangkan subsidi lebih lanjut.
+# text_en = Prior to taking office Jokowi sought for outgoing President Yudhoyono to take responsibility for the decision to further increase fuel prices by further removing subsidies.
+1	Sebelum	_	SCONJ	SC	_	2	mark	_	_
+2	menjabat	_	VERB	VV	_	4	advcl	_	_
+3	Jokowi	_	PROPN	NNP	_	4	nsubj	_	_
+4	meminta	_	VERB	VV	_	0	root	_	_
+5	Presiden	_	PROPN	NNP	_	4	obj	_	_
+6	Yudhoyono	_	PROPN	NNP	_	5	flat	_	_
+7	yang	_	PRON	WP	_	9	nsubj	_	_
+8	akan	_	AUX	MD	_	9	aux	_	_
+9	selesai	_	VERB	VV	_	5	acl:relcl	_	_
+10	masa	_	NOUN	NN	_	9	nsubj	_	_
+11	jabatan	_	NOUN	NN	_	10	compound	_	SpaceAfter=No
+12	nya	_	DET	PRP$	_	10	nmod:poss	_	_
+13	untuk	_	SCONJ	SC	_	14	mark	_	_
+14	bertanggung	_	VERB	VV	_	4	advcl	_	_
+15	jawab	_	PART	RP	_	14	compound:prt	_	_
+16	atas	_	ADP	IN	_	17	case	_	_
+17	keputusan	_	NOUN	NN	_	14	obl	_	_
+18	untuk	_	SCONJ	SC	_	19	mark	_	_
+19	menaikkan	_	VERB	VV	_	17	acl	_	_
+20	kembali	_	ADV	RB	_	19	advmod	_	_
+21	harga	_	NOUN	NN	_	19	obj	_	_
+22	bahan	_	NOUN	NN	_	21	nmod:npmod	_	_
+23	bakar	_	VERB	VV	_	22	acl	_	_
+24	minyak	_	NOUN	NN	_	22	nmod:npmod	_	_
+25	dengan	_	SCONJ	SC	_	26	mark	_	_
+26	menghilangkan	_	VERB	VV	_	19	advcl	_	_
+27	subsidi	_	NOUN	NN	_	26	obj	_	_
+28	lebih	_	ADV	RB	_	29	advmod	_	_
+29	lanjut	_	ADJ	JJ	_	26	advcl	_	SpaceAfter=No
+30	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w01150044
+# text = The Great Powers tidak memenuhi permintaan akan pengakuan Albania.
+# text_en = The Great Powers did not fulfill the requests for recognition of Albania.
+1	The	_	PROPN	NNP	_	5	nsubj	_	_
+2	Great	_	PROPN	NNP	_	1	flat	_	_
+3	Powers	_	PROPN	NNP	_	1	flat	_	_
+4	tidak	_	PART	NEG	_	5	advmod	_	_
+5	memenuhi	_	VERB	VV	_	0	root	_	_
+6	permintaan	_	NOUN	NN	_	5	obj	_	_
+7	akan	_	ADP	IN	_	8	case	_	_
+8	pengakuan	_	NOUN	NN	_	6	nmod	_	_
+9	Albania	_	PROPN	NNP	_	8	nmod:npmod	_	SpaceAfter=No
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w01136074
+# text = Joseph Schenck tertarik untuk men-casting istrinya, Norma Talmadge, menjadi lawan main Valentino dalam sebuah versi Romeo dan Juliet.
+# text_en = Joseph Schenck was interested in casting his wife, Norma Talmadge, opposite Valentino in a version of Romeo and Juliet.
+1	Joseph	_	PROPN	NNP	_	3	nsubj:pass	_	_
+2	Schenck	_	PROPN	NNP	_	1	flat	_	_
+3	tertarik	_	VERB	VV	_	0	root	_	_
+4	untuk	_	SCONJ	SC	_	5	mark	_	_
+5	men-casting	_	VERB	VV	_	3	advcl	_	_
+6	istri	_	NOUN	NN	_	5	obj	_	SpaceAfter=No
+7	nya	_	DET	PRP$	_	6	nmod:poss	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	9	punct	_	_
+9	Norma	_	PROPN	NNP	_	6	appos	_	_
+10	Talmadge	_	PROPN	NNP	_	9	flat	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	9	punct	_	_
+12	menjadi	_	VERB	VV	_	5	advcl	_	_
+13	lawan	_	NOUN	NN	_	12	obl:mod	_	_
+14	main	_	VERB	VV	_	13	acl	_	_
+15	Valentino	_	PROPN	NNP	_	13	nmod:poss	_	_
+16	dalam	_	ADP	IN	_	18	case	_	_
+17	sebuah	_	DET	DT	_	18	det	_	_
+18	versi	_	NOUN	NN	_	13	nmod	_	_
+19	Romeo	_	PROPN	NNP	_	18	nmod:npmod	_	_
+20	dan	_	CCONJ	CC	_	21	cc	_	_
+21	Juliet	_	PROPN	NNP	_	19	conj	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01032032
+# text = Namun, ada banyak MLA yang berpegang teguh pada keyakinan agama yang menentang legislasi baru.
+# text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
+1	Namun	_	CCONJ	CC	_	3	cc	_	SpaceAfter=No
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	ada	_	VERB	VV	_	0	root	_	_
+4	banyak	_	DET	DT	_	5	det	_	_
+5	MLA	_	NOUN	NN	_	3	nsubj	_	_
+6	yang	_	PRON	WP	_	7	nsubj	_	_
+7	berpegang	_	VERB	VV	_	5	acl:relcl	_	_
+8	teguh	_	ADJ	JJ	_	7	advmod	_	_
+9	pada	_	ADP	IN	_	10	case	_	_
+10	keyakinan	_	NOUN	NN	_	7	obl	_	_
+11	agama	_	NOUN	NN	_	10	compound	_	_
+12	yang	_	PRON	WP	_	13	nsubj	_	_
+13	menentang	_	VERB	VV	_	10	acl:relcl	_	_
+14	legislasi	_	NOUN	NN	_	13	obj	_	_
+15	baru	_	ADJ	JJ	_	14	amod	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w02015088
+# text = Puing-puingnya dibangun kembali di kemudian hari.
+# text_en = The ruins were later built over.
+1	Puing-puing	_	NOUN	NN	_	3	nsubj:pass	_	SpaceAfter=No
+2	nya	_	DET	PRP$	_	1	nmod:poss	_	_
+3	dibangun	_	VERB	VV	_	0	root	_	_
+4	kembali	_	ADV	RB	_	3	advmod	_	_
+5	di	_	ADP	IN	_	7	case	_	_
+6	kemudian	_	ADV	RB	_	7	advmod	_	_
+7	hari	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
+8	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w04007037
+# text = Penghadangan armada kapal Villeneuve mengakibatkan penghentian rencana invasi British Isles, juga karena terjadi perkembangan baru di benua itu.
+# text_en = The blockage of Villeneuve's fleet resulted in giving up the invasion plan of the British Isles, also because new developments were taking place in the continent.
+1	Penghadangan	_	NOUN	NN	_	5	nsubj	_	_
+2	armada	_	NOUN	NN	_	1	nmod:npmod	_	_
+3	kapal	_	NOUN	NN	_	2	compound	_	_
+4	Villeneuve	_	PROPN	NNP	_	3	nmod:npmod	_	_
+5	mengakibatkan	_	VERB	VV	_	0	root	_	_
+6	penghentian	_	NOUN	NN	_	5	obj	_	_
+7	rencana	_	NOUN	NN	_	6	nmod:npmod	_	_
+8	invasi	_	NOUN	NN	_	7	compound	_	_
+9	British	_	PROPN	NNP	_	6	nmod:npmod	_	_
+10	Isles	_	PROPN	NNP	_	9	flat	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	14	punct	_	_
+12	juga	_	ADV	RB	_	14	advmod	_	_
+13	karena	_	SCONJ	SC	_	14	mark	_	_
+14	terjadi	_	VERB	VV	_	5	conj	_	_
+15	perkembangan	_	NOUN	NN	_	14	nsubj:pass	_	_
+16	baru	_	ADJ	JJ	_	15	amod	_	_
+17	di	_	ADP	IN	_	18	case	_	_
+18	benua	_	NOUN	NN	_	14	obl	_	_
+19	itu	_	DET	DT	_	18	det	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01099035
+# text = Setelah itu, menelusuri pasar pagi (6.30-10 pagi): lolipop beras, kepompong tawon (kepompongnya dianggap sebagai makanan lezat), paru-paru kerbau, kulit dan daun pinang, kecebong hidup dan ikan lele.
+# text_en = Afterwards, browse at the morning market (6.30-10am): rice lollipops, wasp cocoons (the pupae are considered a delicacy), buffalo lung, betel-nut bark and leaves, live toads and catfish.
+1	Setelah	_	ADP	IN	_	2	case	_	_
+2	itu	_	PRON	PRD	_	4	obl	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	menelusuri	_	VERB	VV	_	0	root	_	_
+5	pasar	_	NOUN	NN	_	4	obj	_	_
+6	pagi	_	NOUN	NN	_	5	compound	_	_
+7	(	_	PUNCT	(	_	5	punct	_	SpaceAfter=No
+8	6.30	_	NUM	CD	_	11	nummod	_	SpaceAfter=No
+9	-	_	PUNCT	HYPH	_	10	punct	_	SpaceAfter=No
+10	10	_	NUM	CD	_	8	flat:range	_	_
+11	pagi	_	NOUN	NN	_	5	parataxis	_	SpaceAfter=No
+12	)	_	PUNCT	)	_	5	punct	_	SpaceAfter=No
+13	:	_	PUNCT	:	_	14	punct	_	_
+14	lolipop	_	NOUN	NN	_	4	parataxis	_	_
+15	beras	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	17	punct	_	_
+17	kepompong	_	NOUN	NN	_	14	conj	_	_
+18	tawon	_	NOUN	NN	_	17	compound	_	_
+19	(	_	PUNCT	(	_	22	punct	_	SpaceAfter=No
+20	kepompong	_	NOUN	NN	_	22	nsubj:pass	_	SpaceAfter=No
+21	nya	_	PRON	PRP	_	20	nmod:poss	_	_
+22	dianggap	_	VERB	VV	_	17	parataxis	_	_
+23	sebagai	_	ADP	IN	_	24	case	_	_
+24	makanan	_	NOUN	NN	_	22	obl	_	_
+25	lezat	_	ADJ	JJ	_	24	amod	_	SpaceAfter=No
+26	)	_	PUNCT	)	_	22	punct	_	SpaceAfter=No
+27	,	_	PUNCT	,	_	28	punct	_	_
+28	paru-paru	_	NOUN	NN	_	14	conj	_	_
+29	kerbau	_	NOUN	NN	_	28	compound	_	SpaceAfter=No
+30	,	_	PUNCT	,	_	31	punct	_	_
+31	kulit	_	NOUN	NN	_	14	conj	_	_
+32	dan	_	CCONJ	CC	_	33	cc	_	_
+33	daun	_	NOUN	NN	_	31	conj	_	_
+34	pinang	_	NOUN	NN	_	31	compound	_	SpaceAfter=No
+35	,	_	PUNCT	,	_	36	punct	_	_
+36	kecebong	_	NOUN	NN	_	14	conj	_	_
+37	hidup	_	VERB	VV	_	36	acl	_	_
+38	dan	_	CCONJ	CC	_	39	cc	_	_
+39	ikan	_	NOUN	NN	_	14	conj	_	_
+40	lele	_	NOUN	NN	_	39	compound	_	SpaceAfter=No
+41	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01027007
+# text = Siapa mereka?
+# text_en = Who are they?
+1	Siapa	_	PRON	WP	_	0	root	_	_
+2	mereka	_	PRON	PRP	_	1	nsubj	_	SpaceAfter=No
+3	?	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = n01074015
+# text = Afrika Selatan hampir berada dalam titik tidak bisa kembali dan kita harus dapat menyamai keinginan mereka.
+# text_en = South Africa are almost at the point of no return and we have to be able to match their desire.
+1	Afrika	_	PROPN	NNP	_	4	nsubj	_	_
+2	Selatan	_	PROPN	NNP	_	1	flat	_	_
+3	hampir	_	ADV	RB	_	4	advmod	_	_
+4	berada	_	VERB	VV	_	0	root	_	_
+5	dalam	_	ADP	IN	_	6	case	_	_
+6	titik	_	NOUN	NN	_	4	obl	_	_
+7	tidak	_	PART	NEG	_	9	advmod	_	_
+8	bisa	_	AUX	MD	_	9	aux	_	_
+9	kembali	_	VERB	VV	_	6	acl	_	_
+10	dan	_	CCONJ	CC	_	14	cc	_	_
+11	kita	_	PRON	PRP	_	14	nsubj	_	_
+12	harus	_	AUX	MD	_	14	aux	_	_
+13	dapat	_	AUX	MD	_	14	aux	_	_
+14	menyamai	_	VERB	VV	_	4	conj	_	_
+15	keinginan	_	NOUN	NN	_	14	obj	_	_
+16	mereka	_	DET	PRP$	_	15	nmod:poss	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w01056103
+# text = Ini menetapkan dasar untuk integrasi di mana mekanisme ekonomi dan yudisial negara tersebut bisa diterapkan di seluruh Mediterania seperti yang pernah dilakukan dari Latium hingga seluruh Italia.
+# text_en = It set the basis for integration where the economic and judicial mechanisms of the state could be applied throughout the Mediterranean as was once done from Latium into all Italy.
+1	Ini	_	PRON	PRD	_	2	nsubj	_	_
+2	menetapkan	_	VERB	VV	_	0	root	_	_
+3	dasar	_	NOUN	NN	_	2	obj	_	_
+4	untuk	_	ADP	IN	_	5	case	_	_
+5	integrasi	_	NOUN	NN	_	3	nmod	_	_
+6	di	_	SCONJ	SC	_	15	mark	_	_
+7	mana	_	PRON	PRP	_	6	fixed	_	_
+8	mekanisme	_	NOUN	NN	_	15	nsubj:pass	_	_
+9	ekonomi	_	NOUN	NN	_	8	compound	_	_
+10	dan	_	CCONJ	CC	_	11	cc	_	_
+11	yudisial	_	ADJ	JJ	_	9	conj	_	_
+12	negara	_	NOUN	NN	_	8	compound	_	_
+13	tersebut	_	DET	VV	_	12	det	_	_
+14	bisa	_	AUX	MD	_	15	aux	_	_
+15	diterapkan	_	VERB	VV	_	3	acl	_	_
+16	di	_	ADP	IN	_	18	case	_	_
+17	seluruh	_	DET	DT	_	18	det	_	_
+18	Mediterania	_	PROPN	NNP	_	15	obl	_	_
+19	seperti	_	SCONJ	SC	_	22	mark	_	_
+20	yang	_	PRON	PRP	_	22	nsubj	_	_
+21	pernah	_	AUX	MD	_	22	aux	_	_
+22	dilakukan	_	VERB	VV	_	15	advcl	_	_
+23	dari	_	ADP	IN	_	24	case	_	_
+24	Latium	_	PROPN	NNP	_	22	obl	_	_
+25	hingga	_	ADP	IN	_	27	case	_	_
+26	seluruh	_	DET	DT	_	27	det	_	_
+27	Italia	_	PROPN	NNP	_	24	nmod	_	SpaceAfter=No
+28	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w01075039
+# text = Dengan kata lain: para pria muda (mayoritas pejuang dalam perang sipil) lebih tidak mungkin bergabung dengan sebuah pemberontakan jika mereka mendapatkan pendidikan atau memiliki gaji yang lumayan, dan patut dianggap bahwa mereka akan makmur di masa depan.
+# text_en = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
+1	Dengan	_	ADP	IN	_	2	case	_	_
+2	kata	_	NOUN	NN	_	18	obl	_	_
+3	lain	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
+4	:	_	PUNCT	:	_	2	punct	_	_
+5	para	_	DET	DT	_	6	det	_	_
+6	pria	_	NOUN	NN	_	17	nsubj	_	_
+7	muda	_	ADJ	JJ	_	6	amod	_	_
+8	(	_	PUNCT	(	_	9	punct	_	SpaceAfter=No
+9	mayoritas	_	NOUN	NN	_	6	appos	_	_
+10	pejuang	_	NOUN	NN	_	9	compound	_	_
+11	dalam	_	ADP	IN	_	12	case	_	_
+12	perang	_	NOUN	NN	_	10	nmod	_	_
+13	sipil	_	ADJ	JJ	_	12	amod	_	SpaceAfter=No
+14	)	_	PUNCT	)	_	9	punct	_	_
+15	lebih	_	ADV	RB	_	17	advmod	_	_
+16	tidak	_	PART	NEG	_	17	advmod	_	_
+17	mungkin	_	ADJ	JJ	_	0	root	_	_
+18	bergabung	_	VERB	VV	_	17	advcl	_	_
+19	dengan	_	ADP	IN	_	21	case	_	_
+20	sebuah	_	DET	DT	_	21	det	_	_
+21	pemberontakan	_	NOUN	NN	_	18	obl	_	_
+22	jika	_	SCONJ	SC	_	24	mark	_	_
+23	mereka	_	PRON	PRP	_	24	nsubj	_	_
+24	mendapatkan	_	VERB	VV	_	17	advcl	_	_
+25	pendidikan	_	NOUN	NN	_	24	obj	_	_
+26	atau	_	CCONJ	CC	_	27	cc	_	_
+27	memiliki	_	VERB	VV	_	24	conj	_	_
+28	gaji	_	NOUN	NN	_	27	obj	_	_
+29	yang	_	PRON	WP	_	30	nsubj	_	_
+30	lumayan	_	ADJ	JJ	_	28	acl:relcl	_	SpaceAfter=No
+31	,	_	PUNCT	,	_	34	punct	_	_
+32	dan	_	CCONJ	CC	_	34	cc	_	_
+33	patut	_	ADJ	JJ	_	34	advmod	_	_
+34	dianggap	_	VERB	VV	_	24	conj	_	_
+35	bahwa	_	SCONJ	SC	_	38	mark	_	_
+36	mereka	_	PRON	PRP	_	38	nsubj	_	_
+37	akan	_	AUX	MD	_	38	aux	_	_
+38	makmur	_	ADJ	JJ	_	34	ccomp	_	_
+39	di	_	ADP	IN	_	40	case	_	_
+40	masa	_	NOUN	NN	_	38	obl	_	_
+41	depan	_	NOUN	NN	_	40	compound	_	SpaceAfter=No
+42	.	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = w01102020
+# text = Joseph Darnand, yang menjadi perwira SS dan memimpin para militer Milice yang memburu para anggota Resistance, dieksekusi pada bulan Oktober 1945.
+# text_en = Joseph Darnand, who became an SS officer and led the Milice paramilitaries who hunted down members of the Resistance, was executed in October 1945.
+1	Joseph	_	PROPN	NNP	_	19	nsubj:pass	_	_
+2	Darnand	_	PROPN	NNP	_	1	flat	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	5	punct	_	_
+4	yang	_	PRON	WP	_	5	nsubj	_	_
+5	menjadi	_	VERB	VV	_	1	acl:relcl	_	_
+6	perwira	_	NOUN	NN	_	5	obl:mod	_	_
+7	SS	_	PROPN	NNP	_	6	nmod:npmod	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	memimpin	_	VERB	VV	_	5	conj	_	_
+10	para	_	DET	DT	_	11	det	_	_
+11	militer	_	NOUN	NN	_	9	obj	_	_
+12	Milice	_	PROPN	NNP	_	11	nmod:npmod	_	_
+13	yang	_	PRON	WP	_	14	nsubj	_	_
+14	memburu	_	VERB	VV	_	11	acl:relcl	_	_
+15	para	_	DET	DT	_	16	det	_	_
+16	anggota	_	NOUN	NN	_	14	obj	_	_
+17	Resistance	_	PROPN	NNP	_	16	nmod:npmod	_	SpaceAfter=No
+18	,	_	PUNCT	,	_	5	punct	_	_
+19	dieksekusi	_	VERB	VV	_	0	root	_	_
+20	pada	_	ADP	IN	_	21	case	_	_
+21	bulan	_	NOUN	NN	_	19	obl	_	_
+22	Oktober	_	PROPN	NNP	_	21	nmod:npmod	_	_
+23	1945	_	NUM	CD	_	22	flat	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	19	punct	_	_
+
+# sent_id = n05003019
+# text = Meskipun ada mereka, tidak semua orang di dalam partai memahami pesan yang coba disampaikan presiden kepada mereka kemarin.
+# text_en = In spite of them, not everyone in the party understood the messages that the president tried to send to them yesterday.
+1	Meskipun	_	SCONJ	SC	_	2	mark	_	_
+2	ada	_	VERB	VV	_	11	advcl	_	_
+3	mereka	_	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	tidak	_	PART	NEG	_	6	advmod	_	_
+6	semua	_	DET	DT	_	7	det	_	_
+7	orang	_	NOUN	NN	_	11	nsubj	_	_
+8	di	_	ADP	IN	_	10	case	_	_
+9	dalam	_	NOUN	NN	_	10	nmod:npmod	_	_
+10	partai	_	NOUN	NN	_	7	nmod	_	_
+11	memahami	_	VERB	VV	_	0	root	_	_
+12	pesan	_	NOUN	NN	_	11	obj	_	_
+13	yang	_	PRON	WP	_	14	nsubj:pass	_	_
+14	coba	_	VERB	VV	_	12	acl:relcl	_	_
+15	disampaikan	_	VERB	VV	_	14	xcomp	_	_
+16	presiden	_	NOUN	NN	_	15	obl:agent	_	_
+17	kepada	_	ADP	IN	_	18	case	_	_
+18	mereka	_	PRON	PRP	_	15	obl	_	_
+19	kemarin	_	ADV	RB	_	15	advmod	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = w01091045
+# text = Selain merupakan sumber langsung makanan, hewan tertentu dapat menyediakan kulit, wol, kulit binatang, dan pupuk.
+# text_en = Besides being a direct source of food, certain animals could provide leather, wool, hides, and fertilizer.
+1	Selain	_	SCONJ	SC	_	2	mark	_	_
+2	merupakan	_	VERB	VV	_	10	advcl	_	_
+3	sumber	_	NOUN	NN	_	2	obl:mod	_	_
+4	langsung	_	ADJ	JJ	_	3	amod	_	_
+5	makanan	_	NOUN	NN	_	3	nmod:npmod	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	2	punct	_	_
+7	hewan	_	NOUN	NN	_	10	nsubj	_	_
+8	tertentu	_	ADJ	JJ	_	7	amod	_	_
+9	dapat	_	AUX	MD	_	10	aux	_	_
+10	menyediakan	_	VERB	VV	_	0	root	_	_
+11	kulit	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	wol	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	15	punct	_	_
+15	kulit	_	NOUN	NN	_	11	conj	_	_
+16	binatang	_	NOUN	NN	_	15	compound	_	SpaceAfter=No
+17	,	_	PUNCT	,	_	19	punct	_	_
+18	dan	_	CCONJ	CC	_	19	cc	_	_
+19	pupuk	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = w03008011
+# text = Hubungan asmara ini dapat dilihat sebagai titik awal kariernya sebagai revolusioner radikal.
+# text_en = This affair can be seen as the starting point for his career as a radical revolutionary.
+1	Hubungan	_	NOUN	NN	_	5	nsubj:pass	_	_
+2	asmara	_	NOUN	NN	_	1	compound	_	_
+3	ini	_	DET	DT	_	1	det	_	_
+4	dapat	_	AUX	MD	_	5	aux	_	_
+5	dilihat	_	VERB	VV	_	0	root	_	_
+6	sebagai	_	ADP	IN	_	7	case	_	_
+7	titik	_	NOUN	NN	_	5	obl	_	_
+8	awal	_	NOUN	NN	_	7	compound	_	_
+9	karier	_	NOUN	NN	_	7	nmod:npmod	_	SpaceAfter=No
+10	nya	_	DET	PRP$	_	9	nmod:poss	_	_
+11	sebagai	_	ADP	IN	_	12	case	_	_
+12	revolusioner	_	NOUN	NN	_	9	nmod	_	_
+13	radikal	_	ADJ	JJ	_	12	amod	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01077018
+# text = Saya juga kesulitan dengan kata sandi.
+# text_en = I also struggle with passwords.
+1	Saya	_	PRON	PRP	_	3	nsubj:pass	_	_
+2	juga	_	ADV	RB	_	3	advmod	_	_
+3	kesulitan	_	VERB	VV	_	0	root	_	_
+4	dengan	_	ADP	IN	_	5	case	_	_
+5	kata	_	NOUN	NN	_	3	obl	_	_
+6	sandi	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01050014
+# text = Mungkin saja memiliki level hemoglobin yang normal namun memiliki cadangan besi yang rendah secara keseluruhan, ungkap Canadian Blood Services (CBS).
+# text_en = It's possible to have normal hemoglobin levels, but to have low iron stores overall, says Canadian Blood Services (CBS).
+1	Mungkin	_	ADJ	JJ	_	0	root	_	_
+2	saja	_	ADV	RB	_	1	advmod	_	_
+3	memiliki	_	VERB	VV	_	1	csubj	_	_
+4	level	_	NOUN	NN	_	3	obj	_	_
+5	hemoglobin	_	NOUN	NN	_	4	compound	_	_
+6	yang	_	PRON	WP	_	7	nsubj	_	_
+7	normal	_	ADJ	JJ	_	4	acl:relcl	_	_
+8	namun	_	CCONJ	CC	_	9	cc	_	_
+9	memiliki	_	VERB	VV	_	3	conj	_	_
+10	cadangan	_	NOUN	NN	_	9	obj	_	_
+11	besi	_	NOUN	NN	_	10	compound	_	_
+12	yang	_	PRON	WP	_	13	nsubj	_	_
+13	rendah	_	ADJ	JJ	_	10	acl:relcl	_	_
+14	secara	_	ADP	IN	_	15	case:adv	_	_
+15	keseluruhan	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	3	punct	_	_
+17	ungkap	_	VERB	VV	_	1	parataxis	_	_
+18	Canadian	_	PROPN	NNP	_	17	nsubj	_	_
+19	Blood	_	PROPN	NNP	_	18	flat	_	_
+20	Services	_	PROPN	NNP	_	18	flat	_	_
+21	(	_	PUNCT	(	_	22	punct	_	SpaceAfter=No
+22	CBS	_	PROPN	NNP	_	18	appos	_	SpaceAfter=No
+23	)	_	PUNCT	)	_	22	punct	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = w01049066
+# text = Royal National Park Australia, didirikan pada tahun 1879, adalah taman nasional kedua yang didirikan secara resmi.
+# text_en = Australia's Royal National Park, established in 1879, was the world's second officially established national park.
+1	Royal	_	PROPN	NNP	_	12	nsubj	_	_
+2	National	_	PROPN	NNP	_	1	flat	_	_
+3	Park	_	PROPN	NNP	_	1	flat	_	_
+4	Australia	_	PROPN	NNP	_	1	flat	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	6	punct	_	_
+6	didirikan	_	VERB	VV	_	1	acl	_	_
+7	pada	_	ADP	IN	_	8	case	_	_
+8	tahun	_	NOUN	NN	_	6	obl	_	_
+9	1879	_	NUM	CD	_	8	nummod	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	6	punct	_	_
+11	adalah	_	AUX	VC	_	12	cop	_	_
+12	taman	_	NOUN	NN	_	0	root	_	_
+13	nasional	_	ADJ	JJ	_	12	amod	_	_
+14	kedua	_	ADJ	JJ	_	12	amod	_	_
+15	yang	_	PRON	WP	_	16	nsubj:pass	_	_
+16	didirikan	_	VERB	VV	_	12	acl:relcl	_	_
+17	secara	_	ADP	IN	_	18	case:adv	_	_
+18	resmi	_	ADV	RB	_	16	advmod	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = w01058013
+# text = Pertandingan Olimpiade terakhir diyakini diadakan pada tahun 393.
+# text_en = The last Olympic Games are believed to have been held in 393.
+1	Pertandingan	_	PROPN	NNP	_	4	nsubj:pass	_	_
+2	Olimpiade	_	PROPN	NNP	_	1	flat	_	_
+3	terakhir	_	ADJ	JJ	_	1	amod	_	_
+4	diyakini	_	VERB	VV	_	0	root	_	_
+5	diadakan	_	VERB	VV	_	4	xcomp	_	_
+6	pada	_	ADP	IN	_	7	case	_	_
+7	tahun	_	NOUN	NN	_	5	obl	_	_
+8	393	_	NUM	CD	_	7	nummod	_	SpaceAfter=No
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w02008010
+# text = Dalam lingkupnya, ini merupakan budaya yang paling berpengaruh pada masa itu, yang situsnya banyak dikenal.
+# text_en = In its scope it belongs to the most far-reaching cultures of the time, in which many sites are known.
+1	Dalam	_	ADP	IN	_	2	case	_	_
+2	lingkup	_	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+3	nya	_	DET	PRP$	_	2	nmod:poss	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	ini	_	PRON	PRD	_	6	nsubj	_	_
+6	merupakan	_	VERB	VV	_	0	root	_	_
+7	budaya	_	NOUN	NN	_	6	obl:mod	_	_
+8	yang	_	PRON	WP	_	10	nsubj	_	_
+9	paling	_	ADV	RB	_	10	advmod	_	_
+10	berpengaruh	_	VERB	VV	_	7	acl:relcl	_	_
+11	pada	_	ADP	IN	_	12	case	_	_
+12	masa	_	NOUN	NN	_	10	obl	_	_
+13	itu	_	DET	DT	_	12	det	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	15	punct	_	_
+15	yang	_	SCONJ	SC	_	19	mark	_	_
+16	situs	_	NOUN	NN	_	19	nsubj:pass	_	SpaceAfter=No
+17	nya	_	DET	PRP$	_	16	nmod:poss	_	_
+18	banyak	_	ADV	RB	_	19	advmod	_	_
+19	dikenal	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w04004005
+# text = Bagian dalam wilayah ini datar dan berbukit, tanpa perbedaan yang jelas antara satu area dengan area berikutnya.
+# text_en = The inner part of the region is flat and hilly, with no clear distinction between one area to the next.
+1	Bagian	_	NOUN	NN	_	5	nsubj	_	_
+2	dalam	_	NOUN	NN	_	1	compound	_	_
+3	wilayah	_	NOUN	NN	_	1	nmod:npmod	_	_
+4	ini	_	DET	DT	_	3	det	_	_
+5	datar	_	ADJ	JJ	_	0	root	_	_
+6	dan	_	CCONJ	CC	_	7	cc	_	_
+7	berbukit	_	VERB	VV	_	5	conj	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	10	punct	_	_
+9	tanpa	_	ADP	IN	_	10	case	_	_
+10	perbedaan	_	NOUN	NN	_	5	obl	_	_
+11	yang	_	PRON	WP	_	12	nsubj	_	_
+12	jelas	_	ADJ	JJ	_	10	acl:relcl	_	_
+13	antara	_	ADP	IN	_	15	case	_	_
+14	satu	_	NUM	CD	_	15	nummod	_	_
+15	area	_	NOUN	NN	_	10	nmod	_	_
+16	dengan	_	ADP	IN	_	17	case	_	_
+17	area	_	NOUN	NN	_	15	nmod	_	_
+18	berikutnya	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w01085007
+# text = Amerika Serikat membebaskan Kuba (setelah pendudukan oleh tentara Amerika).
+# text_en = The United States freed Cuba (after an occupation by the U.S. Army).
+1	Amerika	_	PROPN	NNP	_	3	nsubj	_	_
+2	Serikat	_	PROPN	NNP	_	1	flat	_	_
+3	membebaskan	_	VERB	VV	_	0	root	_	_
+4	Kuba	_	PROPN	NNP	_	3	obj	_	_
+5	(	_	PUNCT	(	_	7	punct	_	SpaceAfter=No
+6	setelah	_	ADP	IN	_	7	case	_	_
+7	pendudukan	_	NOUN	NN	_	3	obl	_	_
+8	oleh	_	ADP	IN	_	9	case	_	_
+9	tentara	_	NOUN	NN	_	7	nmod	_	_
+10	Amerika	_	PROPN	NNP	_	9	nmod:npmod	_	SpaceAfter=No
+11	)	_	PUNCT	)	_	7	punct	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01133022
+# text = Seorang juru bicara Harley-Davidson mengatakan bahwa waktu yang tersiar luas di media -- 2017 atau 2020 -- tidak akurat.
+# text_en = A Harley-Davidson spokeswoman said timelines that have been floated in the media -- 2017 or 2020 -- aren't accurate.
+1	Seorang	_	DET	DT	_	2	det	_	_
+2	juru	_	NOUN	NN	_	5	nsubj	_	_
+3	bicara	_	VERB	VV	_	2	acl	_	_
+4	Harley-Davidson	_	PROPN	NNP	_	2	nmod:npmod	_	_
+5	mengatakan	_	VERB	VV	_	0	root	_	_
+6	bahwa	_	SCONJ	SC	_	19	mark	_	_
+7	waktu	_	NOUN	NN	_	19	nsubj	_	_
+8	yang	_	PRON	WP	_	9	nsubj:pass	_	_
+9	tersiar	_	VERB	VV	_	7	acl:relcl	_	_
+10	luas	_	ADJ	JJ	_	9	advmod	_	_
+11	di	_	ADP	IN	_	12	case	_	_
+12	media	_	NOUN	NN	_	9	obl	_	_
+13	--	_	PUNCT	HYPH	_	14	punct	_	_
+14	2017	_	NUM	CD	_	7	appos	_	_
+15	atau	_	CCONJ	CC	_	16	cc	_	_
+16	2020	_	NUM	CD	_	14	conj	_	_
+17	--	_	PUNCT	HYPH	_	14	punct	_	_
+18	tidak	_	PART	NEG	_	19	advmod	_	_
+19	akurat	_	ADJ	JJ	_	5	ccomp	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01077030
+# text = Lalu ada kisah-kisah yang disebut nyata yang diposting dalam serangkaian gambar bermakna dengan teks berjalan di bawahnya.
+# text_en = Then there are the so-called true stories that get posted in a series of meaningful pictures with text running underneath.
+1	Lalu	_	SCONJ	SC	_	2	mark	_	_
+2	ada	_	VERB	VV	_	0	root	_	_
+3	kisah-kisah	_	NOUN	NN	_	2	nsubj	_	_
+4	yang	_	PRON	WP	_	6	nsubj:pass	_	_
+5	disebut	_	VERB	VV	_	3	acl:relcl	_	_
+6	nyata	_	ADJ	JJ	_	5	xcomp	_	_
+7	yang	_	PRON	WP	_	8	nsubj:pass	_	_
+8	diposting	_	VERB	VV	_	3	acl:relcl	_	_
+9	dalam	_	ADP	IN	_	11	case	_	_
+10	serangkaian	_	DET	DT	_	11	det	_	_
+11	gambar	_	NOUN	NN	_	8	obl	_	_
+12	bermakna	_	VERB	VV	_	11	acl	_	_
+13	dengan	_	SCONJ	SC	_	15	mark	_	_
+14	teks	_	NOUN	NN	_	15	nsubj	_	_
+15	berjalan	_	VERB	VV	_	11	acl	_	_
+16	di	_	ADP	IN	_	18	case	_	_
+17	bawah	_	NOUN	NN	_	18	nmod:npmod	_	SpaceAfter=No
+18	nya	_	PRON	PRP	_	15	obl	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w01046011
+# text = Sayangnya, pertumbuhan penduduk yang cepat dan ekspansi area perkotaan yang tak terbatas telah menutupi sebagian besar ekosistem ini dengan pembangunan.
+# text_en = Unfortunately, rapid population growth and urban sprawl has covered much of these ecosystems with development.
+1	Sayangnya	_	ADV	RB	_	15	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	pertumbuhan	_	NOUN	NN	_	15	nsubj	_	_
+4	penduduk	_	NOUN	NN	_	3	compound	_	_
+5	yang	_	PRON	WP	_	6	nsubj	_	_
+6	cepat	_	ADJ	JJ	_	3	acl:relcl	_	_
+7	dan	_	CCONJ	CC	_	8	cc	_	_
+8	ekspansi	_	NOUN	NN	_	3	conj	_	_
+9	area	_	NOUN	NN	_	8	compound	_	_
+10	perkotaan	_	NOUN	NN	_	9	compound	_	_
+11	yang	_	PRON	WP	_	13	nsubj:pass	_	_
+12	tak	_	PART	NEG	_	13	advmod	_	_
+13	terbatas	_	ADJ	JJ	_	8	acl:relcl	_	_
+14	telah	_	AUX	MD	_	15	aux	_	_
+15	menutupi	_	VERB	VV	_	0	root	_	_
+16	sebagian	_	NOUN	NN	_	15	obj	_	_
+17	besar	_	ADJ	JJ	_	16	amod	_	_
+18	ekosistem	_	NOUN	NN	_	16	nmod:npmod	_	_
+19	ini	_	DET	DT	_	18	det	_	_
+20	dengan	_	ADP	IN	_	21	case	_	_
+21	pembangunan	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = n01067014
+# text = Setiap peta dalam pameran itu menceritakan kisahnya sendiri, tidak semuanya faktual.
+# text_en = Each map in the exhibition tells its own story, not all factual.
+1	Setiap	_	DET	DT	_	2	det	_	_
+2	peta	_	NOUN	NN	_	6	nsubj	_	_
+3	dalam	_	ADP	IN	_	4	case	_	_
+4	pameran	_	NOUN	NN	_	2	nmod	_	_
+5	itu	_	DET	DT	_	4	det	_	_
+6	menceritakan	_	VERB	VV	_	0	root	_	_
+7	kisah	_	NOUN	NN	_	6	obj	_	SpaceAfter=No
+8	nya	_	DET	PRP$	_	7	nmod:poss	_	_
+9	sendiri	_	PRON	PRP	_	7	nmod:npmod	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	14	punct	_	_
+11	tidak	_	PART	NEG	_	13	advmod	_	_
+12	semua	_	DET	DT	_	13	det	_	SpaceAfter=No
+13	nya	_	PRON	PRP	_	14	nsubj	_	_
+14	faktual	_	ADJ	JJ	_	6	parataxis	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01132006
+# text = Tentu saja pemilihan umum, bukan “Game of Thrones.”
+# text_en = It's the election, of course, not "Game of Thrones."
+1	Tentu	_	ADV	RB	_	3	advmod	_	_
+2	saja	_	ADV	RB	_	1	advmod	_	_
+3	pemilihan	_	NOUN	NN	_	0	root	_	_
+4	umum	_	ADJ	JJ	_	3	amod	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	8	punct	_	_
+6	bukan	_	PART	NEG	_	8	advmod	_	_
+7	“	_	PUNCT	``	_	8	punct	_	SpaceAfter=No
+8	Game	_	PROPN	NNP	_	3	conj	_	_
+9	of	_	PROPN	NNP	_	8	flat	_	_
+10	Thrones	_	PROPN	NNP	_	8	flat	_	SpaceAfter=No
+11	.	_	PUNCT	.	_	8	punct	_	SpaceAfter=No
+12	”	_	PUNCT	''	_	8	punct	_	_
+
+# sent_id = n01036002
+# text = Asosiasi yang mewakili para agen real estate di Ontario mengatakan masih banyak yang harus dilakukan untuk melindungi konsumen dan menghukum agen yang didapati terlibat dalam perilaku yang tidak etis.
+# text_en = The association that represents real estate agents in Ontario says more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour.
+1	Asosiasi	_	NOUN	NN	_	10	nsubj	_	_
+2	yang	_	PRON	WP	_	3	nsubj	_	_
+3	mewakili	_	VERB	VV	_	1	acl:relcl	_	_
+4	para	_	DET	DT	_	5	det	_	_
+5	agen	_	NOUN	NN	_	3	obj	_	_
+6	real	_	X	FW	_	5	nmod:npmod	_	_
+7	estate	_	X	FW	_	6	flat:foreign	_	_
+8	di	_	ADP	IN	_	9	case	_	_
+9	Ontario	_	PROPN	NNP	_	5	nmod	_	_
+10	mengatakan	_	VERB	VV	_	0	root	_	_
+11	masih	_	AUX	MD	_	12	aux	_	_
+12	banyak	_	ADJ	JJ	_	10	ccomp	_	_
+13	yang	_	PRON	WP	_	15	nsubj:pass	_	_
+14	harus	_	AUX	MD	_	15	aux	_	_
+15	dilakukan	_	VERB	VV	_	12	csubj	_	_
+16	untuk	_	SCONJ	SC	_	17	mark	_	_
+17	melindungi	_	VERB	VV	_	15	advcl	_	_
+18	konsumen	_	NOUN	NN	_	17	obj	_	_
+19	dan	_	CCONJ	CC	_	20	cc	_	_
+20	menghukum	_	VERB	VV	_	17	conj	_	_
+21	agen	_	NOUN	NN	_	20	obj	_	_
+22	yang	_	PRON	WP	_	23	nsubj:pass	_	_
+23	didapati	_	VERB	VV	_	21	acl:relcl	_	_
+24	terlibat	_	VERB	VV	_	23	xcomp	_	_
+25	dalam	_	ADP	IN	_	26	case	_	_
+26	perilaku	_	NOUN	NN	_	24	obl	_	_
+27	yang	_	PRON	WP	_	29	nsubj	_	_
+28	tidak	_	PART	NEG	_	29	advmod	_	_
+29	etis	_	ADJ	JJ	_	26	acl:relcl	_	SpaceAfter=No
+30	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = n01130003
+# text = North Carolina adalah titik nol dalam pemilihan ini.
+# text_en = North Carolina is ground zero in this election.
+1	North	_	PROPN	NNP	_	4	nsubj	_	_
+2	Carolina	_	PROPN	NNP	_	1	flat	_	_
+3	adalah	_	AUX	VC	_	4	cop	_	_
+4	titik	_	NOUN	NN	_	0	root	_	_
+5	nol	_	NUM	CD	_	4	nummod	_	_
+6	dalam	_	ADP	IN	_	7	case	_	_
+7	pemilihan	_	NOUN	NN	_	4	nmod	_	_
+8	ini	_	DET	DT	_	7	det	_	SpaceAfter=No
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01055038
+# text = Ini tidak saja berlaku untuk konten hiburan, tapi sama juga untuk pendidikan, untuk riset ilmiah, dan mungkin yang terpenting, pada wacana politik.
+# text_en = This would not only apply to entertainment content, but equally to education, to scientific research and, perhaps most importantly, to political discourse.
+1	Ini	_	PRON	PRD	_	4	nsubj	_	_
+2	tidak	_	PART	NEG	_	4	advmod	_	_
+3	saja	_	ADV	RB	_	4	advmod	_	_
+4	berlaku	_	VERB	VV	_	0	root	_	_
+5	untuk	_	ADP	IN	_	6	case	_	_
+6	konten	_	NOUN	NN	_	4	obl	_	_
+7	hiburan	_	NOUN	NN	_	6	compound	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	10	punct	_	_
+9	tapi	_	CCONJ	CC	_	10	cc	_	_
+10	sama	_	ADJ	JJ	_	4	conj	_	_
+11	juga	_	ADV	RB	_	10	advmod	_	_
+12	untuk	_	ADP	IN	_	13	case	_	_
+13	pendidikan	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	16	punct	_	_
+15	untuk	_	ADP	IN	_	16	case	_	_
+16	riset	_	NOUN	NN	_	13	conj	_	_
+17	ilmiah	_	ADJ	JJ	_	16	amod	_	SpaceAfter=No
+18	,	_	PUNCT	,	_	25	punct	_	_
+19	dan	_	CCONJ	CC	_	25	cc	_	_
+20	mungkin	_	ADV	RB	_	22	advmod	_	_
+21	yang	_	PRON	WP	_	22	nsubj:pass	_	_
+22	terpenting	_	ADJ	JJ	_	25	acl:relcl	_	SpaceAfter=No
+23	,	_	PUNCT	,	_	25	punct	_	_
+24	pada	_	ADP	IN	_	25	case	_	_
+25	wacana	_	NOUN	NN	_	13	conj	_	_
+26	politik	_	NOUN	NN	_	25	compound	_	SpaceAfter=No
+27	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01080042
+# text = Saya ingin menontonnya bersama mereka, tapi akhirnya mereka memutuskan lebih senang menontonnya tanpa saya.
+# text_en = I wanted to watch it with them, but they decided they’d rather watch it without me in the end.
+1	Saya	_	PRON	PRP	_	2	nsubj	_	_
+2	ingin	_	VERB	VV	_	0	root	_	_
+3	menonton	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No
+4	nya	_	PRON	PRP	_	3	obj	_	_
+5	bersama	_	ADP	IN	_	6	case	_	_
+6	mereka	_	PRON	PRP	_	3	obl	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	11	punct	_	_
+8	tapi	_	CCONJ	CC	_	11	cc	_	_
+9	akhirnya	_	ADV	RB	_	11	advmod	_	_
+10	mereka	_	PRON	PRP	_	11	nsubj	_	_
+11	memutuskan	_	VERB	VV	_	3	conj	_	_
+12	lebih	_	ADV	RB	_	13	advmod	_	_
+13	senang	_	ADJ	JJ	_	11	xcomp	_	_
+14	menonton	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No
+15	nya	_	PRON	PRP	_	14	obj	_	_
+16	tanpa	_	ADP	IN	_	17	case	_	_
+17	saya	_	PRON	PRP	_	14	obl	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01133014
+# text = Para siswa Belanda itu belum memutuskan apakah mereka akan mengkomersilkan motor listrik mereka.
+# text_en = The Dutch students have yet to decide if they will be commercializing their electric motorcycle.
+1	Para	_	DET	DT	_	2	det	_	_
+2	siswa	_	NOUN	NN	_	6	nsubj	_	_
+3	Belanda	_	PROPN	NNP	_	2	nmod:npmod	_	_
+4	itu	_	DET	DT	_	2	det	_	_
+5	belum	_	PART	NEG	_	6	advmod	_	_
+6	memutuskan	_	VERB	VV	_	0	root	_	_
+7	apa	_	SCONJ	SC	_	11	mark	_	SpaceAfter=No
+8	kah	_	PART	RP	_	7	fixed	_	_
+9	mereka	_	PRON	PRP	_	11	nsubj	_	_
+10	akan	_	AUX	MD	_	11	aux	_	_
+11	mengkomersilkan	_	VERB	VV	_	6	ccomp	_	_
+12	motor	_	NOUN	NN	_	11	obj	_	_
+13	listrik	_	NOUN	NN	_	12	compound	_	_
+14	mereka	_	DET	PRP$	_	12	nmod:poss	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01059054
+# text = Ada lebih banyak perbedaan antara Sulla dan Trump, Roma dan A.S., dibandingkan kesamaannya, tapi itu tidak mendiskreditkan kesamaan tersebut.
+# text_en = There are more differences between Sulla and Trump, Rome and the U.S., than there are similarities, but that doesn’t discredit the resemblances.
+1	Ada	_	VERB	VV	_	0	root	_	_
+2	lebih	_	ADV	RB	_	3	advmod	_	_
+3	banyak	_	ADJ	JJ	_	4	amod	_	_
+4	perbedaan	_	NOUN	NN	_	1	nsubj	_	_
+5	antara	_	ADP	IN	_	6	case	_	_
+6	Sulla	_	PROPN	NNP	_	4	nmod	_	_
+7	dan	_	CCONJ	CC	_	8	cc	_	_
+8	Trump	_	PROPN	NNP	_	6	conj	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	10	punct	_	_
+10	Roma	_	PROPN	NNP	_	6	conj	_	_
+11	dan	_	CCONJ	CC	_	12	cc	_	_
+12	A.S.	_	PROPN	NNP	_	10	conj	_	SpaceAfter=No
+13	,	_	PUNCT	,	_	14	punct	_	_
+14	dibandingkan	_	VERB	VV	_	1	advcl	_	_
+15	kesamaan	_	NOUN	NN	_	14	obl:mod	_	SpaceAfter=No
+16	nya	_	DET	PRP$	_	15	nmod:poss	_	SpaceAfter=No
+17	,	_	PUNCT	,	_	21	punct	_	_
+18	tapi	_	CCONJ	CC	_	21	cc	_	_
+19	itu	_	PRON	PRD	_	21	nsubj	_	_
+20	tidak	_	PART	NEG	_	21	advmod	_	_
+21	mendiskreditkan	_	VERB	VV	_	1	conj	_	_
+22	kesamaan	_	NOUN	NN	_	21	obj	_	_
+23	tersebut	_	DET	VV	_	22	det	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = w01010048
+# text = Louis sang Jerman menyerbu Moravia dan menggantikan Mojmír I dengan keponakannya Rastiz yang menjadi St. Rastislav.
+# text_en = Louis the German invaded Moravia and replaced Mojmír I with his nephew Rastiz who became St. Rastislav.
+1	Louis	_	PROPN	NNP	_	4	nsubj	_	_
+2	sang	_	DET	DT	_	3	det	_	_
+3	Jerman	_	PROPN	NNP	_	1	appos	_	_
+4	menyerbu	_	VERB	VV	_	0	root	_	_
+5	Moravia	_	PROPN	NNP	_	4	obj	_	_
+6	dan	_	CCONJ	CC	_	7	cc	_	_
+7	menggantikan	_	VERB	VV	_	4	conj	_	_
+8	Mojmír	_	PROPN	NNP	_	7	obj	_	_
+9	I	_	PROPN	NNP	_	8	flat	_	_
+10	dengan	_	ADP	IN	_	11	case	_	_
+11	keponakan	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
+12	nya	_	DET	PRP$	_	11	nmod:poss	_	_
+13	Rastiz	_	PROPN	NNP	_	11	appos	_	_
+14	yang	_	PRON	WP	_	15	nsubj	_	_
+15	menjadi	_	VERB	VV	_	11	acl:relcl	_	_
+16	St.	_	PROPN	NNP	_	15	obl:mod	_	_
+17	Rastislav	_	PROPN	NNP	_	16	flat	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01058037
+# text = Di kota Hillsborough, tepat di luar Chapel Hill, seseorang meledakkan bom api di markas Partai Republican bulan lalu.
+# text_en = In the town of Hillsborough, just outside Chapel Hill, someone firebombed the Republican Party headquarters last month.
+1	Di	_	ADP	IN	_	2	case	_	_
+2	kota	_	NOUN	NN	_	12	obl	_	_
+3	Hillsborough	_	PROPN	NNP	_	2	nmod:npmod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	8	punct	_	_
+5	tepat	_	ADJ	JJ	_	8	amod	_	_
+6	di	_	ADP	IN	_	8	case	_	_
+7	luar	_	NOUN	NN	_	8	nmod:npmod	_	_
+8	Chapel	_	PROPN	NNP	_	2	nmod	_	_
+9	Hill	_	PROPN	NNP	_	8	flat	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	8	punct	_	_
+11	seseorang	_	PRON	PRP	_	12	nsubj	_	_
+12	meledakkan	_	VERB	VV	_	0	root	_	_
+13	bom	_	NOUN	NN	_	12	obj	_	_
+14	api	_	NOUN	NN	_	13	compound	_	_
+15	di	_	ADP	IN	_	16	case	_	_
+16	markas	_	NOUN	NN	_	12	obl	_	_
+17	Partai	_	PROPN	NNP	_	16	nmod:npmod	_	_
+18	Republican	_	PROPN	NNP	_	17	flat	_	_
+19	bulan	_	NOUN	NN	_	12	obl:tmod	_	_
+20	lalu	_	VERB	VV	_	19	acl	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = n01053041
+# text = "Suaranya menjangkau seluruh dunia," kata Leive.
+# text_en = "Her voice literally went around the world," Leive said.
+1	"	_	PUNCT	"	_	4	punct	_	SpaceAfter=No
+2	Suara	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
+3	nya	_	DET	PRP$	_	2	nmod:poss	_	_
+4	menjangkau	_	VERB	VV	_	0	root	_	_
+5	seluruh	_	DET	DT	_	6	det	_	_
+6	dunia	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	4	punct	_	SpaceAfter=No
+8	"	_	PUNCT	"	_	4	punct	_	_
+9	kata	_	VERB	VV	_	4	parataxis	_	_
+10	Leive	_	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01148035
+# text = Tidak semua transformasi di kawasan ini berhasil.
+# text_en = Not all transformations in the region have been successful.
+1	Tidak	_	PART	NEG	_	3	advmod	_	_
+2	semua	_	DET	DT	_	3	det	_	_
+3	transformasi	_	NOUN	NN	_	7	nsubj	_	_
+4	di	_	ADP	IN	_	5	case	_	_
+5	kawasan	_	NOUN	NN	_	3	nmod	_	_
+6	ini	_	DET	DT	_	5	det	_	_
+7	berhasil	_	VERB	VV	_	0	root	_	SpaceAfter=No
+8	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w01057006
+# text = Setiap puisi menarasikan hanya satu bagian dari perang itu.
+# text_en = Each poem narrates only a part of the war.
+1	Setiap	_	DET	DT	_	2	det	_	_
+2	puisi	_	NOUN	NN	_	3	nsubj	_	_
+3	menarasikan	_	VERB	VV	_	0	root	_	_
+4	hanya	_	ADV	RB	_	6	advmod	_	_
+5	satu	_	NUM	CD	_	6	nummod	_	_
+6	bagian	_	NOUN	NN	_	3	obj	_	_
+7	dari	_	ADP	IN	_	8	case	_	_
+8	perang	_	NOUN	NN	_	6	nmod	_	_
+9	itu	_	DET	DT	_	8	det	_	SpaceAfter=No
+10	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w02002120
+# text = Ini ada kaitannya dengan salah satu dari beberapa gedung di pusat kota yang tidak hancur pada akhir Perang Dunia II.
+# text_en = This has to do with one of the few buildings in the city center that was spared from destruction by the end of the Second World War.
+1	Ini	_	PRON	PRD	_	2	nsubj	_	_
+2	ada	_	VERB	VV	_	0	root	_	_
+3	kaitan	_	NOUN	NN	_	2	obl:mod	_	SpaceAfter=No
+4	nya	_	DET	DT	_	3	det	_	_
+5	dengan	_	ADP	IN	_	10	case	_	_
+6	salah	_	PART	RP	_	7	compound:prt	_	_
+7	satu	_	NUM	CD	_	10	nummod	_	_
+8	dari	_	ADP	IN	_	10	case	_	_
+9	beberapa	_	DET	DT	_	10	det	_	_
+10	gedung	_	NOUN	NN	_	3	nmod	_	_
+11	di	_	ADP	IN	_	12	case	_	_
+12	pusat	_	NOUN	NN	_	10	nmod	_	_
+13	kota	_	NOUN	NN	_	12	compound	_	_
+14	yang	_	PRON	WP	_	16	nsubj	_	_
+15	tidak	_	PART	NEG	_	16	advmod	_	_
+16	hancur	_	VERB	VV	_	10	acl:relcl	_	_
+17	pada	_	ADP	IN	_	19	case	_	_
+18	akhir	_	NOUN	NN	_	19	nmod:npmod	_	_
+19	Perang	_	PROPN	NNP	_	16	obl	_	_
+20	Dunia	_	PROPN	NNP	_	19	flat	_	_
+21	II	_	PROPN	NNP	_	19	flat	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n05007006
+# text = Ia percaya bahwa tak seorang pun yang menunggu kita menunggu kita.
+# text_en = He believes that nobody waiting for us waits for us.
+1	Ia	_	PRON	PRP	_	2	nsubj	_	_
+2	percaya	_	VERB	VV	_	0	root	_	_
+3	bahwa	_	SCONJ	SC	_	10	mark	_	_
+4	tak	_	PART	NEG	_	5	advmod	_	_
+5	seorang	_	NOUN	NN	_	10	nsubj	_	_
+6	pun	_	PART	RP	_	5	dep:prt	_	_
+7	yang	_	PRON	WP	_	8	nsubj	_	_
+8	menunggu	_	VERB	VV	_	5	acl:relcl	_	_
+9	kita	_	PRON	PRP	_	8	obj	_	_
+10	menunggu	_	VERB	VV	_	2	ccomp	_	_
+11	kita	_	PRON	PRP	_	10	obj	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01083035
+# text = Dalam konteks ini, protes menentang perdagangan masuk akal.
+# text_en = In this context, railing against trade makes sense.
+1	Dalam	_	ADP	IN	_	2	case	_	_
+2	konteks	_	NOUN	NN	_	8	obl	_	_
+3	ini	_	DET	DT	_	2	det	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	protes	_	NOUN	NN	_	8	nsubj	_	_
+6	menentang	_	VERB	VV	_	5	acl	_	_
+7	perdagangan	_	NOUN	NN	_	6	obj	_	_
+8	masuk	_	VERB	VV	_	0	root	_	_
+9	akal	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No
+10	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w01052046
+# text = Kali ini dia mengklaim bahwa ia bertempur dalam pertempuran itu tanpa repot-repot memakai baju zirah hingga dua jam setelah pertempuran dimulai.
+# text_en = This time he claimed to have fought the battle without even bothering to put on his corslet until two hours after the fighting began.
+1	Kali	_	NOUN	NN	_	4	obl:tmod	_	_
+2	ini	_	DET	DT	_	1	det	_	_
+3	dia	_	PRON	PRP	_	4	nsubj	_	_
+4	mengklaim	_	VERB	VV	_	0	root	_	_
+5	bahwa	_	SCONJ	SC	_	7	mark	_	_
+6	ia	_	PRON	PRP	_	7	nsubj	_	_
+7	bertempur	_	VERB	VV	_	4	ccomp	_	_
+8	dalam	_	ADP	IN	_	9	case	_	_
+9	pertempuran	_	NOUN	NN	_	7	obl	_	_
+10	itu	_	DET	DT	_	9	det	_	_
+11	tanpa	_	SCONJ	SC	_	13	mark	_	_
+12	repot-repot	_	ADV	RB	_	13	advmod	_	_
+13	memakai	_	VERB	VV	_	7	advcl	_	_
+14	baju	_	NOUN	NN	_	13	obj	_	_
+15	zirah	_	NOUN	NN	_	14	compound	_	_
+16	hingga	_	ADP	IN	_	18	case	_	_
+17	dua	_	NUM	CD	_	18	nummod	_	_
+18	jam	_	NOUN	NN	_	13	obl	_	_
+19	setelah	_	SCONJ	SC	_	21	mark	_	_
+20	pertempuran	_	NOUN	NN	_	21	nsubj:pass	_	_
+21	dimulai	_	VERB	VV	_	18	acl	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01066045
+# text = Pada tahun 2010, yayasan itu merilis sebuah edisi typeset “Zettel’s Traum,” menghilangkan halangan masuk bagi mereka yang menolak keras nuansa seperti draf offset foto tersebut.
+# text_en = In 2010, the foundation released a typeset edition of “Zettel’s Traum,” removing the bar to entry for those who balked at the draft-like feel of the photo-offset.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	tahun	_	NOUN	NN	_	7	obl	_	_
+3	2010	_	NUM	CD	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	yayasan	_	NOUN	NN	_	7	nsubj	_	_
+6	itu	_	DET	DT	_	5	det	_	_
+7	merilis	_	VERB	VV	_	0	root	_	_
+8	sebuah	_	DET	DT	_	9	det	_	_
+9	edisi	_	NOUN	NN	_	7	obj	_	_
+10	typeset	_	X	FW	_	9	nmod:npmod	_	_
+11	“	_	PUNCT	``	_	12	punct	_	SpaceAfter=No
+12	Zettel’s	_	PROPN	NNP	_	9	nmod:npmod	_	_
+13	Traum	_	PROPN	NNP	_	12	flat	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	12	punct	_	SpaceAfter=No
+15	”	_	PUNCT	''	_	12	punct	_	_
+16	menghilangkan	_	VERB	VV	_	7	advcl	_	_
+17	halangan	_	NOUN	NN	_	16	obj	_	_
+18	masuk	_	VERB	VV	_	17	acl	_	_
+19	bagi	_	ADP	IN	_	20	case	_	_
+20	mereka	_	PRON	PRP	_	16	obl	_	_
+21	yang	_	PRON	WP	_	22	nsubj	_	_
+22	menolak	_	VERB	VV	_	20	acl:relcl	_	_
+23	keras	_	ADJ	JJ	_	22	advmod	_	_
+24	nuansa	_	NOUN	NN	_	22	obj	_	_
+25	seperti	_	ADP	IN	_	26	case	_	_
+26	draf	_	NOUN	NN	_	24	nmod	_	_
+27	offset	_	X	FW	_	26	nmod:npmod	_	_
+28	foto	_	NOUN	NN	_	27	compound	_	_
+29	tersebut	_	DET	VV	_	26	det	_	SpaceAfter=No
+30	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w01084085
+# text = Negara kota ini muncul pada periode yang sama dengan Sukhothai.
+# text_en = This city-state emerged in the same period as Sukhothai.
+1	Negara	_	NOUN	NN	_	4	nsubj	_	_
+2	kota	_	NOUN	NN	_	1	compound	_	_
+3	ini	_	DET	DT	_	1	det	_	_
+4	muncul	_	VERB	VV	_	0	root	_	_
+5	pada	_	ADP	IN	_	6	case	_	_
+6	periode	_	NOUN	NN	_	4	obl	_	_
+7	yang	_	PRON	WP	_	8	nsubj	_	_
+8	sama	_	ADJ	JJ	_	6	acl:relcl	_	_
+9	dengan	_	ADP	IN	_	10	case	_	_
+10	Sukhothai	_	PROPN	NNP	_	8	obl	_	SpaceAfter=No
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01025025
+# text = "Masih ada faktor' jijik 'perihal seluruh ide tentang membeli dan mengenakan bagian tubuh orang lain," ungkapnya.
+# text_en = "There is still a 'yuk' factor to the whole idea of buying and wearing other people's body parts," she says.
+1	"	_	PUNCT	"	_	3	punct	_	SpaceAfter=No
+2	Masih	_	AUX	MD	_	3	aux	_	_
+3	ada	_	VERB	VV	_	0	root	_	_
+4	faktor	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
+5	'	_	PUNCT	``	_	6	punct	_	_
+6	jijik	_	ADJ	JJ	_	4	amod	_	_
+7	'	_	PUNCT	''	_	6	punct	_	SpaceAfter=No
+8	perihal	_	ADP	IN	_	10	case	_	_
+9	seluruh	_	DET	DT	_	10	det	_	_
+10	ide	_	NOUN	NN	_	4	nmod	_	_
+11	tentang	_	SCONJ	SC	_	12	mark	_	_
+12	membeli	_	VERB	VV	_	10	acl	_	_
+13	dan	_	CCONJ	CC	_	14	cc	_	_
+14	mengenakan	_	VERB	VV	_	12	conj	_	_
+15	bagian	_	NOUN	NN	_	12	obj	_	_
+16	tubuh	_	NOUN	NN	_	15	compound	_	_
+17	orang	_	NOUN	NN	_	15	nmod:poss	_	_
+18	lain	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
+19	,	_	PUNCT	,	_	3	punct	_	SpaceAfter=No
+20	"	_	PUNCT	"	_	3	punct	_	_
+21	ungkap	_	VERB	VV	_	3	parataxis	_	SpaceAfter=No
+22	nya	_	PRON	PRP	_	21	nsubj	_	SpaceAfter=No
+23	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01133014
+# text = Starlin mengambil alih sebagai pembuat plot di terbitan berikutnya, dan mulai mengembangkan cerita yang terperinci yang berpusat pada tokoh jahat Thanos, dan tersebar di sejumlah judul Marvel.
+# text_en = Starlin took over as plotter the following issue, and began developing an elaborate story arc centered on the villainous Thanos, and spread across a number of Marvel titles.
+1	Starlin	_	PROPN	NNP	_	2	nsubj	_	_
+2	mengambil	_	VERB	VV	_	0	root	_	_
+3	alih	_	PART	RP	_	2	compound:prt	_	_
+4	sebagai	_	ADP	IN	_	5	case	_	_
+5	pembuat	_	NOUN	NN	_	2	obl	_	_
+6	plot	_	NOUN	NN	_	5	compound	_	_
+7	di	_	ADP	IN	_	8	case	_	_
+8	terbitan	_	NOUN	NN	_	2	obl	_	_
+9	berikutnya	_	ADJ	JJ	_	8	amod	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	12	punct	_	_
+11	dan	_	CCONJ	CC	_	12	cc	_	_
+12	mulai	_	VERB	VV	_	2	conj	_	_
+13	mengembangkan	_	VERB	VV	_	12	xcomp	_	_
+14	cerita	_	NOUN	NN	_	13	obj	_	_
+15	yang	_	PRON	WP	_	16	nsubj:pass	_	_
+16	terperinci	_	VERB	VV	_	14	acl:relcl	_	_
+17	yang	_	PRON	WP	_	18	nsubj	_	_
+18	berpusat	_	VERB	VV	_	14	acl:relcl	_	_
+19	pada	_	ADP	IN	_	20	case	_	_
+20	tokoh	_	NOUN	NN	_	18	obl	_	_
+21	jahat	_	ADJ	JJ	_	20	amod	_	_
+22	Thanos	_	PROPN	NNP	_	20	nmod:npmod	_	SpaceAfter=No
+23	,	_	PUNCT	,	_	25	punct	_	_
+24	dan	_	CCONJ	CC	_	25	cc	_	_
+25	tersebar	_	VERB	VV	_	18	conj	_	_
+26	di	_	ADP	IN	_	27	case	_	_
+27	sejumlah	_	NOUN	NN	_	25	obl	_	_
+28	judul	_	NOUN	NN	_	27	nmod:npmod	_	_
+29	Marvel	_	PROPN	NNP	_	28	nmod:npmod	_	SpaceAfter=No
+30	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01129021
+# text = Cukup banyak hal itu, di area yang sangat diperebutkan, akan menimbulkan kekacauan pada hari pemilihan.
+# text_en = Enough of those, in a highly contested area, will lead to chaos election day.
+1	Cukup	_	ADV	RB	_	2	advmod	_	_
+2	banyak	_	ADJ	JJ	_	3	amod	_	_
+3	hal	_	NOUN	NN	_	13	nsubj	_	_
+4	itu	_	DET	DT	_	3	det	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	3	punct	_	_
+6	di	_	ADP	IN	_	7	case	_	_
+7	area	_	NOUN	NN	_	3	nmod	_	_
+8	yang	_	PRON	WP	_	10	nsubj:pass	_	_
+9	sangat	_	ADV	RB	_	10	advmod	_	_
+10	diperebutkan	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	7	punct	_	_
+12	akan	_	AUX	MD	_	13	aux	_	_
+13	menimbulkan	_	VERB	VV	_	0	root	_	_
+14	kekacauan	_	NOUN	NN	_	13	obj	_	_
+15	pada	_	ADP	IN	_	16	case	_	_
+16	hari	_	NOUN	NN	_	13	obl	_	_
+17	pemilihan	_	NOUN	NN	_	16	compound	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = n01064096
+# text = Seperti banyak orang yang saya kenal, saya telah menghabiskan beberapa bulan terakhir ini begadang, membaca jumlah suara dengan rasa ngeri.
+# text_en = Like many people I know, I’ve spent recent months staying up late, reading polls in terror.
+1	Seperti	_	ADP	IN	_	3	case	_	_
+2	banyak	_	DET	DT	_	3	det	_	_
+3	orang	_	NOUN	NN	_	10	obl	_	_
+4	yang	_	SCONJ	SC	_	6	mark	_	_
+5	saya	_	PRON	PRP	_	6	nsubj	_	_
+6	kenal	_	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	3	punct	_	_
+8	saya	_	PRON	PRP	_	10	nsubj	_	_
+9	telah	_	AUX	MD	_	10	aux	_	_
+10	menghabiskan	_	VERB	VV	_	0	root	_	_
+11	beberapa	_	DET	DT	_	12	det	_	_
+12	bulan	_	NOUN	NN	_	10	obj	_	_
+13	terakhir	_	ADJ	JJ	_	12	amod	_	_
+14	ini	_	DET	DT	_	12	det	_	_
+15	begadang	_	VERB	VV	_	10	advcl	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	17	punct	_	_
+17	membaca	_	VERB	VV	_	15	conj	_	_
+18	jumlah	_	NOUN	NN	_	17	obj	_	_
+19	suara	_	NOUN	NN	_	18	compound	_	_
+20	dengan	_	ADP	IN	_	21	case	_	_
+21	rasa	_	NOUN	NN	_	17	obl	_	_
+22	ngeri	_	ADJ	JJ	_	21	amod	_	SpaceAfter=No
+23	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = n01012003
+# text = Satu dari para wanita Yazidi itu mulai menangis, diikuti satu temannya.
+# text_en = First one of the Yazidi women started crying, then one of her friends.
+1	Satu	_	NUM	CD	_	7	nsubj	_	_
+2	dari	_	ADP	IN	_	4	case	_	_
+3	para	_	DET	DT	_	4	det	_	_
+4	wanita	_	NOUN	NN	_	1	nmod	_	_
+5	Yazidi	_	PROPN	NNP	_	4	nmod:npmod	_	_
+6	itu	_	DET	DT	_	4	det	_	_
+7	mulai	_	VERB	VV	_	0	root	_	_
+8	menangis	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	10	punct	_	_
+10	diikuti	_	VERB	VV	_	8	advcl	_	_
+11	satu	_	NUM	CD	_	12	nummod	_	_
+12	teman	_	NOUN	NN	_	10	obl:agent	_	SpaceAfter=No
+13	nya	_	DET	PRP$	_	12	nmod:poss	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n01016014
+# text = Perusahaan Korea Selatan ini awalnya berpikir menyalahkan kerusakan baterai, dan mengganti komponennya sendiri dengan baterai pihak ketiga.
+# text_en = The South Korean company initially thought a battery fault was to blame, and switched its own component for a third-party power cell.
+1	Perusahaan	_	NOUN	NN	_	6	nsubj	_	_
+2	Korea	_	PROPN	NNP	_	1	nmod:npmod	_	_
+3	Selatan	_	PROPN	NNP	_	2	flat	_	_
+4	ini	_	DET	DT	_	1	det	_	_
+5	awalnya	_	ADV	RB	_	6	advmod	_	_
+6	berpikir	_	VERB	VV	_	0	root	_	_
+7	menyalahkan	_	VERB	VV	_	6	advcl	_	_
+8	kerusakan	_	NOUN	NN	_	7	obj	_	_
+9	baterai	_	NOUN	NN	_	8	compound	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	12	punct	_	_
+11	dan	_	CCONJ	CC	_	12	cc	_	_
+12	mengganti	_	VERB	VV	_	6	conj	_	_
+13	komponen	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
+14	nya	_	DET	PRP$	_	13	nmod:poss	_	_
+15	sendiri	_	PRON	PRP	_	13	nmod:npmod	_	_
+16	dengan	_	ADP	IN	_	17	case	_	_
+17	baterai	_	NOUN	NN	_	12	obl	_	_
+18	pihak	_	NOUN	NN	_	17	nmod:poss	_	_
+19	ketiga	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01092014
+# text = Dan bagaimana dengan posisi Australia?
+# text_en = And what about Australia’s position?
+1	Dan	_	CCONJ	CC	_	4	cc	_	_
+2	bagaimana	_	ADV	WRB	_	4	advmod	_	_
+3	dengan	_	ADP	IN	_	4	case	_	_
+4	posisi	_	NOUN	NN	_	0	root	_	_
+5	Australia	_	PROPN	NNP	_	4	nmod:npmod	_	SpaceAfter=No
+6	?	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w01107063
+# text = Film Hitchcock kadang menampilkan karakter yang mengalami kesulitan hubungan dengan ibu mereka.
+# text_en = Hitchcock's films sometimes feature characters struggling in their relationships with their mothers.
+1	Film	_	NOUN	NN	_	4	nsubj	_	_
+2	Hitchcock	_	PROPN	NNP	_	1	nmod:poss	_	_
+3	kadang	_	ADV	RB	_	4	advmod	_	_
+4	menampilkan	_	VERB	VV	_	0	root	_	_
+5	karakter	_	NOUN	NN	_	4	obj	_	_
+6	yang	_	PRON	WP	_	7	nsubj	_	_
+7	mengalami	_	VERB	VV	_	5	acl:relcl	_	_
+8	kesulitan	_	NOUN	NN	_	7	obj	_	_
+9	hubungan	_	NOUN	NN	_	8	compound	_	_
+10	dengan	_	ADP	IN	_	11	case	_	_
+11	ibu	_	NOUN	NN	_	8	nmod	_	_
+12	mereka	_	DET	PRP$	_	11	nmod:poss	_	SpaceAfter=No
+13	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w05003012
+# text = Namun, kerusakan hubungan antara dia dan Linares serta penghentian saluran yang progresif itu memicu Revolusi Pemulihan Nama Baik yang menggulingkannya pada tahun 1879.
+# text_en = However, the breakdown between him and Linares and the discontinuation of the progressive line provoked the Revolution of Vindication which overthrew him in 1879.
+1	Namun	_	CCONJ	CC	_	15	cc	_	SpaceAfter=No
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	kerusakan	_	NOUN	NN	_	15	nsubj	_	_
+4	hubungan	_	NOUN	NN	_	3	compound	_	_
+5	antara	_	ADP	IN	_	6	case	_	_
+6	dia	_	PRON	PRP	_	4	nmod	_	_
+7	dan	_	CCONJ	CC	_	8	cc	_	_
+8	Linares	_	PROPN	NNP	_	6	conj	_	_
+9	serta	_	CCONJ	CC	_	10	cc	_	_
+10	penghentian	_	NOUN	NN	_	3	conj	_	_
+11	saluran	_	NOUN	NN	_	10	nmod:npmod	_	_
+12	yang	_	PRON	WP	_	13	nsubj	_	_
+13	progresif	_	ADJ	JJ	_	10	acl:relcl	_	_
+14	itu	_	DET	DT	_	10	det	_	_
+15	memicu	_	VERB	VV	_	0	root	_	_
+16	Revolusi	_	PROPN	NNP	_	15	obj	_	_
+17	Pemulihan	_	PROPN	NNP	_	16	flat	_	_
+18	Nama	_	PROPN	NNP	_	16	flat	_	_
+19	Baik	_	PROPN	NNP	_	16	flat	_	_
+20	yang	_	PRON	WP	_	21	nsubj	_	_
+21	menggulingkan	_	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
+22	nya	_	PRON	PRP	_	21	obj	_	_
+23	pada	_	ADP	IN	_	24	case	_	_
+24	tahun	_	NOUN	NN	_	21	obl	_	_
+25	1879	_	NUM	CD	_	24	nummod	_	SpaceAfter=No
+26	.	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = n01035013
+# text = Polisi di B.C. mengatakan awalnya Klein tidak memiliki catatan kriminal dan memberikan rincian samar tentang keberadaannya belakangan ini.
+# text_en = Police in B.C. said earlier Klein did not appear to have a criminal history and released vague details about his recent whereabouts.
+1	Polisi	_	NOUN	NN	_	4	nsubj	_	_
+2	di	_	ADP	IN	_	3	case	_	_
+3	B.C.	_	PROPN	NNP	_	1	nmod	_	_
+4	mengatakan	_	VERB	VV	_	0	root	_	_
+5	awalnya	_	ADV	RB	_	8	advmod	_	_
+6	Klein	_	PROPN	NNP	_	8	nsubj	_	_
+7	tidak	_	PART	NEG	_	8	advmod	_	_
+8	memiliki	_	VERB	VV	_	4	ccomp	_	_
+9	catatan	_	NOUN	NN	_	8	obj	_	_
+10	kriminal	_	ADJ	JJ	_	9	amod	_	_
+11	dan	_	CCONJ	CC	_	12	cc	_	_
+12	memberikan	_	VERB	VV	_	4	conj	_	_
+13	rincian	_	NOUN	NN	_	12	obj	_	_
+14	samar	_	ADJ	JJ	_	13	amod	_	_
+15	tentang	_	ADP	IN	_	16	case	_	_
+16	keberadaan	_	NOUN	NN	_	13	nmod	_	SpaceAfter=No
+17	nya	_	DET	PRP$	_	16	nmod:poss	_	_
+18	belakangan	_	NOUN	NN	_	16	nmod:tmod	_	_
+19	ini	_	DET	DT	_	18	det	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01009054
+# text = “Kami telah meminta bangsa-bangsa lain untuk membantu kami mengisi kebun binatang dengan berbagai spesies binatang, termasuk babi,” ujar Saqib.
+# text_en = “We’ve requested other nations to help us populate the zoo with different species of animals, including a pig,” Saqib said.
+1	“	_	PUNCT	``	_	4	punct	_	SpaceAfter=No
+2	Kami	_	PRON	PRP	_	4	nsubj	_	_
+3	telah	_	AUX	MD	_	4	aux	_	_
+4	meminta	_	VERB	VV	_	0	root	_	_
+5	bangsa-bangsa	_	NOUN	NN	_	4	obj	_	_
+6	lain	_	ADJ	JJ	_	5	amod	_	_
+7	untuk	_	SCONJ	SC	_	8	mark	_	_
+8	membantu	_	VERB	VV	_	4	advcl	_	_
+9	kami	_	PRON	PRP	_	8	obj	_	_
+10	mengisi	_	VERB	VV	_	8	advcl	_	_
+11	kebun	_	NOUN	NN	_	10	obj	_	_
+12	binatang	_	NOUN	NN	_	11	compound	_	_
+13	dengan	_	ADP	IN	_	15	case	_	_
+14	berbagai	_	DET	NN	_	15	det	_	_
+15	spesies	_	NOUN	NN	_	10	obl	_	_
+16	binatang	_	NOUN	NN	_	15	compound	_	SpaceAfter=No
+17	,	_	PUNCT	,	_	18	punct	_	_
+18	termasuk	_	VERB	VV	_	15	acl	_	_
+19	babi	_	NOUN	NN	_	18	nsubj:pass	_	SpaceAfter=No
+20	,	_	PUNCT	,	_	4	punct	_	SpaceAfter=No
+21	”	_	PUNCT	''	_	4	punct	_	_
+22	ujar	_	VERB	VV	_	4	parataxis	_	_
+23	Saqib	_	PROPN	NNP	_	22	nsubj	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w02006081
+# text = Selama pemilihan umum tahun 2010, Partai Buruh mampu memenangkan ketujuh distrik pemilihan umum.
+# text_en = During the 2010 general election, the Labor Party was able to win all seven voting districts.
+1	Selama	_	ADP	IN	_	2	case	_	_
+2	pemilihan	_	NOUN	NN	_	10	obl	_	_
+3	umum	_	ADJ	JJ	_	2	amod	_	_
+4	tahun	_	NOUN	NN	_	2	nmod:tmod	_	_
+5	2010	_	NUM	CD	_	4	nummod	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	2	punct	_	_
+7	Partai	_	PROPN	NNP	_	10	nsubj	_	_
+8	Buruh	_	PROPN	NNP	_	7	flat	_	_
+9	mampu	_	AUX	MD	_	10	aux	_	_
+10	memenangkan	_	VERB	VV	_	0	root	_	_
+11	ketujuh	_	NUM	CD	_	12	nummod	_	_
+12	distrik	_	NOUN	NN	_	10	obj	_	_
+13	pemilihan	_	NOUN	NN	_	12	compound	_	_
+14	umum	_	ADJ	JJ	_	13	amod	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = w01080130
+# text = Di Thessaly, ia mengalahkan musuhnya dan pada tahun 352, ia menguasai kuat wilayah ini.
+# text_en = In Thessaly he defeated his enemies and by 352, he was firmly in control of this region.
+1	Di	_	ADP	IN	_	2	case	_	_
+2	Thessaly	_	PROPN	NNP	_	5	obl	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	ia	_	PRON	PRP	_	5	nsubj	_	_
+5	mengalahkan	_	VERB	VV	_	0	root	_	_
+6	musuh	_	NOUN	NN	_	5	obj	_	SpaceAfter=No
+7	nya	_	DET	PRP$	_	6	nmod:poss	_	_
+8	dan	_	CCONJ	CC	_	14	cc	_	_
+9	pada	_	ADP	IN	_	10	case	_	_
+10	tahun	_	NOUN	NN	_	14	obl	_	_
+11	352	_	NUM	CD	_	10	nummod	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	10	punct	_	_
+13	ia	_	PRON	PRP	_	14	nsubj	_	_
+14	menguasai	_	VERB	VV	_	5	conj	_	_
+15	kuat	_	ADJ	JJ	_	14	advmod	_	_
+16	wilayah	_	NOUN	NN	_	14	obj	_	_
+17	ini	_	DET	DT	_	16	det	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w01043027
+# text = Pada tahun 1340, Kairo memiliki populasi mendekati setengah juta, menjadikannya kota terbesar di barat Tiongkok.
+# text_en = By 1340, Cairo had a population of close to half a million, making it the largest city west of China.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	tahun	_	NOUN	NN	_	6	obl	_	_
+3	1340	_	NUM	CD	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	Kairo	_	PROPN	NNP	_	6	nsubj	_	_
+6	memiliki	_	VERB	VV	_	0	root	_	_
+7	populasi	_	NOUN	NN	_	6	obj	_	_
+8	mendekati	_	VERB	VV	_	7	acl	_	_
+9	setengah	_	NUM	CD	_	8	obj	_	_
+10	juta	_	NUM	CD	_	9	flat	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	12	punct	_	_
+12	menjadikan	_	VERB	VV	_	6	advcl	_	SpaceAfter=No
+13	nya	_	PRON	PRP	_	12	iobj	_	_
+14	kota	_	NOUN	NN	_	12	obj	_	_
+15	terbesar	_	ADJ	JJ	_	14	amod	_	_
+16	di	_	ADP	IN	_	18	case	_	_
+17	barat	_	NOUN	NN	_	18	nmod:npmod	_	_
+18	Tiongkok	_	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w02007074
+# text = Kekaisaran Ottoman Empire dan Rusia tidak diberi izin untuk mempertahankan armada perangnya di Laut Hitam.
+# text_en = The Ottoman Empire and Russia were denied permission to keep their war fleet in the Black Sea.
+1	Kekaisaran	_	PROPN	NNP	_	7	nsubj:pass	_	_
+2	Ottoman	_	PROPN	NNP	_	1	flat	_	_
+3	Empire	_	PROPN	NNP	_	1	flat	_	_
+4	dan	_	CCONJ	CC	_	5	cc	_	_
+5	Rusia	_	PROPN	NNP	_	1	conj	_	_
+6	tidak	_	PART	NEG	_	7	advmod	_	_
+7	diberi	_	VERB	VV	_	0	root	_	_
+8	izin	_	NOUN	NN	_	7	obl:mod	_	_
+9	untuk	_	SCONJ	SC	_	10	mark	_	_
+10	mempertahankan	_	VERB	VV	_	8	acl	_	_
+11	armada	_	NOUN	NN	_	10	obj	_	_
+12	perang	_	NOUN	NN	_	11	compound	_	SpaceAfter=No
+13	nya	_	DET	PRP$	_	11	nmod:poss	_	_
+14	di	_	ADP	IN	_	15	case	_	_
+15	Laut	_	PROPN	NNP	_	10	obl	_	_
+16	Hitam	_	PROPN	NNP	_	15	flat	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w01041046
+# text = Namun di Thailand, urbanisasi juga telah mengakibatkan peningkatan besar masalah-masalah seperti obesitas.
+# text_en = However, in Thailand, urbanization has also resulted in massive increases in problems such as obesity.
+1	Namun	_	CCONJ	CC	_	8	cc	_	_
+2	di	_	ADP	IN	_	3	case	_	_
+3	Thailand	_	PROPN	NNP	_	8	obl	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	urbanisasi	_	NOUN	NN	_	8	nsubj	_	_
+6	juga	_	ADV	RB	_	8	advmod	_	_
+7	telah	_	AUX	MD	_	8	aux	_	_
+8	mengakibatkan	_	VERB	VV	_	0	root	_	_
+9	peningkatan	_	NOUN	NN	_	8	obj	_	_
+10	besar	_	ADJ	JJ	_	9	amod	_	_
+11	masalah-masalah	_	NOUN	NN	_	9	nmod:npmod	_	_
+12	seperti	_	ADP	IN	_	13	case	_	_
+13	obesitas	_	NOUN	NN	_	11	nmod	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = n01084008
+# text = Secara teoretis, satu pasangan bisa membuka empat akun Tesco dan mendapatkan 3% atas £ 12.000 – £ 360.
+# text_en = Theoretically, a couple could open four Tesco accounts and earn 3% on £12,000 – £360.
+1	Secara	_	ADP	IN	_	2	case:adv	_	_
+2	teoretis	_	ADV	RV	_	7	advmod	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	satu	_	NUM	CD	_	5	nummod	_	_
+5	pasangan	_	NOUN	NN	_	7	nsubj	_	_
+6	bisa	_	AUX	MD	_	7	aux	_	_
+7	membuka	_	VERB	VV	_	0	root	_	_
+8	empat	_	NUM	CD	_	9	nummod	_	_
+9	akun	_	NOUN	NN	_	7	obj	_	_
+10	Tesco	_	PROPN	NNP	_	9	nmod:npmod	_	_
+11	dan	_	CCONJ	CC	_	12	cc	_	_
+12	mendapatkan	_	VERB	VV	_	7	conj	_	_
+13	3	_	NUM	CD	_	14	nummod	_	SpaceAfter=No
+14	%	_	SYM	SYM	_	12	obj	_	_
+15	atas	_	ADP	IN	_	16	case	_	_
+16	£	_	SYM	SYM	_	14	nmod	_	_
+17	12.000	_	NUM	CD	_	16	nummod	_	_
+18	–	_	PUNCT	HYPH	_	19	punct	_	_
+19	£	_	SYM	SYM	_	16	flat:range	_	_
+20	360	_	NUM	CD	_	19	nummod	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w01135034
+# text = Pada tahun 2011, Blunt ditunjuk sebagai duta parfum baru Yves Saint Laurent, Opium.
+# text_en = In 2011, Blunt was named the ambassadress of the new Yves Saint Laurent fragrance, Opium.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	tahun	_	NOUN	NN	_	6	obl	_	_
+3	2011	_	NUM	CD	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	Blunt	_	PROPN	NNP	_	6	nsubj:pass	_	_
+6	ditunjuk	_	VERB	VV	_	0	root	_	_
+7	sebagai	_	ADP	IN	_	8	case	_	_
+8	duta	_	NOUN	NN	_	6	obl	_	_
+9	parfum	_	NOUN	NN	_	8	compound	_	_
+10	baru	_	ADJ	JJ	_	9	amod	_	_
+11	Yves	_	PROPN	NNP	_	9	nmod:npmod	_	_
+12	Saint	_	PROPN	NNP	_	11	flat	_	_
+13	Laurent	_	PROPN	NNP	_	11	flat	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	15	punct	_	_
+15	Opium	_	PROPN	NNP	_	9	appos	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01113021
+# text = Setelah beberapa bedah jenius dan banyak rehabilitasi yang sangat keras, saya sudah pulih sepenuhnya.
+# text_en = After some genius surgery and a lot of very tough rehab, I have made a full recovery.
+1	Setelah	_	ADP	IN	_	3	case	_	_
+2	beberapa	_	DET	DT	_	3	det	_	_
+3	bedah	_	NOUN	NN	_	14	obl	_	_
+4	jenius	_	ADJ	JJ	_	3	amod	_	_
+5	dan	_	CCONJ	CC	_	7	cc	_	_
+6	banyak	_	DET	DT	_	7	det	_	_
+7	rehabilitasi	_	NOUN	NN	_	3	conj	_	_
+8	yang	_	PRON	WP	_	10	nsubj	_	_
+9	sangat	_	ADV	RB	_	10	advmod	_	_
+10	keras	_	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	3	punct	_	_
+12	saya	_	PRON	PRP	_	14	nsubj	_	_
+13	sudah	_	AUX	MD	_	14	aux	_	_
+14	pulih	_	VERB	VV	_	0	root	_	_
+15	sepenuhnya	_	ADV	RB	_	14	amod	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = w01050067
+# text = Dengan kejatuhan Dinasti Qing pada tahun 1911, Mongolia di bawah Bogd Khaan mendeklarasikan kemerdekaan.
+# text_en = With the fall of the Qing dynasty in 1911, Mongolia under the Bogd Khaan declared independence.
+1	Dengan	_	ADP	IN	_	2	case	_	_
+2	kejatuhan	_	NOUN	NN	_	14	obl	_	_
+3	Dinasti	_	PROPN	NNP	_	2	nmod:npmod	_	_
+4	Qing	_	PROPN	NNP	_	3	flat	_	_
+5	pada	_	ADP	IN	_	6	case	_	_
+6	tahun	_	NOUN	NN	_	2	nmod	_	_
+7	1911	_	NUM	CD	_	6	nummod	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	14	punct	_	_
+9	Mongolia	_	PROPN	NNP	_	14	nsubj	_	_
+10	di	_	ADP	IN	_	12	case	_	_
+11	bawah	_	NOUN	NN	_	12	nmod:npmod	_	_
+12	Bogd	_	PROPN	NNP	_	9	nmod	_	_
+13	Khaan	_	PROPN	NNP	_	12	flat	_	_
+14	mendeklarasikan	_	VERB	VV	_	0	root	_	_
+15	kemerdekaan	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = n01120020
+# text = Semua petugas medis bersenjata, kecuali saya.
+# text_en = All the medics were armed, except me.
+1	Semua	_	DET	DT	_	2	det	_	_
+2	petugas	_	NOUN	NN	_	4	nsubj	_	_
+3	medis	_	ADJ	JJ	_	2	amod	_	_
+4	bersenjata	_	VERB	VV	_	0	root	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	7	punct	_	_
+6	kecuali	_	ADP	IN	_	7	case	_	_
+7	saya	_	PRON	PRP	_	4	obl	_	SpaceAfter=No
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w03007039
+# text = Perdagangan dikembangkan dengan mendirikan pos-pos terdepan di sepanjang Mediterania, sebuah teknik yang belum pernah digunakan hingga saat itu.
+# text_en = Trade was developed by establishing commercial outposts throughout the Mediterranean, a technique that had not been used until then.
+1	Perdagangan	_	NOUN	NN	_	2	nsubj:pass	_	_
+2	dikembangkan	_	VERB	VV	_	0	root	_	_
+3	dengan	_	SCONJ	SC	_	4	mark	_	_
+4	mendirikan	_	VERB	VV	_	2	advcl	_	_
+5	pos-pos	_	NOUN	NN	_	4	obj	_	_
+6	terdepan	_	ADJ	JJ	_	5	amod	_	_
+7	di	_	ADP	IN	_	9	case	_	_
+8	sepanjang	_	NOUN	NN	_	9	nmod:npmod	_	_
+9	Mediterania	_	PROPN	NNP	_	4	obl	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	12	punct	_	_
+11	sebuah	_	DET	DT	_	12	det	_	_
+12	teknik	_	NOUN	NN	_	2	parataxis	_	_
+13	yang	_	PRON	WP	_	16	nsubj:pass	_	_
+14	belum	_	PART	NEG	_	16	advmod	_	_
+15	pernah	_	AUX	MD	_	16	aux	_	_
+16	digunakan	_	VERB	VV	_	12	acl:relcl	_	_
+17	hingga	_	ADP	IN	_	18	case	_	_
+18	saat	_	NOUN	NN	_	16	obl	_	_
+19	itu	_	DET	DT	_	18	det	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w01064034
+# text = Ini adalah kapal dari benua Eropa.
+# text_en = This was by boat from continental Europe.
+1	Ini	_	PRON	PRD	_	3	nsubj	_	_
+2	adalah	_	AUX	VC	_	3	cop	_	_
+3	kapal	_	NOUN	NN	_	0	root	_	_
+4	dari	_	ADP	IN	_	5	case	_	_
+5	benua	_	NOUN	NN	_	3	nmod	_	_
+6	Eropa	_	PROPN	NNP	_	5	nmod:npmod	_	SpaceAfter=No
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w02004021
+# text = Balai kota historis di Obermarsberg berasal dari abad ke-13 dan direnovasi setelah Perang Tiga Puluh Tahun.
+# text_en = The historical city hall in Obermarsberg originates from the 13th century and was refurbished after the Thirty Years' War.
+1	Balai	_	NOUN	NN	_	6	nsubj	_	_
+2	kota	_	NOUN	NN	_	1	compound	_	_
+3	historis	_	ADJ	JJ	_	1	amod	_	_
+4	di	_	ADP	IN	_	5	case	_	_
+5	Obermarsberg	_	PROPN	NNP	_	1	nmod	_	_
+6	berasal	_	VERB	VV	_	0	root	_	_
+7	dari	_	ADP	IN	_	8	case	_	_
+8	abad	_	NOUN	NN	_	6	obl	_	_
+9	ke-13	_	ADJ	JJ	_	8	amod	_	_
+10	dan	_	CCONJ	CC	_	11	cc	_	_
+11	direnovasi	_	VERB	VV	_	6	conj	_	_
+12	setelah	_	ADP	IN	_	13	case	_	_
+13	Perang	_	PROPN	NNP	_	11	obl	_	_
+14	Tiga	_	PROPN	NNP	_	13	flat	_	_
+15	Puluh	_	PROPN	NNP	_	13	flat	_	_
+16	Tahun	_	PROPN	NNP	_	13	flat	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01085008
+# text = Masuk ke 2016 dan hal ini semakin layak diperhatikan.
+# text_en = Fast forward to 2016 and this is increasingly worthy of attention.
+1	Masuk	_	VERB	VV	_	0	root	_	_
+2	ke	_	ADP	IN	_	3	case	_	_
+3	2016	_	NUM	CD	_	1	obl	_	_
+4	dan	_	CCONJ	CC	_	8	cc	_	_
+5	hal	_	NOUN	NN	_	8	nsubj	_	_
+6	ini	_	DET	DT	_	5	det	_	_
+7	semakin	_	ADV	RB	_	8	advmod	_	_
+8	layak	_	ADJ	JJ	_	1	conj	_	_
+9	diperhatikan	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No
+10	.	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = w02013015
+# text = Revolusi Industri berlangsung di Britania Raya lebih awal dari negara lain.
+# text_en = The Industrial Revolution took place in Great Britain earlier than in any other country.
+1	Revolusi	_	PROPN	NNP	_	3	nsubj	_	_
+2	Industri	_	PROPN	NNP	_	1	flat	_	_
+3	berlangsung	_	VERB	VV	_	0	root	_	_
+4	di	_	ADP	IN	_	5	case	_	_
+5	Britania	_	PROPN	NNP	_	3	obl	_	_
+6	Raya	_	PROPN	NNP	_	5	flat	_	_
+7	lebih	_	ADV	RB	_	8	advmod	_	_
+8	awal	_	NOUN	NN	_	3	obl:mod	_	_
+9	dari	_	ADP	IN	_	10	case	_	_
+10	negara	_	NOUN	NN	_	8	nmod	_	_
+11	lain	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w02013033
+# text = Krisis Suez menunjukkan batas-batas kekuatan koloni lama seperti Britania Raya dan Prancis dalam dunia yang sedang berubah.
+# text_en = The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.
+1	Krisis	_	PROPN	NNP	_	3	nsubj	_	_
+2	Suez	_	PROPN	NNP	_	1	flat	_	_
+3	menunjukkan	_	VERB	VV	_	0	root	_	_
+4	batas-batas	_	NOUN	NN	_	3	obj	_	_
+5	kekuatan	_	NOUN	NN	_	4	nmod:npmod	_	_
+6	koloni	_	NOUN	NN	_	5	compound	_	_
+7	lama	_	ADJ	JJ	_	5	amod	_	_
+8	seperti	_	ADP	IN	_	9	case	_	_
+9	Britania	_	PROPN	NNP	_	5	nmod	_	_
+10	Raya	_	PROPN	NNP	_	9	flat	_	_
+11	dan	_	CCONJ	CC	_	12	cc	_	_
+12	Prancis	_	PROPN	NNP	_	9	conj	_	_
+13	dalam	_	ADP	IN	_	14	case	_	_
+14	dunia	_	NOUN	NN	_	3	obl	_	_
+15	yang	_	PRON	WP	_	17	nsubj	_	_
+16	sedang	_	AUX	MD	_	17	aux	_	_
+17	berubah	_	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01058052
+# text = Setelah North Carolina mengeluarkan undang-undang hak suara yang membatasi pada tahun 2013, Campbell mengadakan safari ke gereja-gereja untuk mengajari orang-orang tentang cara menghadapi tantangan dalam pendaftaran mereka.
+# text_en = After North Carolina passed its restrictive voting-rights bill in 2013, Campbell went around to churches teaching people how to deal with challenges to their registration.
+1	Setelah	_	SCONJ	SC	_	4	mark	_	_
+2	North	_	PROPN	NNP	_	4	nsubj	_	_
+3	Carolina	_	PROPN	NNP	_	2	flat	_	_
+4	mengeluarkan	_	VERB	VV	_	15	advcl	_	_
+5	undang-undang	_	NOUN	NN	_	4	obj	_	_
+6	hak	_	NOUN	NN	_	5	nmod	_	_
+7	suara	_	NOUN	NN	_	6	compound	_	_
+8	yang	_	PRON	WP	_	9	nsubj	_	_
+9	membatasi	_	VERB	VV	_	5	acl:relcl	_	_
+10	pada	_	ADP	IN	_	11	case	_	_
+11	tahun	_	NOUN	NN	_	4	obl	_	_
+12	2013	_	NUM	CD	_	11	nummod	_	SpaceAfter=No
+13	,	_	PUNCT	,	_	4	punct	_	_
+14	Campbell	_	PROPN	NNP	_	15	nsubj	_	_
+15	mengadakan	_	VERB	VV	_	0	root	_	_
+16	safari	_	NOUN	NN	_	15	obj	_	_
+17	ke	_	ADP	IN	_	18	case	_	_
+18	gereja-gereja	_	NOUN	NN	_	16	nmod	_	_
+19	untuk	_	SCONJ	SC	_	20	mark	_	_
+20	mengajari	_	VERB	VV	_	15	advcl	_	_
+21	orang-orang	_	NOUN	NN	_	20	obj	_	_
+22	tentang	_	ADP	IN	_	23	case	_	_
+23	cara	_	NOUN	NN	_	20	obl	_	_
+24	menghadapi	_	VERB	VV	_	23	acl	_	_
+25	tantangan	_	NOUN	NN	_	24	obj	_	_
+26	dalam	_	ADP	IN	_	27	case	_	_
+27	pendaftaran	_	NOUN	NN	_	25	nmod	_	_
+28	mereka	_	DET	PRP$	_	27	nmod:poss	_	SpaceAfter=No
+29	.	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = n01129006
+# text = Pemilihan telah, dalam bahasa teror, menjadi target lunak baru.
+# text_en = Voting has, in the vernacular of terror, become the new soft target.
+1	Pemilihan	_	NOUN	NN	_	8	nsubj	_	_
+2	telah	_	AUX	MD	_	8	aux	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	dalam	_	ADP	IN	_	5	case	_	_
+5	bahasa	_	NOUN	NN	_	8	obl	_	_
+6	teror	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	5	punct	_	_
+8	menjadi	_	VERB	VV	_	0	root	_	_
+9	target	_	NOUN	NN	_	8	obl:mod	_	_
+10	lunak	_	ADJ	JJ	_	9	amod	_	_
+11	baru	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w02019077
+# text = Pondok itu terbakar habis.
+# text_en = The chalet burned completely down.
+1	Pondok	_	NOUN	NN	_	3	nsubj:pass	_	_
+2	itu	_	DET	DT	_	1	det	_	_
+3	terbakar	_	VERB	VV	_	0	root	_	_
+4	habis	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
+5	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01127089
+# text = Saya tidak tahu mengapa saya memilihnya ...
+# text_en = I don't know why I chose her ...
+1	Saya	_	PRON	PRP	_	3	nsubj	_	_
+2	tidak	_	PART	NEG	_	3	advmod	_	_
+3	tahu	_	VERB	VV	_	0	root	_	_
+4	mengapa	_	SCONJ	SC	_	6	mark	_	_
+5	saya	_	PRON	PRP	_	6	nsubj	_	_
+6	memilih	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
+7	nya	_	PRON	PRP	_	6	obj	_	_
+8	...	_	PUNCT	...	_	3	punct	_	_
+
+# sent_id = n01059008
+# text = Ketidaksesuaian data ekonomi dan retorika politik tidak asing, atau seharusnya tidak asing.
+# text_en = This discordance between economic data and political rhetoric is familiar, or should be.
+1	Ketidaksesuaian	_	NOUN	NN	_	8	nsubj	_	_
+2	data	_	NOUN	NN	_	1	compound	_	_
+3	ekonomi	_	NOUN	NN	_	2	compound	_	_
+4	dan	_	CCONJ	CC	_	5	cc	_	_
+5	retorika	_	NOUN	NN	_	1	conj	_	_
+6	politik	_	NOUN	NN	_	5	compound	_	_
+7	tidak	_	PART	NEG	_	8	advmod	_	_
+8	asing	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	13	punct	_	_
+10	atau	_	CCONJ	CC	_	13	cc	_	_
+11	seharusnya	_	ADV	RB	_	13	advmod	_	_
+12	tidak	_	PART	NEG	_	13	advmod	_	_
+13	asing	_	ADJ	JJ	_	8	conj	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w01092019
+# text = Perubahan fundamental dalam prinsip-prinsip kerja dibawa oleh seorang berkebangsaan Skotlandia bernama James Watt.
+# text_en = A fundamental change in working principles was brought about by Scotsman James Watt.
+1	Perubahan	_	NOUN	NN	_	6	nsubj:pass	_	_
+2	fundamental	_	ADJ	JJ	_	1	amod	_	_
+3	dalam	_	ADP	IN	_	4	case	_	_
+4	prinsip-prinsip	_	NOUN	NN	_	1	nmod	_	_
+5	kerja	_	VERB	VV	_	4	acl	_	_
+6	dibawa	_	VERB	VV	_	0	root	_	_
+7	oleh	_	ADP	IN	_	8	case	_	_
+8	seorang	_	NOUN	NN	_	6	obl	_	_
+9	berkebangsaan	_	VERB	VV	_	8	acl	_	_
+10	Skotlandia	_	PROPN	NNP	_	9	obl:mod	_	_
+11	bernama	_	VERB	VV	_	8	acl	_	_
+12	James	_	PROPN	NNP	_	11	obl:mod	_	_
+13	Watt	_	PROPN	NNP	_	12	flat	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w01135036
+# text = Pada tahun yang sama, ia tampil singkat dalam The Muppets dari Disney, sebagai resepsionis Miss Piggy.
+# text_en = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	tahun	_	NOUN	NN	_	7	obl	_	_
+3	yang	_	PRON	WP	_	4	nsubj	_	_
+4	sama	_	ADJ	JJ	_	2	acl:relcl	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	ia	_	PRON	PRP	_	7	nsubj	_	_
+7	tampil	_	VERB	VV	_	0	root	_	_
+8	singkat	_	ADJ	JJ	_	7	advmod	_	_
+9	dalam	_	ADP	IN	_	10	case	_	_
+10	The	_	PROPN	NNP	_	7	obl	_	_
+11	Muppets	_	PROPN	NNP	_	10	flat	_	_
+12	dari	_	ADP	IN	_	13	case	_	_
+13	Disney	_	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	16	punct	_	_
+15	sebagai	_	ADP	IN	_	16	case	_	_
+16	resepsionis	_	NOUN	NN	_	7	obl	_	_
+17	Miss	_	PROPN	NNP	_	16	nmod:poss	_	_
+18	Piggy	_	PROPN	NNP	_	17	flat	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n01143009
+# text = Dua orang Australia, yang mengaku sendiri sebagai pemain golf yang buruk, melaju ke turnamen golf premier di Korea Utara.
+# text_en = Two Australians, who by their own admission are terrible golfers, bluffed their way into a premier golf tournament in North Korea.
+1	Dua	_	NUM	CD	_	2	nummod	_	_
+2	orang	_	NOUN	NN	_	14	nsubj	_	_
+3	Australia	_	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	6	punct	_	_
+5	yang	_	PRON	WP	_	6	nsubj	_	_
+6	mengaku	_	VERB	VV	_	2	acl:relcl	_	_
+7	sendiri	_	ADJ	JJ	_	6	advmod	_	_
+8	sebagai	_	ADP	IN	_	9	case	_	_
+9	pemain	_	NOUN	NN	_	6	obl	_	_
+10	golf	_	NOUN	NN	_	9	compound	_	_
+11	yang	_	PRON	WP	_	12	nsubj	_	_
+12	buruk	_	ADJ	JJ	_	9	acl:relcl	_	SpaceAfter=No
+13	,	_	PUNCT	,	_	6	punct	_	_
+14	melaju	_	VERB	VV	_	0	root	_	_
+15	ke	_	ADP	IN	_	16	case	_	_
+16	turnamen	_	NOUN	NN	_	14	obl	_	_
+17	golf	_	NOUN	NN	_	16	compound	_	_
+18	premier	_	NOUN	NN	_	16	compound	_	_
+19	di	_	ADP	IN	_	20	case	_	_
+20	Korea	_	PROPN	NNP	_	16	nmod	_	_
+21	Utara	_	PROPN	NNP	_	20	flat	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = n01005031
+# text = Studi kelayakan memperkirakan bahwa penumpang akan menghabiskan waktu sekitar empat menit untuk menyeberangi Potomac River menggunakan gondola.
+# text_en = The feasibility study estimates that it would take passengers about four minutes to cross the Potomac River on the gondola.
+1	Studi	_	NOUN	NN	_	3	nsubj	_	_
+2	kelayakan	_	NOUN	NN	_	1	compound	_	_
+3	memperkirakan	_	VERB	VV	_	0	root	_	_
+4	bahwa	_	SCONJ	SC	_	7	mark	_	_
+5	penumpang	_	NOUN	NN	_	7	nsubj	_	_
+6	akan	_	AUX	MD	_	7	aux	_	_
+7	menghabiskan	_	VERB	VV	_	3	ccomp	_	_
+8	waktu	_	NOUN	NN	_	7	obj	_	_
+9	sekitar	_	ADV	RB	_	11	advmod	_	_
+10	empat	_	NUM	CD	_	11	nummod	_	_
+11	menit	_	NOUN	NNB	_	8	nmod:npmod	_	_
+12	untuk	_	SCONJ	SC	_	13	mark	_	_
+13	menyeberangi	_	VERB	VV	_	7	advcl	_	_
+14	Potomac	_	PROPN	NNP	_	13	obj	_	_
+15	River	_	PROPN	NNP	_	14	flat	_	_
+16	menggunakan	_	VERB	VV	_	13	advcl	_	_
+17	gondola	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01029083
+# text = Gereja-gereja Kristen di barat laut Eropa dan Ukraina sering menggunakan cabang pohon Gandarusa sebagai pengganti palem dalam perayaan Minggu Palem.
+# text_en = Christian churches in northwestern Europe and Ukraine often used willow branches in place of palms in the ceremonies on Palm Sunday.
+1	Gereja-gereja	_	NOUN	NN	_	10	nsubj	_	_
+2	Kristen	_	PROPN	NNP	_	1	nmod:npmod	_	_
+3	di	_	ADP	IN	_	6	case	_	_
+4	barat	_	NOUN	NN	_	6	nmod:npmod	_	_
+5	laut	_	NOUN	NN	_	4	compound	_	_
+6	Eropa	_	PROPN	NNP	_	1	nmod	_	_
+7	dan	_	CCONJ	CC	_	8	cc	_	_
+8	Ukraina	_	PROPN	NNP	_	6	conj	_	_
+9	sering	_	ADV	RB	_	10	advmod	_	_
+10	menggunakan	_	VERB	VV	_	0	root	_	_
+11	cabang	_	NOUN	NN	_	10	obj	_	_
+12	pohon	_	NOUN	NN	_	11	compound	_	_
+13	Gandarusa	_	NOUN	NN	_	12	nmod:npmod	_	_
+14	sebagai	_	ADP	IN	_	15	case	_	_
+15	pengganti	_	NOUN	NN	_	10	obl	_	_
+16	palem	_	NOUN	NN	_	15	compound	_	_
+17	dalam	_	ADP	IN	_	18	case	_	_
+18	perayaan	_	NOUN	NN	_	10	obl	_	_
+19	Minggu	_	PROPN	NNP	_	18	nmod:npmod	_	_
+20	Palem	_	PROPN	NNP	_	19	flat	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = w01117034
+# text = Ia mendapati bahwa transisi ke fiksi itu mudah, dengan menjelaskan "Setiap buku adalah kurva pembelajaran, dan Anda harus menjaga agar pikiran tetap terbuka."
+# text_en = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
+1	Ia	_	PRON	PRP	_	2	nsubj	_	_
+2	mendapati	_	VERB	VV	_	0	root	_	_
+3	bahwa	_	SCONJ	SC	_	8	mark	_	_
+4	transisi	_	NOUN	NN	_	8	nsubj	_	_
+5	ke	_	ADP	IN	_	6	case	_	_
+6	fiksi	_	NOUN	NN	_	4	nmod	_	_
+7	itu	_	DET	DT	_	4	det	_	_
+8	mudah	_	ADJ	JJ	_	2	ccomp	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	11	punct	_	_
+10	dengan	_	SCONJ	SC	_	11	mark	_	_
+11	menjelaskan	_	VERB	VV	_	2	advcl	_	_
+12	"	_	PUNCT	``	_	16	punct	_	SpaceAfter=No
+13	Setiap	_	DET	DT	_	14	det	_	_
+14	buku	_	NOUN	NN	_	16	nsubj	_	_
+15	adalah	_	AUX	VC	_	16	cop	_	_
+16	kurva	_	NOUN	NN	_	11	parataxis	_	_
+17	pembelajaran	_	NOUN	NN	_	16	compound	_	SpaceAfter=No
+18	,	_	PUNCT	,	_	22	punct	_	_
+19	dan	_	CCONJ	CC	_	22	cc	_	_
+20	Anda	_	PRON	PRP	_	22	nsubj	_	_
+21	harus	_	AUX	MD	_	22	aux	_	_
+22	menjaga	_	VERB	VV	_	16	conj	_	_
+23	agar	_	SCONJ	SC	_	26	mark	_	_
+24	pikiran	_	NOUN	NN	_	26	nsubj:pass	_	_
+25	tetap	_	ADV	RB	_	26	advmod	_	_
+26	terbuka	_	VERB	VV	_	22	advcl	_	SpaceAfter=No
+27	.	_	PUNCT	.	_	16	punct	_	SpaceAfter=No
+28	"	_	PUNCT	''	_	16	punct	_	_
+
+# sent_id = n01120010
+# text = Tidak semua hal dalam kisah Doss bisa diprediksi, sebuah karakteristik yang membuatnya semakin memikat.
+# text_en = Doss’s story also has an unlikely quality to it that makes it all the more appealing.
+1	Tidak	_	PART	NEG	_	3	advmod	_	_
+2	semua	_	DET	DT	_	3	det	_	_
+3	hal	_	NOUN	NN	_	8	nsubj:pass	_	_
+4	dalam	_	ADP	IN	_	5	case	_	_
+5	kisah	_	NOUN	NN	_	3	nmod	_	_
+6	Doss	_	PROPN	NNP	_	5	nmod:poss	_	_
+7	bisa	_	AUX	MD	_	8	aux	_	_
+8	diprediksi	_	VERB	VV	_	0	root	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	11	punct	_	_
+10	sebuah	_	DET	DT	_	11	det	_	_
+11	karakteristik	_	NOUN	NN	_	8	parataxis	_	_
+12	yang	_	PRON	WP	_	13	nsubj	_	_
+13	membuat	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
+14	nya	_	PRON	PRP	_	13	obj	_	_
+15	semakin	_	ADV	RB	_	16	advmod	_	_
+16	memikat	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w01119100
+# text = Secara tematis, Jasmine juga mewakili hak-hak sipil, toleransi rasial, hierarki sosial, dan juga kehidupan, kemerdekaan, dan pengejaran kebahagiaan.
+# text_en = Thematically, Jasmine also represents civil rights, racial tolerance, social hierarchy, as well as life, liberty and the pursuit of happiness.
+1	Secara	_	ADP	IN	_	2	case:adv	_	_
+2	tematis	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Jasmine	_	PROPN	NNP	_	6	nsubj	_	_
+5	juga	_	ADV	RB	_	6	advmod	_	_
+6	mewakili	_	VERB	VV	_	0	root	_	_
+7	hak-hak	_	NOUN	NN	_	6	obj	_	_
+8	sipil	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	10	punct	_	_
+10	toleransi	_	NOUN	NN	_	7	conj	_	_
+11	rasial	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	hierarki	_	NOUN	NN	_	7	conj	_	_
+14	sosial	_	ADJ	JJ	_	13	amod	_	SpaceAfter=No
+15	,	_	PUNCT	,	_	18	punct	_	_
+16	dan	_	CCONJ	CC	_	18	cc	_	_
+17	juga	_	ADV	RB	_	18	advmod	_	_
+18	kehidupan	_	NOUN	NN	_	7	conj	_	SpaceAfter=No
+19	,	_	PUNCT	,	_	20	punct	_	_
+20	kemerdekaan	_	NOUN	NN	_	18	conj	_	SpaceAfter=No
+21	,	_	PUNCT	,	_	23	punct	_	_
+22	dan	_	CCONJ	CC	_	23	cc	_	_
+23	pengejaran	_	NOUN	NN	_	18	conj	_	_
+24	kebahagiaan	_	NOUN	NN	_	23	compound	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01025045
+# text = Sepanjang sejarah, pasar rambut internasional selalu memiliki dimensi politis, ujar Tarlo.
+# text_en = Throughout history, the international hair market has always had a political dimension, says Tarlo.
+1	Sepanjang	_	NOUN	NN	_	2	nmod:npmod	_	_
+2	sejarah	_	NOUN	NN	_	8	obl:mod	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	pasar	_	NOUN	NN	_	8	nsubj	_	_
+5	rambut	_	NOUN	NN	_	4	compound	_	_
+6	internasional	_	ADJ	JJ	_	4	amod	_	_
+7	selalu	_	ADV	RB	_	8	advmod	_	_
+8	memiliki	_	VERB	VV	_	0	root	_	_
+9	dimensi	_	NOUN	NN	_	8	obj	_	_
+10	politis	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	8	punct	_	_
+12	ujar	_	VERB	VV	_	8	parataxis	_	_
+13	Tarlo	_	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = n01084045
+# text = Bunga 3% itu juga berlaku untuk pemegang kartu Nectar yang ingin meminjam antara £ 15.001-£ 19.999 selama periode antara dua dan tiga tahun.
+# text_en = That 3% rate also applies to Nectar cardholders looking to borrow from £15,001-£19,999 over a period of between two and three years.
+1	Bunga	_	NOUN	NN	_	6	nsubj	_	_
+2	3	_	NUM	CD	_	3	nummod	_	SpaceAfter=No
+3	%	_	SYM	SYM	_	1	nmod:npmod	_	_
+4	itu	_	DET	DT	_	1	det	_	_
+5	juga	_	ADV	RB	_	6	advmod	_	_
+6	berlaku	_	VERB	VV	_	0	root	_	_
+7	untuk	_	ADP	IN	_	8	case	_	_
+8	pemegang	_	NOUN	NN	_	6	obl	_	_
+9	kartu	_	NOUN	NN	_	8	compound	_	_
+10	Nectar	_	PROPN	NNP	_	9	nmod:npmod	_	_
+11	yang	_	PRON	WP	_	12	nsubj	_	_
+12	ingin	_	VERB	VV	_	8	acl:relcl	_	_
+13	meminjam	_	VERB	VV	_	12	xcomp	_	_
+14	antara	_	ADP	IN	_	15	case	_	_
+15	£	_	SYM	SYM	_	13	obl	_	_
+16	15.001	_	NUM	CD	_	15	nummod	_	SpaceAfter=No
+17	-	_	PUNCT	HYPH	_	18	punct	_	SpaceAfter=No
+18	£	_	SYM	SYM	_	15	flat:range	_	_
+19	19.999	_	NUM	CD	_	18	nummod	_	_
+20	selama	_	ADP	IN	_	21	case	_	_
+21	periode	_	NOUN	NN	_	13	obl	_	_
+22	antara	_	ADP	IN	_	26	case	_	_
+23	dua	_	NUM	CD	_	26	nummod	_	_
+24	dan	_	CCONJ	CC	_	25	cc	_	_
+25	tiga	_	NUM	CD	_	23	conj	_	_
+26	tahun	_	NOUN	NN	_	21	nmod	_	SpaceAfter=No
+27	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01142007
+# text = Isner, yang menghasilkan beberapa tennis terbaiknya saat ia mengimbangi pada satu set dan memaksa penentuan, juga memberikan penghormatan.
+# text_en = Isner, who produced some of his best tennis as he leveled at one set all and forced a decider, also paid his tribute.
+1	Isner	_	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	yang	_	PRON	WP	_	4	nsubj	_	_
+4	menghasilkan	_	VERB	VV	_	1	acl:relcl	_	_
+5	beberapa	_	DET	DT	_	6	det	_	_
+6	tennis	_	NOUN	NN	_	4	obj	_	_
+7	terbaik	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
+8	nya	_	DET	PRP$	_	6	nmod:poss	_	_
+9	saat	_	SCONJ	SC	_	11	mark	_	_
+10	ia	_	PRON	PRP	_	11	nsubj	_	_
+11	mengimbangi	_	VERB	VV	_	4	advcl	_	_
+12	pada	_	ADP	IN	_	14	case	_	_
+13	satu	_	NUM	CD	_	14	nummod	_	_
+14	set	_	NOUN	NN	_	11	obl	_	_
+15	dan	_	CCONJ	CC	_	16	cc	_	_
+16	memaksa	_	VERB	VV	_	11	conj	_	_
+17	penentuan	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
+18	,	_	PUNCT	,	_	4	punct	_	_
+19	juga	_	ADV	RB	_	20	advmod	_	_
+20	memberikan	_	VERB	VV	_	0	root	_	_
+21	penghormatan	_	NOUN	NN	_	20	obj	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	20	punct	_	_
+
+# sent_id = n01023020
+# text = Hal itu dilakukan di lepas pantai pesisir Meksiko mulai dari bulan April hingga Juni.
+# text_en = It was conducted just off the Mexican coast from April to June.
+1	Hal	_	NOUN	NN	_	3	nsubj:pass	_	_
+2	itu	_	DET	DT	_	1	det	_	_
+3	dilakukan	_	VERB	VV	_	0	root	_	_
+4	di	_	ADP	IN	_	6	case	_	_
+5	lepas	_	ADJ	JJ	_	6	amod	_	_
+6	pantai	_	NOUN	NN	_	3	obl	_	_
+7	pesisir	_	NOUN	NN	_	6	nmod:npmod	_	_
+8	Meksiko	_	PROPN	NNP	_	7	nmod:npmod	_	_
+9	mulai	_	VERB	VV	_	3	advcl	_	_
+10	dari	_	ADP	IN	_	11	case	_	_
+11	bulan	_	NOUN	NN	_	9	obl	_	_
+12	April	_	PROPN	NNP	_	11	nmod:npmod	_	_
+13	hingga	_	ADP	IN	_	14	case	_	_
+14	Juni	_	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n05006013
+# text = Tekanan, ironi halus, sindiran kasar dan perangkat verbal lain yang digunakan dengan baik pas dengan orasi parlementer, tapi menyerang terhadap satu sama lain dan komedi dagelan tidak pas.
+# text_en = Emphasis, fine irony, blunt innuendos and other well used verbal devices fit into parliamentary oratory, but flicking at each other and slapstick comedy do not.
+1	Tekanan	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	,	_	3	punct	_	_
+3	ironi	_	NOUN	NN	_	1	conj	_	_
+4	halus	_	ADJ	JJ	_	3	amod	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	6	punct	_	_
+6	sindiran	_	NOUN	NN	_	1	conj	_	_
+7	kasar	_	ADJ	JJ	_	6	amod	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	perangkat	_	NOUN	NN	_	1	conj	_	_
+10	verbal	_	ADJ	JJ	_	9	amod	_	_
+11	lain	_	ADJ	JJ	_	9	amod	_	_
+12	yang	_	PRON	WP	_	13	nsubj:pass	_	_
+13	digunakan	_	VERB	VV	_	9	acl:relcl	_	_
+14	dengan	_	ADP	IN	_	15	case:adv	_	_
+15	baik	_	ADV	RB	_	13	advmod	_	_
+16	pas	_	ADJ	JJ	_	0	root	_	_
+17	dengan	_	ADP	IN	_	18	case	_	_
+18	orasi	_	NOUN	NN	_	16	obl	_	_
+19	parlementer	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
+20	,	_	PUNCT	,	_	22	punct	_	_
+21	tapi	_	CCONJ	CC	_	22	cc	_	_
+22	menyerang	_	VERB	VV	_	16	conj	_	_
+23	terhadap	_	ADP	IN	_	24	case	_	_
+24	satu	_	NUM	CD	_	22	obl	_	_
+25	sama	_	CCONJ	CC	_	26	cc	_	_
+26	lain	_	ADJ	JJ	_	24	conj	_	_
+27	dan	_	CCONJ	CC	_	31	cc	_	_
+28	komedi	_	NOUN	NN	_	31	nsubj	_	_
+29	dagelan	_	NOUN	NN	_	28	compound	_	_
+30	tidak	_	PART	NEG	_	31	advmod	_	_
+31	pas	_	ADJ	JJ	_	16	conj	_	SpaceAfter=No
+32	.	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = n01064113
+# text = Caplan menolak pemilihan retrospektif, mengutip sepasang cendekia yang menyebutnya “tidak lebih rasional dari membunuh Firaun saat Sungai Nil tidak banjir.”
+# text_en = Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”
+1	Caplan	_	PROPN	NNP	_	2	nsubj	_	_
+2	menolak	_	VERB	VV	_	0	root	_	_
+3	pemilihan	_	NOUN	NN	_	2	obj	_	_
+4	retrospektif	_	ADJ	JJ	_	3	amod	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	6	punct	_	_
+6	mengutip	_	VERB	VV	_	2	advcl	_	_
+7	sepasang	_	DET	DT	_	8	det	_	_
+8	cendekia	_	NOUN	NN	_	6	obj	_	_
+9	yang	_	PRON	WP	_	10	nsubj	_	_
+10	menyebut	_	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
+11	nya	_	PRON	PRP	_	10	obj	_	_
+12	“	_	PUNCT	``	_	15	punct	_	SpaceAfter=No
+13	tidak	_	PART	NEG	_	14	advmod	_	_
+14	lebih	_	ADV	RB	_	15	advmod	_	_
+15	rasional	_	ADJ	JJ	_	10	xcomp	_	_
+16	dari	_	SCONJ	SC	_	17	mark	_	_
+17	membunuh	_	VERB	VV	_	15	advcl	_	_
+18	Firaun	_	PROPN	NNP	_	17	obj	_	_
+19	saat	_	SCONJ	SC	_	23	mark	_	_
+20	Sungai	_	PROPN	NNP	_	23	nsubj	_	_
+21	Nil	_	PROPN	NNP	_	20	flat	_	_
+22	tidak	_	PART	NEG	_	23	advmod	_	_
+23	banjir	_	VERB	VV	_	17	advcl	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	15	punct	_	SpaceAfter=No
+25	”	_	PUNCT	''	_	15	punct	_	_
+
+# sent_id = n04010006
+# text = Imbalannya, Uber akan menerima investasi satu miliar dolar dan satu kursi di dewan direksi perusahaan China ini.
+# text_en = In return, Uber will receive a billion dollar investment and a seat on the board of directors of the Chinese company.
+1	Imbalan	_	NOUN	NN	_	6	obl:mod	_	SpaceAfter=No
+2	nya	_	DET	PRP$	_	1	nmod:poss	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	1	punct	_	_
+4	Uber	_	PROPN	NNP	_	6	nsubj	_	_
+5	akan	_	AUX	MD	_	6	aux	_	_
+6	menerima	_	VERB	VV	_	0	root	_	_
+7	investasi	_	NOUN	NN	_	6	obj	_	_
+8	satu	_	NUM	CD	_	10	nummod	_	_
+9	miliar	_	NUM	CD	_	8	flat	_	_
+10	dolar	_	NOUN	NNB	_	7	nmod:npmod	_	_
+11	dan	_	CCONJ	CC	_	13	cc	_	_
+12	satu	_	NUM	CD	_	13	nummod	_	_
+13	kursi	_	NOUN	NN	_	7	conj	_	_
+14	di	_	ADP	IN	_	15	case	_	_
+15	dewan	_	NOUN	NN	_	13	nmod	_	_
+16	direksi	_	NOUN	NN	_	15	compound	_	_
+17	perusahaan	_	NOUN	NN	_	15	compound	_	_
+18	China	_	PROPN	NNP	_	17	nmod:npmod	_	_
+19	ini	_	DET	DT	_	17	det	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n05009030
+# text = Puluhan pengikut FSLN sudah merayakan kemenangan di Plaza de las Victorias.
+# text_en = Dozens of FSLN followers are already celebrating the victory in the Plaza de las Victorias.
+1	Puluhan	_	NUM	CD	_	2	nummod	_	_
+2	pengikut	_	NOUN	NN	_	5	nsubj	_	_
+3	FSLN	_	PROPN	NNP	_	2	nmod:npmod	_	_
+4	sudah	_	AUX	MD	_	5	aux	_	_
+5	merayakan	_	VERB	VV	_	0	root	_	_
+6	kemenangan	_	NOUN	NN	_	5	obj	_	_
+7	di	_	ADP	IN	_	8	case	_	_
+8	Plaza	_	PROPN	NNP	_	5	obl	_	_
+9	de	_	PROPN	NNP	_	8	flat	_	_
+10	las	_	PROPN	NNP	_	8	flat	_	_
+11	Victorias	_	PROPN	NNP	_	8	flat	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01044009
+# text = Itu mengarah pada pengungkapan selama dua hari terakhir bahwa sedikitnya enam jurnalis Quebec lain menjadi target operasi pengawasan polisi provinsi.
+# text_en = That led to revelations over the last two days that at least six other Quebec journalists were targeted by provincial police surveillance operations.
+1	Itu	_	PRON	PRD	_	2	nsubj	_	_
+2	mengarah	_	VERB	VV	_	0	root	_	_
+3	pada	_	ADP	IN	_	4	case	_	_
+4	pengungkapan	_	NOUN	NN	_	2	obl	_	_
+5	selama	_	ADP	IN	_	7	case	_	_
+6	dua	_	NUM	CD	_	7	nummod	_	_
+7	hari	_	NOUN	NN	_	4	nmod	_	_
+8	terakhir	_	ADJ	JJ	_	7	amod	_	_
+9	bahwa	_	SCONJ	SC	_	15	mark	_	_
+10	sedikitnya	_	ADV	RB	_	12	advmod	_	_
+11	enam	_	NUM	CD	_	12	nummod	_	_
+12	jurnalis	_	NOUN	NN	_	15	nsubj	_	_
+13	Quebec	_	PROPN	NNP	_	12	nmod:npmod	_	_
+14	lain	_	ADJ	JJ	_	12	amod	_	_
+15	menjadi	_	VERB	VV	_	4	acl	_	_
+16	target	_	NOUN	NN	_	15	obl:mod	_	_
+17	operasi	_	NOUN	NN	_	16	nmod:npmod	_	_
+18	pengawasan	_	NOUN	NN	_	17	compound	_	_
+19	polisi	_	NOUN	NN	_	17	nmod:npmod	_	_
+20	provinsi	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01066093
+# text = “Pengabaian sepenuhnya terhadap kesehatannya,” lapor Alice, istrinya.
+# text_en = “Complete neglect of his own health,” his wife, Alice, reported.
+1	“	_	PUNCT	``	_	2	punct	_	SpaceAfter=No
+2	Pengabaian	_	NOUN	NN	_	0	root	_	_
+3	sepenuhnya	_	ADV	RB	_	2	advmod	_	_
+4	terhadap	_	ADP	IN	_	5	case	_	_
+5	kesehatan	_	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+6	nya	_	DET	PRP$	_	5	nmod:poss	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	2	punct	_	SpaceAfter=No
+8	”	_	PUNCT	''	_	2	punct	_	_
+9	lapor	_	VERB	VV	_	2	parataxis	_	_
+10	Alice	_	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	12	punct	_	_
+12	istri	_	NOUN	NN	_	10	appos	_	SpaceAfter=No
+13	nya	_	DET	PRP$	_	12	nmod:poss	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n05002023
+# text = Lebih lanjut, Pemerintah harus menghadapi "isu kontroversial" lain.
+# text_en = Furthermore, the Government will have to deal with another "hot potato".
+1	Lebih	_	ADV	RB	_	2	advmod	_	_
+2	lanjut	_	ADJ	JJ	_	6	advmod	_	SpaceAfter=No
+3	,	_	PUNCT	,	_	1	punct	_	_
+4	Pemerintah	_	NOUN	NN	_	6	nsubj	_	_
+5	harus	_	AUX	MD	_	6	aux	_	_
+6	menghadapi	_	VERB	VV	_	0	root	_	_
+7	"	_	PUNCT	``	_	8	punct	_	SpaceAfter=No
+8	isu	_	NOUN	NN	_	6	obj	_	_
+9	kontroversial	_	ADJ	JJ	_	8	amod	_	SpaceAfter=No
+10	"	_	PUNCT	''	_	8	punct	_	_
+11	lain	_	ADJ	JJ	_	8	amod	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w01031015
+# text = Magma ini cenderung sangat kental karena tingginya kandungan silikanya, sehingga tidak mencapai permukaan melainkan mendingin di kedalaman.
+# text_en = This magma tends to be very viscous due to its high silica content, so it often does not reach the surface but cools at depth.
+1	Magma	_	NOUN	NN	_	5	nsubj	_	_
+2	ini	_	DET	DT	_	1	det	_	_
+3	cenderung	_	ADJ	JJ	_	5	advmod	_	_
+4	sangat	_	ADV	RB	_	5	advmod	_	_
+5	kental	_	ADJ	JJ	_	0	root	_	_
+6	karena	_	ADP	IN	_	7	case	_	_
+7	tingginya	_	NOUN	NN	_	5	obl	_	_
+8	kandungan	_	NOUN	NN	_	7	compound	_	_
+9	silika	_	NOUN	NN	_	8	compound	_	SpaceAfter=No
+10	nya	_	DET	PRP$	_	8	nmod:poss	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	14	punct	_	_
+12	sehingga	_	SCONJ	SC	_	14	mark	_	_
+13	tidak	_	PART	NEG	_	14	advmod	_	_
+14	mencapai	_	VERB	VV	_	5	advcl	_	_
+15	permukaan	_	NOUN	NN	_	14	obj	_	_
+16	melainkan	_	CCONJ	CC	_	17	cc	_	_
+17	mendingin	_	VERB	VV	_	14	conj	_	_
+18	di	_	ADP	IN	_	19	case	_	_
+19	kedalaman	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w01092032
+# text = Revolusi Industri menghasilkan permintaan untuk suku cadang logam yang digunakan pada mesin.
+# text_en = The Industrial Revolution created a demand for metal parts used in machinery.
+1	Revolusi	_	PROPN	NNP	_	3	nsubj	_	_
+2	Industri	_	PROPN	NNP	_	1	flat	_	_
+3	menghasilkan	_	VERB	VV	_	0	root	_	_
+4	permintaan	_	NOUN	NN	_	3	obj	_	_
+5	untuk	_	ADP	IN	_	6	case	_	_
+6	suku	_	NOUN	NN	_	4	nmod	_	_
+7	cadang	_	NOUN	NN	_	6	compound	_	_
+8	logam	_	NOUN	NN	_	6	nmod:npmod	_	_
+9	yang	_	PRON	WP	_	10	nsubj:pass	_	_
+10	digunakan	_	VERB	VV	_	6	acl:relcl	_	_
+11	pada	_	ADP	IN	_	12	case	_	_
+12	mesin	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
+13	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01005021
+# text = Pasukan Achaemenid menaklukkan Thrace, kota pesisir Yunani, dan Paeonian.
+# text_en = The Achaemenid troops conquered Thrace, the coastal Greek cities, and the Paeonians.
+1	Pasukan	_	NOUN	NN	_	3	nsubj	_	_
+2	Achaemenid	_	PROPN	NNP	_	1	nmod:npmod	_	_
+3	menaklukkan	_	VERB	VV	_	0	root	_	_
+4	Thrace	_	PROPN	NNP	_	3	obj	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	6	punct	_	_
+6	kota	_	NOUN	NN	_	4	appos	_	_
+7	pesisir	_	NOUN	NN	_	6	compound	_	_
+8	Yunani	_	PROPN	NNP	_	6	nmod:npmod	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	6	punct	_	_
+10	dan	_	CCONJ	CC	_	11	cc	_	_
+11	Paeonian	_	PROPN	NNP	_	4	conj	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01040103
+# text = Pada kecepatan angin yang lebih besar, sebagian partikel terangkat ke aliran udara.
+# text_en = At greater wind speeds, some particles are lifted into the air stream.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	kecepatan	_	NOUN	NN	_	10	obl	_	_
+3	angin	_	NOUN	NN	_	2	compound	_	_
+4	yang	_	PRON	WP	_	6	nsubj	_	_
+5	lebih	_	ADV	RB	_	6	advmod	_	_
+6	besar	_	ADJ	JJ	_	2	acl:relcl	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	2	punct	_	_
+8	sebagian	_	DET	DT	_	9	det	_	_
+9	partikel	_	NOUN	NN	_	10	nsubj:pass	_	_
+10	terangkat	_	VERB	VV	_	0	root	_	_
+11	ke	_	ADP	IN	_	12	case	_	_
+12	aliran	_	NOUN	NN	_	10	obl	_	_
+13	udara	_	NOUN	NN	_	12	compound	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = w01020020
+# text = Di kemudian hari, ketika Augustus mendirikan Kekaisaran Roma, bangsa Roma menyebut Mediterania sebagai Mare Nostrum (“Laut Kita”).
+# text_en = Later, when Augustus founded the Roman Empire, the Romans referred to the Mediterranean as Mare Nostrum ("Our Sea").
+1	Di	_	ADP	IN	_	3	case	_	_
+2	kemudian	_	ADV	RB	_	3	advmod	_	_
+3	hari	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	7	punct	_	_
+5	ketika	_	SCONJ	SC	_	7	mark	_	_
+6	Augustus	_	PROPN	NNP	_	7	nsubj	_	_
+7	mendirikan	_	VERB	VV	_	13	advcl	_	_
+8	Kekaisaran	_	PROPN	NNP	_	7	obj	_	_
+9	Roma	_	PROPN	NNP	_	8	flat	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	7	punct	_	_
+11	bangsa	_	NOUN	NN	_	13	nsubj	_	_
+12	Roma	_	PROPN	NNP	_	11	nmod:npmod	_	_
+13	menyebut	_	VERB	VV	_	0	root	_	_
+14	Mediterania	_	PROPN	NNP	_	13	obj	_	_
+15	sebagai	_	ADP	IN	_	16	case	_	_
+16	Mare	_	PROPN	NNP	_	13	obl	_	_
+17	Nostrum	_	PROPN	NNP	_	16	flat	_	_
+18	(	_	PUNCT	(	_	20	punct	_	SpaceAfter=No
+19	“	_	PUNCT	``	_	20	punct	_	SpaceAfter=No
+20	Laut	_	NOUN	NN	_	16	appos	_	_
+21	Kita	_	DET	PRP$	_	20	nmod:poss	_	SpaceAfter=No
+22	”	_	PUNCT	''	_	20	punct	_	SpaceAfter=No
+23	)	_	PUNCT	)	_	20	punct	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = n01007012
+# text = Ada benang merah yang bisa ditarik di sini antara pertandingan dan kehidupan kita sehari-hari.
+# text_en = There are parallels to draw here between games and our everyday lives.
+1	Ada	_	VERB	VV	_	0	root	_	_
+2	benang	_	NOUN	NN	_	1	nsubj	_	_
+3	merah	_	ADJ	JJ	_	2	amod	_	_
+4	yang	_	PRON	WP	_	6	nsubj:pass	_	_
+5	bisa	_	AUX	MD	_	6	aux	_	_
+6	ditarik	_	VERB	VV	_	2	acl:relcl	_	_
+7	di	_	ADP	IN	_	8	case	_	_
+8	sini	_	PRON	PRP	_	6	obl	_	_
+9	antara	_	ADP	IN	_	10	case	_	_
+10	pertandingan	_	NOUN	NN	_	2	nmod	_	_
+11	dan	_	CCONJ	CC	_	12	cc	_	_
+12	kehidupan	_	NOUN	NN	_	10	conj	_	_
+13	kita	_	DET	PRP$	_	12	nmod:poss	_	_
+14	sehari-hari	_	NOUN	NN	_	12	nmod:tmod	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = n01112002
+# text = Adidas membantu membersihkan lautan Bumi dengan menggunakan limbah yang mengambang di dunia untuk membuat sepatu.
+# text_en = Adidas is helping to clean up the Earth's oceans by using the waste floating around the world to make shoes.
+1	Adidas	_	PROPN	NNP	_	2	nsubj	_	_
+2	membantu	_	VERB	VV	_	0	root	_	_
+3	membersihkan	_	VERB	VV	_	2	xcomp	_	_
+4	lautan	_	NOUN	NN	_	3	obj	_	_
+5	Bumi	_	PROPN	NNP	_	4	nmod	_	_
+6	dengan	_	SCONJ	SC	_	7	mark	_	_
+7	menggunakan	_	VERB	VV	_	3	advcl	_	_
+8	limbah	_	NOUN	NN	_	7	obj	_	_
+9	yang	_	PRON	WP	_	10	nsubj	_	_
+10	mengambang	_	VERB	VV	_	8	acl:relcl	_	_
+11	di	_	ADP	IN	_	12	case	_	_
+12	dunia	_	NOUN	NN	_	10	obl	_	_
+13	untuk	_	SCONJ	SC	_	14	mark	_	_
+14	membuat	_	VERB	VV	_	7	advcl	_	_
+15	sepatu	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01075028
+# text = Seolah-olah ia sedang menjentikkan bola ke depan dan belakang di bawah tiga cangkir yang menengadah.
+# text_en = It was as though he was flicking the ball back and forth underneath three upturned cups.
+1	Seolah-olah	_	ADV	RB	_	4	advmod	_	_
+2	ia	_	PRON	PRP	_	4	nsubj	_	_
+3	sedang	_	AUX	MD	_	4	aux	_	_
+4	menjentikkan	_	VERB	VV	_	0	root	_	_
+5	bola	_	NOUN	NN	_	4	obj	_	_
+6	ke	_	ADP	IN	_	7	case	_	_
+7	depan	_	NOUN	NN	_	4	obl	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	belakang	_	NOUN	NN	_	7	conj	_	_
+10	di	_	ADP	IN	_	13	case	_	_
+11	bawah	_	NOUN	NN	_	13	nmod:npmod	_	_
+12	tiga	_	NUM	CD	_	13	nummod	_	_
+13	cangkir	_	NOUN	NN	_	4	obl	_	_
+14	yang	_	PRON	WP	_	15	nsubj	_	_
+15	menengadah	_	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w01066003
+# text = Akta kelahiran Thailand mencatat tanggal, bulan, dan waktu lahir, diikuti dengan hari, tanggal kalender Cina dan nama hewan zodiak.
+# text_en = Thai birth certificates record the date, month and time of birth, followed by the day of the week, lunar date, and the applicable zodiac animal name.
+1	Akta	_	NOUN	NN	_	4	nsubj	_	_
+2	kelahiran	_	NOUN	NN	_	1	compound	_	_
+3	Thailand	_	PROPN	NNP	_	1	nmod:npmod	_	_
+4	mencatat	_	VERB	VV	_	0	root	_	_
+5	tanggal	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	7	punct	_	_
+7	bulan	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	10	punct	_	_
+9	dan	_	CCONJ	CC	_	10	cc	_	_
+10	waktu	_	NOUN	NN	_	5	conj	_	_
+11	lahir	_	VERB	VV	_	5	acl	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	diikuti	_	VERB	VV	_	5	acl	_	_
+14	dengan	_	ADP	IN	_	15	case	_	_
+15	hari	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	17	punct	_	_
+17	tanggal	_	NOUN	NN	_	15	conj	_	_
+18	kalender	_	NOUN	NN	_	17	nmod:npmod	_	_
+19	Cina	_	PROPN	NNP	_	18	nmod:npmod	_	_
+20	dan	_	CCONJ	CC	_	21	cc	_	_
+21	nama	_	NOUN	NN	_	15	conj	_	_
+22	hewan	_	NOUN	NN	_	21	nmod:npmod	_	_
+23	zodiak	_	NOUN	NN	_	22	compound	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w04007006
+# text = Selama Perang Koalisi Pertama, seorang petugas artileri Korsika mulai mendapat pencerahan, setelah terjadinya Revolusi Prancis: Napoleon Bonaparte.
+# text_en = During the War of the First Coalition, light quickly began to be shed upon a young Corsican artillery officer, following the French Revolution: Napoleon Bonaparte.
+1	Selama	_	ADP	IN	_	2	case	_	_
+2	Perang	_	PROPN	NNP	_	10	obl	_	_
+3	Koalisi	_	PROPN	NNP	_	2	flat	_	_
+4	Pertama	_	PROPN	NNP	_	2	flat	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	seorang	_	DET	DT	_	7	det	_	_
+7	petugas	_	NOUN	NN	_	10	nsubj	_	_
+8	artileri	_	NOUN	NN	_	7	compound	_	_
+9	Korsika	_	PROPN	NNP	_	7	nmod:npmod	_	_
+10	mulai	_	VERB	VV	_	0	root	_	_
+11	mendapat	_	VERB	VV	_	10	xcomp	_	_
+12	pencerahan	_	NOUN	NN	_	11	obj	_	SpaceAfter=No
+13	,	_	PUNCT	,	_	15	punct	_	_
+14	setelah	_	ADP	IN	_	15	case	_	_
+15	terjadinya	_	NOUN	NN	_	11	obl	_	_
+16	Revolusi	_	PROPN	NNP	_	15	nmod:npmod	_	_
+17	Prancis	_	PROPN	NNP	_	16	flat	_	SpaceAfter=No
+18	:	_	PUNCT	:	_	19	punct	_	_
+19	Napoleon	_	PROPN	NNP	_	7	appos	_	_
+20	Bonaparte	_	PROPN	NNP	_	19	flat	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = n01061041
+# text = Seiring menguatnya histeria pemilihan Presiden 2016, ancaman yang lebih meresahkan daripada omong kosong memenuhi benak Karel.
+# text_en = As the hysteria of the 2016 Presidential election intensifies, a more troubling threat than bullshit preoccupies Karel.
+1	Seiring	_	ADP	IN	_	2	case	_	_
+2	menguatnya	_	NOUN	NN	_	15	obl	_	_
+3	histeria	_	NOUN	NN	_	2	nmod:npmod	_	_
+4	pemilihan	_	NOUN	NN	_	3	compound	_	_
+5	Presiden	_	NOUN	NN	_	4	compound	_	_
+6	2016	_	NUM	CD	_	4	nummod	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	2	punct	_	_
+8	ancaman	_	NOUN	NN	_	15	nsubj	_	_
+9	yang	_	PRON	WP	_	11	nsubj	_	_
+10	lebih	_	ADV	RB	_	11	advmod	_	_
+11	meresahkan	_	VERB	VV	_	8	acl:relcl	_	_
+12	daripada	_	ADP	IN	_	13	case	_	_
+13	omong	_	NOUN	NN	_	11	obl	_	_
+14	kosong	_	NOUN	NN	_	13	compound	_	_
+15	memenuhi	_	VERB	VV	_	0	root	_	_
+16	benak	_	NOUN	NN	_	15	obj	_	_
+17	Karel	_	PROPN	NNP	_	16	nmod:poss	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = n01087023
+# text = Catalano pindah kembali ke area itu setelah tinggal di London dan lalu Glasgow, tempat ia belajar desain perhiasan di Glasgow School of Art.
+# text_en = Catalano moved back to the area after living in London and then Glasgow, where he had studied jewellery design at Glasgow School of Art.
+1	Catalano	_	PROPN	NNP	_	2	nsubj	_	_
+2	pindah	_	VERB	VV	_	0	root	_	_
+3	kembali	_	ADV	RB	_	2	advmod	_	_
+4	ke	_	ADP	IN	_	5	case	_	_
+5	area	_	NOUN	NN	_	2	obl	_	_
+6	itu	_	DET	DT	_	5	det	_	_
+7	setelah	_	SCONJ	SC	_	8	mark	_	_
+8	tinggal	_	VERB	VV	_	2	advcl	_	_
+9	di	_	ADP	IN	_	10	case	_	_
+10	London	_	PROPN	NNP	_	8	obl	_	_
+11	dan	_	CCONJ	CC	_	13	cc	_	_
+12	lalu	_	ADP	IN	_	13	case	_	_
+13	Glasgow	_	PROPN	NNP	_	10	conj	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	17	punct	_	_
+15	tempat	_	SCONJ	SC	_	17	mark	_	_
+16	ia	_	PRON	PRP	_	17	nsubj	_	_
+17	belajar	_	VERB	VV	_	13	acl:relcl	_	_
+18	desain	_	NOUN	NN	_	17	obl:mod	_	_
+19	perhiasan	_	NOUN	NN	_	18	compound	_	_
+20	di	_	ADP	IN	_	21	case	_	_
+21	Glasgow	_	PROPN	NNP	_	17	obl	_	_
+22	School	_	PROPN	NNP	_	21	flat	_	_
+23	of	_	PROPN	NNP	_	21	flat	_	_
+24	Art	_	PROPN	NNP	_	21	flat	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w04002048
+# text = Pada tahun 1928, sebuah lapangan golf 90 hektar dibangun di bagian timur laut taman ini, di samping gelanggang pacuan.
+# text_en = In 1928, a 90-hectare golf course was built in the north-eastern part of the park, next to the racetrack.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	tahun	_	NOUN	NN	_	10	obl	_	_
+3	1928	_	NUM	CD	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	sebuah	_	DET	DT	_	6	det	_	_
+6	lapangan	_	NOUN	NN	_	10	nsubj:pass	_	_
+7	golf	_	NOUN	NN	_	6	compound	_	_
+8	90	_	NUM	CD	_	9	nummod	_	_
+9	hektar	_	NOUN	NNB	_	6	nmod:npmod	_	_
+10	dibangun	_	VERB	VV	_	0	root	_	_
+11	di	_	ADP	IN	_	15	case	_	_
+12	bagian	_	NOUN	NN	_	15	nmod:npmod	_	_
+13	timur	_	NOUN	NN	_	12	nmod:npmod	_	_
+14	laut	_	NOUN	NN	_	13	compound	_	_
+15	taman	_	NOUN	NN	_	10	obl	_	_
+16	ini	_	DET	DT	_	15	det	_	SpaceAfter=No
+17	,	_	PUNCT	,	_	18	punct	_	_
+18	di	_	ADP	IN	_	20	case	_	_
+19	samping	_	NOUN	NN	_	20	nmod:npmod	_	_
+20	gelanggang	_	NOUN	NN	_	10	obl	_	_
+21	pacuan	_	NOUN	NN	_	20	compound	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = n02007010
+# text = Dengan 71 goal dalam 137 pertandingan internasional, ia telah mencetak rekor jumlah gol untuk DFB.
+# text_en = With 71 goals in 137 international matches, he has shot a record number of goals for the DFB.
+1	Dengan	_	ADP	IN	_	3	case	_	_
+2	71	_	NUM	CD	_	3	nummod	_	_
+3	goal	_	NOUN	NN	_	11	obl	_	_
+4	dalam	_	ADP	IN	_	6	case	_	_
+5	137	_	NUM	CD	_	6	nummod	_	_
+6	pertandingan	_	NOUN	NN	_	3	nmod	_	_
+7	internasional	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	3	punct	_	_
+9	ia	_	PRON	PRP	_	11	nsubj	_	_
+10	telah	_	AUX	MD	_	11	aux	_	_
+11	mencetak	_	VERB	VV	_	0	root	_	_
+12	rekor	_	NOUN	NN	_	11	obj	_	_
+13	jumlah	_	NOUN	NN	_	12	nmod:npmod	_	_
+14	gol	_	NOUN	NN	_	13	compound	_	_
+15	untuk	_	ADP	IN	_	16	case	_	_
+16	DFB	_	NOUN	NN	_	12	nmod	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = w01007035
+# text = Cabang eksekutif ini terdiri dari Menteri Negara Bagian sebagai kepala pemerintahan, yang mengawasi lima anggota Dewan Pemerintah.
+# text_en = The executive branch consists of a Minister of State as the head of government, who presides over a five-member Council of Government.
+1	Cabang	_	NOUN	NN	_	4	nsubj:pass	_	_
+2	eksekutif	_	ADJ	JJ	_	1	amod	_	_
+3	ini	_	DET	DT	_	1	det	_	_
+4	terdiri	_	VERB	VV	_	0	root	_	_
+5	dari	_	ADP	IN	_	6	case	_	_
+6	Menteri	_	NOUN	NN	_	4	obl	_	_
+7	Negara	_	NOUN	NN	_	6	compound	_	_
+8	Bagian	_	NOUN	NN	_	7	compound	_	_
+9	sebagai	_	ADP	IN	_	10	case	_	_
+10	kepala	_	NOUN	NN	_	6	nmod	_	_
+11	pemerintahan	_	NOUN	NN	_	10	compound	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	14	punct	_	_
+13	yang	_	PRON	WP	_	14	nsubj	_	_
+14	mengawasi	_	VERB	VV	_	10	acl:relcl	_	_
+15	lima	_	NUM	CD	_	16	nummod	_	_
+16	anggota	_	NOUN	NN	_	14	obj	_	_
+17	Dewan	_	NOUN	NN	_	16	compound	_	_
+18	Pemerintah	_	NOUN	NN	_	17	compound	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01004017
+# text = Mereka menduduki rata-rata nasional di kelas 4 dan lebih baik dari rata-rata nasional di kelas 8.
+# text_en = They are at the national average in grade 4 and better than national average in grade 8.
+1	Mereka	_	PRON	PRP	_	2	nsubj	_	_
+2	menduduki	_	VERB	VV	_	0	root	_	_
+3	rata-rata	_	NOUN	NN	_	2	obj	_	_
+4	nasional	_	ADJ	JJ	_	3	amod	_	_
+5	di	_	ADP	IN	_	6	case	_	_
+6	kelas	_	NOUN	NN	_	3	nmod	_	_
+7	4	_	NUM	CD	_	6	nummod	_	_
+8	dan	_	CCONJ	CC	_	10	cc	_	_
+9	lebih	_	ADV	RB	_	10	advmod	_	_
+10	baik	_	ADJ	JJ	_	2	conj	_	_
+11	dari	_	ADP	IN	_	12	case	_	_
+12	rata-rata	_	NOUN	NN	_	10	obl	_	_
+13	nasional	_	ADJ	JJ	_	12	amod	_	_
+14	di	_	ADP	IN	_	15	case	_	_
+15	kelas	_	NOUN	NN	_	12	nmod	_	_
+16	8	_	NUM	CD	_	15	nummod	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w05010026
+# text = Tapi ketika Senat menjawabnya secara definitif dengan melarangnya bersaing di konsulate dan memberinya pilihan untuk menarik pasukannya atau menjadi musuh publik, ia memahami bahwa, apa pun alternatif yang ia pilih, ia akan menyerah tanpa senjata ke tangan lawan-lawan politiknya.
+# text_en = But when the Senate answered him definitively by prohibiting him from competing at the consolate and giving him the option of either withdrawing his troops or becoming a public enemy, he understood that, whatever alternative he chose, he would surrender unarmed into the hands of his political enemies.
+1	Tapi	_	CCONJ	CC	_	28	cc	_	_
+2	ketika	_	SCONJ	SC	_	4	mark	_	_
+3	Senat	_	PROPN	NNP	_	4	nsubj	_	_
+4	menjawab	_	VERB	VV	_	28	advcl	_	SpaceAfter=No
+5	nya	_	PRON	PRP	_	4	obj	_	_
+6	secara	_	ADP	IN	_	7	case:adv	_	_
+7	definitif	_	ADV	RB	_	4	advmod	_	_
+8	dengan	_	SCONJ	SC	_	9	mark	_	_
+9	melarang	_	VERB	VV	_	4	advcl	_	SpaceAfter=No
+10	nya	_	PRON	PRP	_	9	obj	_	_
+11	bersaing	_	VERB	VV	_	9	advcl	_	_
+12	di	_	ADP	IN	_	13	case	_	_
+13	konsulate	_	NOUN	NN	_	11	obl	_	_
+14	dan	_	CCONJ	CC	_	15	cc	_	_
+15	memberi	_	VERB	VV	_	9	conj	_	SpaceAfter=No
+16	nya	_	PRON	PRP	_	15	iobj	_	_
+17	pilihan	_	NOUN	NN	_	15	obj	_	_
+18	untuk	_	SCONJ	SC	_	19	mark	_	_
+19	menarik	_	VERB	VV	_	17	acl	_	_
+20	pasukan	_	NOUN	NN	_	19	obj	_	SpaceAfter=No
+21	nya	_	DET	PRP$	_	20	nmod:poss	_	_
+22	atau	_	CCONJ	CC	_	23	cc	_	_
+23	menjadi	_	VERB	VV	_	19	conj	_	_
+24	musuh	_	NOUN	NN	_	23	obl:mod	_	_
+25	publik	_	NOUN	NN	_	24	compound	_	SpaceAfter=No
+26	,	_	PUNCT	,	_	4	punct	_	_
+27	ia	_	PRON	PRP	_	28	nsubj	_	_
+28	memahami	_	VERB	VV	_	0	root	_	_
+29	bahwa	_	SCONJ	SC	_	40	mark	_	SpaceAfter=No
+30	,	_	PUNCT	,	_	29	punct	_	_
+31	apa	_	PRON	WP	_	40	obl	_	_
+32	pun	_	PART	RP	_	31	dep:prt	_	_
+33	alternatif	_	NOUN	NN	_	31	nmod:npmod	_	_
+34	yang	_	SCONJ	SC	_	36	mark	_	_
+35	ia	_	PRON	PRP	_	36	nsubj	_	_
+36	pilih	_	VERB	VV	_	33	acl:relcl	_	SpaceAfter=No
+37	,	_	PUNCT	,	_	31	punct	_	_
+38	ia	_	PRON	PRP	_	40	nsubj	_	_
+39	akan	_	AUX	MD	_	40	aux	_	_
+40	menyerah	_	VERB	VV	_	28	ccomp	_	_
+41	tanpa	_	ADP	IN	_	42	case	_	_
+42	senjata	_	NOUN	NN	_	40	obl	_	_
+43	ke	_	ADP	IN	_	44	case	_	_
+44	tangan	_	NOUN	NN	_	40	obl	_	_
+45	lawan-lawan	_	NOUN	NN	_	44	nmod:npmod	_	_
+46	politik	_	NOUN	NN	_	45	compound	_	SpaceAfter=No
+47	nya	_	DET	PRP$	_	45	nmod:poss	_	SpaceAfter=No
+48	.	_	PUNCT	.	_	28	punct	_	_
+
+# sent_id = w01140031
+# text = Setelah Hans Pettersson mendapatkan dana untuk membiayai pengeluaran Rona, Joliot-Curie mengizinkannya untuk datang dan mempelajari pemisahan polonium di Curie Institute di Paris.
+# text_en = Once Hans Pettersson was able to secure funds to pay Rona's expenses, Joliot-Curie allowed her to come and study polonium separation at the Curie Institute in Paris.
+1	Setelah	_	SCONJ	SC	_	4	mark	_	_
+2	Hans	_	PROPN	NNP	_	4	nsubj	_	_
+3	Pettersson	_	PROPN	NNP	_	2	flat	_	_
+4	mendapatkan	_	VERB	VV	_	12	advcl	_	_
+5	dana	_	NOUN	NN	_	4	obj	_	_
+6	untuk	_	SCONJ	SC	_	7	mark	_	_
+7	membiayai	_	VERB	VV	_	5	acl	_	_
+8	pengeluaran	_	NOUN	NN	_	7	obj	_	_
+9	Rona	_	PROPN	NNP	_	8	nmod:poss	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	4	punct	_	_
+11	Joliot-Curie	_	PROPN	NNP	_	12	nsubj	_	_
+12	mengizinkan	_	VERB	VV	_	0	root	_	SpaceAfter=No
+13	nya	_	PRON	PRP	_	12	obj	_	_
+14	untuk	_	SCONJ	SC	_	15	mark	_	_
+15	datang	_	VERB	VV	_	12	xcomp	_	_
+16	dan	_	CCONJ	CC	_	17	cc	_	_
+17	mempelajari	_	VERB	VV	_	15	conj	_	_
+18	pemisahan	_	NOUN	NN	_	17	obj	_	_
+19	polonium	_	NOUN	NN	_	18	compound	_	_
+20	di	_	ADP	IN	_	21	case	_	_
+21	Curie	_	PROPN	NNP	_	17	obl	_	_
+22	Institute	_	PROPN	NNP	_	21	flat	_	_
+23	di	_	ADP	IN	_	24	case	_	_
+24	Paris	_	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = w01044010
+# text = Output industri Nevada adalah turisme, pertambangan, permesinan, percetakan, pemrosesan makanan, dan peralatan listrik.
+# text_en = Nevada's industrial outputs are tourism, mining, machinery, printing and publishing, food processing, and electric equipment.
+1	Output	_	NOUN	NN	_	5	nsubj	_	_
+2	industri	_	NOUN	NN	_	1	compound	_	_
+3	Nevada	_	PROPN	NNP	_	2	nmod:npmod	_	_
+4	adalah	_	AUX	VC	_	5	cop	_	_
+5	turisme	_	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	7	punct	_	_
+7	pertambangan	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	9	punct	_	_
+9	permesinan	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	11	punct	_	_
+11	percetakan	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	pemrosesan	_	NOUN	NN	_	5	conj	_	_
+14	makanan	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
+15	,	_	PUNCT	,	_	17	punct	_	_
+16	dan	_	CCONJ	CC	_	17	cc	_	_
+17	peralatan	_	NOUN	NN	_	5	conj	_	_
+18	listrik	_	NOUN	NN	_	17	compound	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n04007023
+# text = Ini akan menjalani penilaian.
+# text_en = It will go for assessment.
+1	Ini	_	PRON	PRD	_	3	nsubj	_	_
+2	akan	_	AUX	MD	_	3	aux	_	_
+3	menjalani	_	VERB	VV	_	0	root	_	_
+4	penilaian	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
+5	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w04003054
+# text = Diterbitkannya mata uang sebagian besar bersifat numismatik (studi atau koleksi uang), dengan tujuan dijual terutama ke kolektor.
+# text_en = The issuing of coinage is predominantly numismatic in nature, with the intention of being sold mainly to collectors.
+1	Diterbitkannya	_	NOUN	NN	_	6	nsubj	_	_
+2	mata	_	NOUN	NN	_	1	nmod:npmod	_	_
+3	uang	_	NOUN	NN	_	2	compound	_	_
+4	sebagian	_	NOUN	NN	_	1	nmod:npmod	_	_
+5	besar	_	ADJ	JJ	_	4	amod	_	_
+6	bersifat	_	VERB	VV	_	0	root	_	_
+7	numismatik	_	ADJ	JJ	_	6	xcomp	_	_
+8	(	_	PUNCT	(	_	9	punct	_	SpaceAfter=No
+9	studi	_	NOUN	NN	_	7	appos	_	_
+10	atau	_	CCONJ	CC	_	11	cc	_	_
+11	koleksi	_	NOUN	NN	_	9	conj	_	_
+12	uang	_	NOUN	NN	_	11	compound	_	SpaceAfter=No
+13	)	_	PUNCT	)	_	9	punct	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	16	punct	_	_
+15	dengan	_	ADP	IN	_	16	case	_	_
+16	tujuan	_	NOUN	NN	_	7	obl	_	_
+17	dijual	_	VERB	VV	_	16	acl	_	_
+18	terutama	_	ADJ	JJ	_	20	amod	_	_
+19	ke	_	ADP	IN	_	20	case	_	_
+20	kolektor	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w01119059
+# text = Untuk menghindari dilema serupa dengan Jasmine, para pembuat film akhirnya memutuskan untuk membuat sang putri dianimasi sepenuhnya di satu studio.
+# text_en = To avoid experiencing a similar dilemma with Jasmine, the filmmakers ultimately decided to have the princess animated entirely at one studio.
+1	Untuk	_	SCONJ	SC	_	2	mark	_	_
+2	menghindari	_	VERB	VV	_	12	advcl	_	_
+3	dilema	_	NOUN	NN	_	2	obj	_	_
+4	serupa	_	ADJ	JJ	_	3	amod	_	_
+5	dengan	_	ADP	IN	_	6	case	_	_
+6	Jasmine	_	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	2	punct	_	_
+8	para	_	DET	DT	_	9	det	_	_
+9	pembuat	_	NOUN	NN	_	12	nsubj	_	_
+10	film	_	NOUN	NN	_	9	compound	_	_
+11	akhirnya	_	ADV	RB	_	12	advmod	_	_
+12	memutuskan	_	VERB	VV	_	0	root	_	_
+13	untuk	_	SCONJ	SC	_	14	mark	_	_
+14	membuat	_	VERB	VV	_	12	xcomp	_	_
+15	sang	_	DET	DT	_	16	det	_	_
+16	putri	_	NOUN	NN	_	14	obj	_	_
+17	dianimasi	_	VERB	VV	_	14	xcomp	_	_
+18	sepenuhnya	_	ADV	RB	_	17	advmod	_	_
+19	di	_	ADP	IN	_	21	case	_	_
+20	satu	_	NUM	CD	_	21	nummod	_	_
+21	studio	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = n01094022
+# text = “Agora hanya untuk undangan tapi banyak dari pasar ini yang mudah diakses jika Anda tahu cara mencarinya,” tambah Dr Lee.
+# text_en = “Agora was invitation-only but many of these marketplaces are easily accessible if you know how to search,” Dr Lee adds.
+1	“	_	PUNCT	``	_	5	punct	_	SpaceAfter=No
+2	Agora	_	NOUN	NN	_	5	nsubj	_	_
+3	hanya	_	ADV	RB	_	5	advmod	_	_
+4	untuk	_	ADP	IN	_	5	case	_	_
+5	undangan	_	NOUN	NN	_	0	root	_	_
+6	tapi	_	CCONJ	CC	_	7	cc	_	_
+7	banyak	_	ADJ	JJ	_	5	conj	_	_
+8	dari	_	ADP	IN	_	9	case	_	_
+9	pasar	_	NOUN	NN	_	7	obl	_	_
+10	ini	_	DET	DT	_	9	det	_	_
+11	yang	_	PRON	WP	_	13	nsubj	_	_
+12	mudah	_	ADJ	JJ	_	13	advmod	_	_
+13	diakses	_	VERB	VV	_	7	csubj	_	_
+14	jika	_	SCONJ	SC	_	16	mark	_	_
+15	Anda	_	PRON	PRP	_	16	nsubj	_	_
+16	tahu	_	VERB	VV	_	13	advcl	_	_
+17	cara	_	NOUN	NN	_	16	obl:mod	_	_
+18	mencari	_	VERB	VV	_	17	acl	_	SpaceAfter=No
+19	nya	_	PRON	PRP	_	18	obj	_	SpaceAfter=No
+20	,	_	PUNCT	,	_	5	punct	_	SpaceAfter=No
+21	”	_	PUNCT	''	_	5	punct	_	_
+22	tambah	_	VERB	VV	_	5	parataxis	_	_
+23	Dr	_	PROPN	NNP	_	22	nsubj	_	_
+24	Lee	_	PROPN	NNP	_	23	flat	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n03004003
+# text = Pada hari Kamis, 3 November, wali kota Saint-Gaudens (di wilayah Haute-Garonne) memutuskan untuk menangguhkan pengembangan perkotaan dengan pemerintah yang dibentuk pada tahun 2014.
+# text_en = On Thursday, the 3rd of November, the mayor of Saint-Gaudens (in the Haute-Garonne region) decided to suspend the urban development agreement with the government formed in 2014.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	hari	_	NOUN	NN	_	16	obl	_	_
+3	Kamis	_	PROPN	NNP	_	2	nmod:npmod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	5	punct	_	_
+5	3	_	NUM	CD	_	2	appos	_	_
+6	November	_	PROPN	NNP	_	5	flat	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	5	punct	_	_
+8	wali	_	NOUN	NN	_	16	nsubj	_	_
+9	kota	_	NOUN	NN	_	8	compound	_	_
+10	Saint-Gaudens	_	PROPN	NNP	_	8	nmod:npmod	_	_
+11	(	_	PUNCT	(	_	10	punct	_	SpaceAfter=No
+12	di	_	ADP	IN	_	13	case	_	_
+13	wilayah	_	NOUN	NN	_	10	nmod	_	_
+14	Haute-Garonne	_	PROPN	NNP	_	13	nmod:npmod	_	SpaceAfter=No
+15	)	_	PUNCT	)	_	10	punct	_	_
+16	memutuskan	_	VERB	VV	_	0	root	_	_
+17	untuk	_	SCONJ	SC	_	18	mark	_	_
+18	menangguhkan	_	VERB	VV	_	16	xcomp	_	_
+19	pengembangan	_	NOUN	NN	_	18	obj	_	_
+20	perkotaan	_	NOUN	NN	_	19	compound	_	_
+21	dengan	_	ADP	IN	_	22	case	_	_
+22	pemerintah	_	NOUN	NN	_	18	obl	_	_
+23	yang	_	PRON	WP	_	24	nsubj:pass	_	_
+24	dibentuk	_	VERB	VV	_	22	acl:relcl	_	_
+25	pada	_	ADP	IN	_	26	case	_	_
+26	tahun	_	NOUN	NN	_	24	obl	_	_
+27	2014	_	NUM	CD	_	26	nummod	_	SpaceAfter=No
+28	.	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = n01063043
+# text = Dalam sebuah wawancara baru-baru ini, Zay dan Zayion menjelaskan merekam versi “Knuck If You Buck” mereka di laptop di rumah.
+# text_en = In a recent interview, Zay and Zayion described recording their version of “Knuck If You Buck” on a home laptop.
+1	Dalam	_	ADP	IN	_	3	case	_	_
+2	sebuah	_	DET	DT	_	3	det	_	_
+3	wawancara	_	NOUN	NN	_	10	obl	_	_
+4	baru-baru	_	NOUN	NN	_	3	nmod:tmod	_	_
+5	ini	_	DET	DT	_	4	det	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	3	punct	_	_
+7	Zay	_	PROPN	NNP	_	10	nsubj	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	Zayion	_	PROPN	NNP	_	7	conj	_	_
+10	menjelaskan	_	VERB	VV	_	0	root	_	_
+11	merekam	_	VERB	VV	_	10	xcomp	_	_
+12	versi	_	NOUN	NN	_	11	obj	_	_
+13	“	_	PUNCT	``	_	14	punct	_	SpaceAfter=No
+14	Knuck	_	PROPN	NNP	_	12	nmod:npmod	_	_
+15	If	_	PROPN	NNP	_	14	flat	_	_
+16	You	_	PROPN	NNP	_	14	flat	_	_
+17	Buck	_	PROPN	NNP	_	14	flat	_	SpaceAfter=No
+18	”	_	PUNCT	''	_	14	punct	_	_
+19	mereka	_	DET	PRP$	_	12	nmod:poss	_	_
+20	di	_	ADP	IN	_	21	case	_	_
+21	laptop	_	NOUN	NN	_	11	obl	_	_
+22	di	_	ADP	IN	_	23	case	_	_
+23	rumah	_	NOUN	NN	_	21	nmod	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = n01048008
+# text = "Perkiraan ini bertepatan dengan persentase condo baru yang memasuki pasar persewaan setelah selesai dibangun, mengindikasikan peran penting yang dimainkan investor (domestik) dalam pasar perumahan GTA."
+# text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
+1	"	_	PUNCT	"	_	4	punct	_	SpaceAfter=No
+2	Perkiraan	_	NOUN	NN	_	4	nsubj	_	_
+3	ini	_	DET	DT	_	2	det	_	_
+4	bertepatan	_	VERB	VV	_	0	root	_	_
+5	dengan	_	ADP	IN	_	6	case	_	_
+6	persentase	_	NOUN	NN	_	4	obl	_	_
+7	condo	_	NOUN	NN	_	6	compound	_	_
+8	baru	_	ADJ	JJ	_	7	amod	_	_
+9	yang	_	PRON	WP	_	10	nsubj	_	_
+10	memasuki	_	VERB	VV	_	7	acl:relcl	_	_
+11	pasar	_	NOUN	NN	_	10	obj	_	_
+12	persewaan	_	NOUN	NN	_	11	compound	_	_
+13	setelah	_	SCONJ	SC	_	14	mark	_	_
+14	selesai	_	VERB	VV	_	10	advcl	_	_
+15	dibangun	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	17	punct	_	_
+17	mengindikasikan	_	VERB	VV	_	4	conj	_	_
+18	peran	_	NOUN	NN	_	17	obj	_	_
+19	penting	_	ADJ	JJ	_	18	amod	_	_
+20	yang	_	PRON	WP	_	21	nsubj:pass	_	_
+21	dimainkan	_	VERB	VV	_	18	acl:relcl	_	_
+22	investor	_	NOUN	NN	_	21	obl:agent	_	_
+23	(	_	PUNCT	(	_	24	punct	_	SpaceAfter=No
+24	domestik	_	ADJ	JJ	_	22	amod	_	SpaceAfter=No
+25	)	_	PUNCT	)	_	24	punct	_	_
+26	dalam	_	ADP	IN	_	27	case	_	_
+27	pasar	_	NOUN	NN	_	21	obl	_	_
+28	perumahan	_	NOUN	NN	_	27	compound	_	_
+29	GTA	_	PROPN	NNP	_	27	nmod:npmod	_	SpaceAfter=No
+30	.	_	PUNCT	.	_	4	punct	_	SpaceAfter=No
+31	"	_	PUNCT	"	_	4	punct	_	_
+
+# sent_id = w02008028
+# text = Seperti sebagian besar tempat di selatan Eropa, temuan ini ditemukan pada awal abad ke-5 SM.
+# text_en = Like the majority of sites in southern Europe, the finding dates back to the early 5th century BC.
+1	Seperti	_	ADP	IN	_	2	case	_	_
+2	sebagian	_	NOUN	NN	_	11	obl	_	_
+3	besar	_	ADJ	JJ	_	2	amod	_	_
+4	tempat	_	NOUN	NN	_	2	nmod:npmod	_	_
+5	di	_	ADP	IN	_	7	case	_	_
+6	selatan	_	NOUN	NN	_	7	nmod:npmod	_	_
+7	Eropa	_	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	4	punct	_	_
+9	temuan	_	NOUN	NN	_	11	nsubj:pass	_	_
+10	ini	_	DET	DT	_	9	det	_	_
+11	ditemukan	_	VERB	VV	_	0	root	_	_
+12	pada	_	ADP	IN	_	14	case	_	_
+13	awal	_	NOUN	NN	_	14	nmod:npmod	_	_
+14	abad	_	NOUN	NN	_	11	obl	_	_
+15	ke-5	_	ADJ	JJ	_	14	amod	_	_
+16	SM	_	NOUN	NN	_	14	nmod:npmod	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = w04006065
+# text = Hanya sedikit dari mereka (dengan gelar earl) telah ada pada masa Henry I dan ini sebagian besar bersifat simbolik.
+# text_en = Only a handful of them (earldoms) had existed under Henry I and these had been largely symbolic.
+1	Hanya	_	ADV	RB	_	2	advmod	_	_
+2	sedikit	_	ADJ	JJ	_	4	amod	_	_
+3	dari	_	ADP	IN	_	4	case	_	_
+4	mereka	_	PRON	PRP	_	11	nsubj	_	_
+5	(	_	PUNCT	(	_	7	punct	_	SpaceAfter=No
+6	dengan	_	ADP	IN	_	7	case	_	_
+7	gelar	_	NOUN	NN	_	4	nmod	_	_
+8	earl	_	PROPN	NNP	_	7	nmod:npmod	_	SpaceAfter=No
+9	)	_	PUNCT	)	_	7	punct	_	_
+10	telah	_	AUX	SC	_	11	aux	_	_
+11	ada	_	VERB	VV	_	0	root	_	_
+12	pada	_	ADP	IN	_	13	case	_	_
+13	masa	_	NOUN	NN	_	11	obl	_	_
+14	Henry	_	PROPN	NNP	_	13	nmod:npmod	_	_
+15	I	_	PROPN	NNP	_	14	flat	_	_
+16	dan	_	CCONJ	CC	_	20	cc	_	_
+17	ini	_	PRON	PRD	_	20	nsubj	_	_
+18	sebagian	_	NOUN	NN	_	17	nmod:npmod	_	_
+19	besar	_	ADJ	JJ	_	18	amod	_	_
+20	bersifat	_	VERB	VV	_	11	conj	_	_
+21	simbolik	_	ADJ	JJ	_	20	xcomp	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = w01085008
+# text = Dengan perjanjian perdamaian itu, Spanyol menyerahkan koloninya Puerto Rico, Guam, dan Filipina ke Amerika Serikat.
+# text_en = By the peace treaty Spain ceded to the United States its colonies of Puerto Rico, Guam, and the Philippines.
+1	Dengan	_	ADP	IN	_	2	case	_	_
+2	perjanjian	_	NOUN	NN	_	7	obl	_	_
+3	perdamaian	_	NOUN	NN	_	2	compound	_	_
+4	itu	_	DET	DT	_	2	det	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	Spanyol	_	PROPN	NNP	_	7	nsubj	_	_
+7	menyerahkan	_	VERB	VV	_	0	root	_	_
+8	koloni	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
+9	nya	_	DET	PRP$	_	8	nmod:poss	_	_
+10	Puerto	_	PROPN	NNP	_	8	appos	_	_
+11	Rico	_	PROPN	NNP	_	10	flat	_	SpaceAfter=No
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	Guam	_	PROPN	NNP	_	10	conj	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	16	punct	_	_
+15	dan	_	CCONJ	CC	_	16	cc	_	_
+16	Filipina	_	PROPN	NNP	_	10	conj	_	_
+17	ke	_	ADP	IN	_	18	case	_	_
+18	Amerika	_	PROPN	NNP	_	7	obl	_	_
+19	Serikat	_	PROPN	NNP	_	18	flat	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n02078004
+# text = Angka-angka yang bagus itu di Asia segera menaikkan pasar saham
+# text_en = The good numbers in Asia promptly pushed the stock markets up.
+1	Angka-angka	_	NOUN	NN	_	8	nsubj	_	_
+2	yang	_	PRON	WP	_	3	nsubj	_	_
+3	bagus	_	ADJ	JJ	_	1	acl:relcl	_	_
+4	itu	_	DET	DT	_	1	det	_	_
+5	di	_	ADP	IN	_	6	case	_	_
+6	Asia	_	PROPN	NNP	_	1	nmod	_	_
+7	segera	_	ADV	RB	_	8	advmod	_	_
+8	menaikkan	_	VERB	VV	_	0	root	_	_
+9	pasar	_	NOUN	NN	_	8	obj	_	_
+10	saham	_	NOUN	NN	_	9	compound	_	_
+
+# sent_id = n01041006
+# text = "Ini adalah petaka untuk pasien penderita rasa sakit," ujar Mailis dalam sebuah wawancara pada hari Kamis dengan CBC News.
+# text_en = "This is a disaster for pain patients," Mailis said in an interview Thursday with CBC News.
+1	"	_	PUNCT	"	_	4	punct	_	SpaceAfter=No
+2	Ini	_	PRON	PRD	_	4	nsubj	_	_
+3	adalah	_	AUX	VC	_	4	cop	_	_
+4	petaka	_	NOUN	NN	_	0	root	_	_
+5	untuk	_	ADP	IN	_	6	case	_	_
+6	pasien	_	NOUN	NN	_	4	nmod	_	_
+7	penderita	_	NOUN	NN	_	6	compound	_	_
+8	rasa	_	NOUN	NN	_	7	nmod:npmod	_	_
+9	sakit	_	ADJ	JJ	_	8	amod	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	4	punct	_	SpaceAfter=No
+11	"	_	PUNCT	"	_	4	punct	_	_
+12	ujar	_	VERB	VV	_	4	parataxis	_	_
+13	Mailis	_	PROPN	NNP	_	12	nsubj	_	_
+14	dalam	_	ADP	IN	_	16	case	_	_
+15	sebuah	_	DET	DT	_	16	det	_	_
+16	wawancara	_	NOUN	NN	_	12	obl	_	_
+17	pada	_	ADP	IN	_	18	case	_	_
+18	hari	_	NOUN	NN	_	16	nmod	_	_
+19	Kamis	_	PROPN	NNP	_	18	nmod:npmod	_	_
+20	dengan	_	ADP	IN	_	21	case	_	_
+21	CBC	_	PROPN	NNP	_	16	nmod	_	_
+22	News	_	PROPN	NNP	_	21	flat	_	SpaceAfter=No
+23	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01006011
+# text = Seorang saksi mengatakan kepada polisi bahwa korban telah menyerang tersangka pada bulan April.
+# text_en = A witness told police that the victim had attacked the suspect in April.
+1	Seorang	_	DET	DT	_	2	det	_	_
+2	saksi	_	NOUN	NN	_	3	nsubj	_	_
+3	mengatakan	_	VERB	VV	_	0	root	_	_
+4	kepada	_	ADP	IN	_	5	case	_	_
+5	polisi	_	NOUN	NN	_	3	obl	_	_
+6	bahwa	_	SCONJ	SC	_	9	mark	_	_
+7	korban	_	NOUN	NN	_	9	nsubj	_	_
+8	telah	_	AUX	MD	_	9	aux	_	_
+9	menyerang	_	VERB	VV	_	3	ccomp	_	_
+10	tersangka	_	NOUN	NN	_	9	obj	_	_
+11	pada	_	ADP	IN	_	12	case	_	_
+12	bulan	_	NOUN	NN	_	9	obl	_	_
+13	April	_	PROPN	NNP	_	12	nmod:npmod	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01093007
+# text = “Ikan kod Laut Celtic bisa tumbang,” tanpa batas yang diusulkan, ujar salah satu pejabat Uni Eropa.
+# text_en = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
+1	“	_	PUNCT	``	_	7	punct	_	SpaceAfter=No
+2	Ikan	_	NOUN	NN	_	7	nsubj	_	_
+3	kod	_	NOUN	NN	_	2	compound	_	_
+4	Laut	_	PROPN	NNP	_	2	nmod:npmod	_	_
+5	Celtic	_	PROPN	NNP	_	4	flat	_	_
+6	bisa	_	AUX	MD	_	7	aux	_	_
+7	tumbang	_	VERB	VV	_	0	root	_	SpaceAfter=No
+8	,	_	PUNCT	,	_	7	punct	_	SpaceAfter=No
+9	”	_	PUNCT	''	_	7	punct	_	_
+10	tanpa	_	ADP	IN	_	11	case	_	_
+11	batas	_	NOUN	NN	_	7	obl	_	_
+12	yang	_	PRON	WP	_	13	nsubj:pass	_	_
+13	diusulkan	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	7	punct	_	_
+15	ujar	_	VERB	VV	_	7	parataxis	_	_
+16	salah	_	PART	RP	_	17	compound:prt	_	_
+17	satu	_	NUM	CD	_	18	nummod	_	_
+18	pejabat	_	NOUN	NN	_	15	nsubj	_	_
+19	Uni	_	PROPN	NNP	_	18	nmod:npmod	_	_
+20	Eropa	_	PROPN	NNP	_	19	flat	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n01063051
+# text = Kebangkitan mereka menggarisbawahi daya tarik tantangan yang baik, artistik atau sebaliknya: ketidaknyamanan, pertumbuhan, dan koneksi yang bermakna.
+# text_en = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
+1	Kebangkitan	_	NOUN	NN	_	3	nsubj	_	_
+2	mereka	_	DET	PRP$	_	1	nmod:poss	_	_
+3	menggarisbawahi	_	VERB	VV	_	0	root	_	_
+4	daya	_	NOUN	NN	_	3	obj	_	_
+5	tarik	_	NOUN	NN	_	4	compound	_	_
+6	tantangan	_	NOUN	NN	_	4	nmod:npmod	_	_
+7	yang	_	PRON	WP	_	8	nsubj	_	_
+8	baik	_	ADJ	JJ	_	6	acl:relcl	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	10	punct	_	_
+10	artistik	_	ADJ	JJ	_	8	conj	_	_
+11	atau	_	CCONJ	CC	_	12	cc	_	_
+12	sebaliknya	_	NOUN	NN	_	4	conj	_	SpaceAfter=No
+13	:	_	PUNCT	:	_	14	punct	_	_
+14	ketidaknyamanan	_	NOUN	NN	_	12	nmod:npmod	_	SpaceAfter=No
+15	,	_	PUNCT	,	_	16	punct	_	_
+16	pertumbuhan	_	NOUN	NN	_	14	conj	_	SpaceAfter=No
+17	,	_	PUNCT	,	_	19	punct	_	_
+18	dan	_	CCONJ	CC	_	19	cc	_	_
+19	koneksi	_	NOUN	NN	_	14	conj	_	_
+20	yang	_	PRON	WP	_	21	nsubj	_	_
+21	bermakna	_	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01051004
+# text = Apa yang berawal sebagai USG rutin menjadi rumit ketika ibu hamil Margaret Boemer, dari Plano, Texas, diberi tahu bahwa bayi dalam kandungannya menderita kondisi langka dan harus dibedah untuk dapat bertahan hidup.
+# text_en = What started as a routine ultrasound became complicated when expectant mother Margaret Boemer, of Plano, Texas, was told her unborn child had a rare condition and needed surgery to survive.
+1	Apa	_	PRON	PRP	_	7	nsubj	_	_
+2	yang	_	PRON	WP	_	3	nsubj	_	_
+3	berawal	_	VERB	VV	_	1	acl:relcl	_	_
+4	sebagai	_	ADP	IN	_	5	case	_	_
+5	USG	_	NOUN	NN	_	3	obl	_	_
+6	rutin	_	NOUN	NN	_	5	compound	_	_
+7	menjadi	_	VERB	VV	_	0	root	_	_
+8	rumit	_	ADJ	JJ	_	7	xcomp	_	_
+9	ketika	_	SCONJ	SC	_	20	mark	_	_
+10	ibu	_	NOUN	NN	_	20	nsubj:pass	_	_
+11	hamil	_	VERB	VV	_	10	acl	_	_
+12	Margaret	_	PROPN	NNP	_	10	appos	_	_
+13	Boemer	_	PROPN	NNP	_	12	flat	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	16	punct	_	_
+15	dari	_	ADP	IN	_	16	case	_	_
+16	Plano	_	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
+17	,	_	PUNCT	,	_	18	punct	_	_
+18	Texas	_	PROPN	NNP	_	16	nmod:npmod	_	SpaceAfter=No
+19	,	_	PUNCT	,	_	16	punct	_	_
+20	diberi	_	VERB	VV	_	8	advcl	_	_
+21	tahu	_	PART	RP	_	20	compound:prt	_	_
+22	bahwa	_	SCONJ	SC	_	27	mark	_	_
+23	bayi	_	NOUN	NN	_	27	nsubj	_	_
+24	dalam	_	ADP	IN	_	25	case	_	_
+25	kandungan	_	NOUN	NN	_	23	nmod	_	SpaceAfter=No
+26	nya	_	DET	PRP$	_	25	nmod:poss	_	_
+27	menderita	_	VERB	VV	_	20	ccomp	_	_
+28	kondisi	_	NOUN	NN	_	27	obj	_	_
+29	langka	_	ADJ	JJ	_	28	amod	_	_
+30	dan	_	CCONJ	CC	_	32	cc	_	_
+31	harus	_	AUX	MD	_	32	aux	_	_
+32	dibedah	_	VERB	VV	_	27	conj	_	_
+33	untuk	_	SCONJ	SC	_	35	mark	_	_
+34	dapat	_	AUX	MD	_	35	aux	_	_
+35	bertahan	_	VERB	VV	_	32	advcl	_	_
+36	hidup	_	VERB	VV	_	35	xcomp	_	SpaceAfter=No
+37	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n01022002
+# text = Sebuah kajian PBB tentang rencana nasional mengurangi karbon mengatakan bahwa rencana tersebut ketinggalan dari peningkatan suhu global di bawah 2 C.
+# text_en = A UN review of national plans to cut carbon says they are well short of the levels needed to keep the rise in global temperatures under 2C.
+1	Sebuah	_	DET	DT	_	2	det	_	_
+2	kajian	_	NOUN	NN	_	9	nsubj	_	_
+3	PBB	_	PROPN	NNP	_	2	nmod:npmod	_	_
+4	tentang	_	ADP	IN	_	5	case	_	_
+5	rencana	_	NOUN	NN	_	2	nmod	_	_
+6	nasional	_	ADJ	JJ	_	5	amod	_	_
+7	mengurangi	_	VERB	VV	_	5	acl	_	_
+8	karbon	_	NOUN	NN	_	7	obj	_	_
+9	mengatakan	_	VERB	VV	_	0	root	_	_
+10	bahwa	_	SCONJ	SC	_	13	mark	_	_
+11	rencana	_	NOUN	NN	_	13	nsubj:pass	_	_
+12	tersebut	_	DET	VV	_	11	det	_	_
+13	ketinggalan	_	VERB	VV	_	9	ccomp	_	_
+14	dari	_	ADP	IN	_	15	case	_	_
+15	peningkatan	_	NOUN	NN	_	13	obl	_	_
+16	suhu	_	NOUN	NN	_	15	compound	_	_
+17	global	_	ADJ	JJ	_	16	amod	_	_
+18	di	_	ADP	IN	_	21	case	_	_
+19	bawah	_	NOUN	NN	_	21	nmod:npmod	_	_
+20	2	_	NUM	CD	_	21	nummod	_	_
+21	C	_	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = n01017013
+# text = "Sebagian besar orang akan mendapati wi-fi bandara lebih berguna daripada dapat mengirim email di pesawat."
+# text_en = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
+1	"	_	PUNCT	"	_	6	punct	_	SpaceAfter=No
+2	Sebagian	_	NOUN	NN	_	6	nsubj	_	_
+3	besar	_	ADJ	JJ	_	2	amod	_	_
+4	orang	_	NOUN	NN	_	2	nmod:npmod	_	_
+5	akan	_	AUX	MD	_	6	aux	_	_
+6	mendapati	_	VERB	VV	_	0	root	_	_
+7	wi-fi	_	NOUN	NN	_	6	obj	_	_
+8	bandara	_	NOUN	NN	_	7	compound	_	_
+9	lebih	_	ADV	RB	_	10	advmod	_	_
+10	berguna	_	VERB	VV	_	6	xcomp	_	_
+11	daripada	_	SCONJ	SC	_	13	mark	_	_
+12	dapat	_	AUX	MD	_	13	aux	_	_
+13	mengirim	_	VERB	VV	_	10	advcl	_	_
+14	email	_	NOUN	NN	_	13	obj	_	_
+15	di	_	ADP	IN	_	16	case	_	_
+16	pesawat	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
+17	.	_	PUNCT	.	_	6	punct	_	SpaceAfter=No
+18	"	_	PUNCT	"	_	6	punct	_	_
+
+# sent_id = w02007032
+# text = Pada bulan April 2012, Perdana Menteri Turki Presiden Erdogan mengumumkan rencana pemerintahannya untuk membebaskan Bosphorus dengan membangun Kanal Istanbul secara paralel dengannya.
+# text_en = In April 2012, the Turkish Minister President Erdogan announced his government's plans to free Bosphorus by building the Istanbul Canal parallel to it.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	bulan	_	NOUN	NN	_	11	obl	_	_
+3	April	_	PROPN	NNP	_	2	nmod:npmod	_	_
+4	2012	_	NUM	CD	_	2	flat	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	Perdana	_	NOUN	NN	_	11	nsubj	_	_
+7	Menteri	_	NOUN	NN	_	6	compound	_	_
+8	Turki	_	PROPN	NNP	_	6	nmod:npmod	_	_
+9	Presiden	_	PROPN	NNP	_	6	appos	_	_
+10	Erdogan	_	PROPN	NNP	_	9	flat	_	_
+11	mengumumkan	_	VERB	VV	_	0	root	_	_
+12	rencana	_	NOUN	NN	_	11	obj	_	_
+13	pemerintahan	_	NOUN	NN	_	12	nmod:npmod	_	SpaceAfter=No
+14	nya	_	DET	PRP$	_	13	nmod:poss	_	_
+15	untuk	_	SCONJ	SC	_	16	mark	_	_
+16	membebaskan	_	VERB	VV	_	12	acl	_	_
+17	Bosphorus	_	PROPN	NNP	_	16	obj	_	_
+18	dengan	_	SCONJ	SC	_	19	mark	_	_
+19	membangun	_	VERB	VV	_	16	advcl	_	_
+20	Kanal	_	PROPN	NNP	_	19	obj	_	_
+21	Istanbul	_	PROPN	NNP	_	20	flat	_	_
+22	secara	_	ADP	IN	_	23	case:adv	_	_
+23	paralel	_	ADV	RB	_	19	advmod	_	_
+24	dengan	_	ADP	IN	_	25	case	_	SpaceAfter=No
+25	nya	_	PRON	PRP	_	23	obl	_	SpaceAfter=No
+26	.	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = n01031005
+# text = Para peneliti telah menyelidiki potensi untuk kontrasepsi hormonal pria selama sekitar 20 tahun.
+# text_en = Researchers have been investigating potential for male hormonal contraceptives for around 20 years.
+1	Para	_	DET	DT	_	2	det	_	_
+2	peneliti	_	NOUN	NN	_	4	nsubj	_	_
+3	telah	_	AUX	MD	_	4	aux	_	_
+4	menyelidiki	_	VERB	VV	_	0	root	_	_
+5	potensi	_	NOUN	NN	_	4	obj	_	_
+6	untuk	_	ADP	IN	_	7	case	_	_
+7	kontrasepsi	_	NOUN	NN	_	5	nmod	_	_
+8	hormonal	_	ADJ	JJ	_	7	amod	_	_
+9	pria	_	NOUN	NN	_	7	nmod:npmod	_	_
+10	selama	_	ADP	IN	_	13	case	_	_
+11	sekitar	_	ADV	RB	_	13	advmod	_	_
+12	20	_	NUM	CD	_	13	nummod	_	_
+13	tahun	_	NOUN	NNB	_	4	obl	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01110022
+# text = Uangnya diinvestasikan dalam Premium Bonds, dan dalam rekening National Savings & Investments, digunakan untuk membantu pengeluaran Pemerintah.
+# text_en = The money invested in Premium Bonds, and in other National Savings & Investments accounts, is used to help fund Government spending.
+1	Uang	_	NOUN	NN	_	3	nsubj:pass	_	SpaceAfter=No
+2	nya	_	DET	PRP$	_	1	nmod:poss	_	_
+3	diinvestasikan	_	VERB	VV	_	0	root	_	_
+4	dalam	_	ADP	IN	_	5	case	_	_
+5	Premium	_	PROPN	NNP	_	3	obl	_	_
+6	Bonds	_	PROPN	NNP	_	5	flat	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	10	punct	_	_
+8	dan	_	CCONJ	CC	_	10	cc	_	_
+9	dalam	_	ADP	IN	_	10	case	_	_
+10	rekening	_	NOUN	NN	_	5	conj	_	_
+11	National	_	PROPN	NNP	_	10	nmod:npmod	_	_
+12	Savings	_	PROPN	NNP	_	11	flat	_	_
+13	&	_	SYM	SYM	_	14	cc	_	_
+14	Investments	_	PROPN	NNP	_	12	conj	_	SpaceAfter=No
+15	,	_	PUNCT	,	_	10	punct	_	_
+16	digunakan	_	VERB	VV	_	3	conj	_	_
+17	untuk	_	SCONJ	SC	_	18	mark	_	_
+18	membantu	_	VERB	VV	_	16	advcl	_	_
+19	pengeluaran	_	NOUN	NN	_	18	obj	_	_
+20	Pemerintah	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01079057
+# text = Baptisan paksa bertentangan dengan hukum Gereja Katolik dan secara teoretis siapa pun yang telah dibaptis dengan paksa dapat kembali ke Yudaisme secara legal.
+# text_en = Forced baptism was contrary to the law of the Catholic Church, and theoretically anybody who had been forcibly baptized could legally return to Judaism.
+1	Baptisan	_	NOUN	NN	_	3	nsubj	_	_
+2	paksa	_	VERB	VV	_	1	acl	_	_
+3	bertentangan	_	VERB	VV	_	0	root	_	_
+4	dengan	_	ADP	IN	_	5	case	_	_
+5	hukum	_	NOUN	NN	_	3	obl	_	_
+6	Gereja	_	PROPN	NNP	_	5	nmod:npmod	_	_
+7	Katolik	_	PROPN	NNP	_	6	flat	_	_
+8	dan	_	CCONJ	CC	_	19	cc	_	_
+9	secara	_	ADP	IN	_	10	case:adv	_	_
+10	teoretis	_	ADV	RB	_	19	advmod	_	_
+11	siapa	_	PRON	WP	_	19	nsubj	_	_
+12	pun	_	PART	RP	_	11	dep:prt	_	_
+13	yang	_	PRON	WP	_	15	nsubj:pass	_	_
+14	telah	_	AUX	MD	_	15	aux	_	_
+15	dibaptis	_	VERB	VV	_	11	acl:relcl	_	_
+16	dengan	_	ADP	IN	_	17	case:adv	_	_
+17	paksa	_	ADV	RB	_	15	advmod	_	_
+18	dapat	_	AUX	MD	_	19	aux	_	_
+19	kembali	_	VERB	VV	_	3	conj	_	_
+20	ke	_	ADP	IN	_	21	case	_	_
+21	Yudaisme	_	PROPN	NNP	_	19	obl	_	_
+22	secara	_	ADP	IN	_	23	case:adv	_	_
+23	legal	_	ADV	RB	_	19	advmod	_	SpaceAfter=No
+24	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w05003119
+# text = Ambruknya dan intervensi puluhan bank mengakibatkan pelarian modal, membuat banyak usaha menjadi bangkrut.
+# text_en = The collapse of and intervention in dozens of banks lead to a flight of capital, causing businesses to go bankrupt.
+1	Ambruknya	_	NOUN	NN	_	6	nsubj	_	_
+2	dan	_	CCONJ	CC	_	3	cc	_	_
+3	intervensi	_	NOUN	NN	_	1	conj	_	_
+4	puluhan	_	NUM	CD	_	5	nummod	_	_
+5	bank	_	NOUN	NN	_	1	nmod:npmod	_	_
+6	mengakibatkan	_	VERB	VV	_	0	root	_	_
+7	pelarian	_	NOUN	NN	_	6	obj	_	_
+8	modal	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
+9	,	_	PUNCT	,	_	10	punct	_	_
+10	membuat	_	VERB	VV	_	6	conj	_	_
+11	banyak	_	DET	DT	_	12	det	_	_
+12	usaha	_	NOUN	NN	_	10	obj	_	_
+13	menjadi	_	VERB	VV	_	10	xcomp	_	_
+14	bangkrut	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w01028050
+# text = Di jantung konflik ini adalah pertanyaan apakah Kansas akan bergabung dengan Union sebagai negara bagian yang bebas atau negara bagian budak.
+# text_en = At the heart of the conflict was the question of whether Kansas would enter the Union as a free state or slave state.
+1	Di	_	ADP	IN	_	2	case	_	_
+2	jantung	_	NOUN	NN	_	6	nsubj	_	_
+3	konflik	_	NOUN	NN	_	2	compound	_	_
+4	ini	_	DET	DT	_	3	det	_	_
+5	adalah	_	AUX	VC	_	6	cop	_	_
+6	pertanyaan	_	NOUN	NN	_	0	root	_	_
+7	apa	_	SCONJ	SC	_	11	mark	_	SpaceAfter=No
+8	kah	_	PART	RP	_	7	fixed	_	_
+9	Kansas	_	PROPN	NNP	_	11	nsubj	_	_
+10	akan	_	AUX	MD	_	11	aux	_	_
+11	bergabung	_	VERB	VV	_	6	acl	_	_
+12	dengan	_	ADP	IN	_	13	case	_	_
+13	Union	_	PROPN	NNP	_	11	obl	_	_
+14	sebagai	_	ADP	IN	_	15	case	_	_
+15	negara	_	NOUN	NN	_	11	obl	_	_
+16	bagian	_	NOUN	NN	_	15	compound	_	_
+17	yang	_	PRON	WP	_	18	nsubj	_	_
+18	bebas	_	ADJ	JJ	_	15	acl:relcl	_	_
+19	atau	_	CCONJ	CC	_	20	cc	_	_
+20	negara	_	NOUN	NN	_	15	conj	_	_
+21	bagian	_	NOUN	NN	_	20	compound	_	_
+22	budak	_	NOUN	NN	_	20	compound	_	SpaceAfter=No
+23	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w02009002
+# text = Keparahan dan kehadiran revolusi di pedesaan mengkhawatirkan Istana dan Majelis Nasional di Versailles.
+# text_en = The severity and the presence of the revolution in the countryside alarmed the Court and National Assembly in Versailles.
+1	Keparahan	_	NOUN	NN	_	7	nsubj	_	_
+2	dan	_	CCONJ	CC	_	3	cc	_	_
+3	kehadiran	_	NOUN	NN	_	1	conj	_	_
+4	revolusi	_	NOUN	NN	_	1	nmod:npmod	_	_
+5	di	_	ADP	IN	_	6	case	_	_
+6	pedesaan	_	NOUN	NN	_	1	nmod	_	_
+7	mengkhawatirkan	_	VERB	VV	_	0	root	_	_
+8	Istana	_	NOUN	NN	_	7	obj	_	_
+9	dan	_	CCONJ	CC	_	10	cc	_	_
+10	Majelis	_	PROPN	NNP	_	8	conj	_	_
+11	Nasional	_	PROPN	NNP	_	10	flat	_	_
+12	di	_	ADP	IN	_	13	case	_	_
+13	Versailles	_	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w01095092
+# text = Sebelum Kaisar Meiji, nama-nama era lebih sering diubah, dan nama Kaisar setelah wafat dipilih dengan cara yang berbeda.
+# text_en = Prior to Emperor Meiji, the names of the eras were changed more frequently, and the posthumous names of the Emperors were chosen in a different manner.
+1	Sebelum	_	ADP	IN	_	2	case	_	_
+2	Kaisar	_	PROPN	NNP	_	9	obl	_	_
+3	Meiji	_	PROPN	NNP	_	2	flat	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	nama-nama	_	NOUN	NN	_	9	nsubj:pass	_	_
+6	era	_	NOUN	NN	_	5	compound	_	_
+7	lebih	_	ADV	RB	_	8	advmod	_	_
+8	sering	_	ADV	RB	_	9	advmod	_	_
+9	diubah	_	VERB	VV	_	0	root	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	16	punct	_	_
+11	dan	_	CCONJ	CC	_	16	cc	_	_
+12	nama	_	NOUN	NN	_	16	nsubj:pass	_	_
+13	Kaisar	_	NOUN	NN	_	12	compound	_	_
+14	setelah	_	SCONJ	SC	_	15	mark	_	_
+15	wafat	_	VERB	VV	_	12	acl	_	_
+16	dipilih	_	VERB	VV	_	9	conj	_	_
+17	dengan	_	ADP	IN	_	18	case	_	_
+18	cara	_	NOUN	NN	_	16	obl	_	_
+19	yang	_	PRON	WP	_	20	nsubj	_	_
+20	berbeda	_	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = n01091013
+# text = Sebagus-bagusnya hal itu naif dan seburuk-buruknya itu akan lagi-lagi meloloskan lobi penembakan.
+# text_en = At best it is naive and at worst it would yet again let the shooting lobby off the hook.
+1	Sebagus-bagusnya	_	ADV	RB	_	4	advmod	_	_
+2	hal	_	NOUN	NN	_	4	nsubj	_	_
+3	itu	_	DET	DT	_	2	det	_	_
+4	naif	_	ADJ	JJ	_	0	root	_	_
+5	dan	_	CCONJ	CC	_	10	cc	_	_
+6	seburuk-buruknya	_	ADV	RB	_	10	advmod	_	_
+7	itu	_	PRON	PRP	_	10	nsubj	_	_
+8	akan	_	AUX	MD	_	10	aux	_	_
+9	lagi-lagi	_	ADV	RB	_	10	advmod	_	_
+10	meloloskan	_	VERB	VV	_	4	conj	_	_
+11	lobi	_	NOUN	NN	_	10	obj	_	_
+12	penembakan	_	NOUN	NN	_	11	compound	_	SpaceAfter=No
+13	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w05005085
+# text = Suku Indian tiba di Kanada, dipimpin oleh Joseph Brant; mereka mendukung orang Inggris karena para kolonis mengambil alih semakin banyak dan banyak tanah mereka.
+# text_en = Indians arrived from Canada, led by Joseph Brant; they supported the British because the colonists were expropriating more and more of their lands.
+1	Suku	_	NOUN	NN	_	3	nsubj	_	_
+2	Indian	_	PROPN	NNP	_	1	nmod:npmod	_	_
+3	tiba	_	VERB	VV	_	0	root	_	_
+4	di	_	ADP	IN	_	5	case	_	_
+5	Kanada	_	PROPN	NNP	_	3	obl	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	7	punct	_	_
+7	dipimpin	_	VERB	VV	_	3	conj	_	_
+8	oleh	_	ADP	IN	_	9	case	_	_
+9	Joseph	_	PROPN	NNP	_	7	obl	_	_
+10	Brant	_	PROPN	NNP	_	9	flat	_	SpaceAfter=No
+11	;	_	PUNCT	:	_	13	punct	_	_
+12	mereka	_	PRON	PRP	_	13	nsubj	_	_
+13	mendukung	_	VERB	VV	_	3	parataxis	_	_
+14	orang	_	NOUN	NN	_	13	obj	_	_
+15	Inggris	_	PROPN	NNP	_	14	nmod:npmod	_	_
+16	karena	_	SCONJ	SC	_	19	mark	_	_
+17	para	_	DET	DT	_	18	det	_	_
+18	kolonis	_	NOUN	NN	_	19	nsubj	_	_
+19	mengambil	_	VERB	VV	_	13	advcl	_	_
+20	alih	_	PART	RP	_	19	compound:prt	_	_
+21	semakin	_	ADV	RB	_	22	advmod	_	_
+22	banyak	_	ADV	RB	_	20	advmod	_	_
+23	dan	_	CCONJ	CC	_	24	cc	_	_
+24	banyak	_	ADV	RB	_	22	conj	_	_
+25	tanah	_	NOUN	NN	_	19	obj	_	_
+26	mereka	_	DET	PRP$	_	25	nmod:poss	_	SpaceAfter=No
+27	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01096040
+# text = Tapi setidaknya mereka bisa memasang kawat berduri untuk membingungkan dan menghalangi – sebuah konsep yang dikenal sebagai “pertahanan aktif”.
+# text_en = But they can at least lay booby-traps to confuse and deter – a concept known as “active defence”.
+1	Tapi	_	CCONJ	CC	_	5	cc	_	_
+2	setidaknya	_	ADV	RB	_	5	advmod	_	_
+3	mereka	_	PRON	PRP	_	5	nsubj	_	_
+4	bisa	_	AUX	MD	_	5	aux	_	_
+5	memasang	_	VERB	VV	_	0	root	_	_
+6	kawat	_	NOUN	NN	_	5	obj	_	_
+7	berduri	_	VERB	VV	_	6	acl	_	_
+8	untuk	_	SCONJ	SC	_	9	mark	_	_
+9	membingungkan	_	VERB	VV	_	5	advcl	_	_
+10	dan	_	CCONJ	CC	_	11	cc	_	_
+11	menghalangi	_	VERB	VV	_	9	conj	_	_
+12	–	_	PUNCT	HYPH	_	14	punct	_	_
+13	sebuah	_	DET	DT	_	14	det	_	_
+14	konsep	_	NOUN	NN	_	5	parataxis	_	_
+15	yang	_	PRON	WP	_	16	nsubj:pass	_	_
+16	dikenal	_	VERB	VV	_	14	acl:relcl	_	_
+17	sebagai	_	ADP	IN	_	19	case	_	_
+18	“	_	PUNCT	``	_	19	punct	_	SpaceAfter=No
+19	pertahanan	_	NOUN	NN	_	16	obl	_	_
+20	aktif	_	ADJ	JJ	_	19	amod	_	SpaceAfter=No
+21	”	_	PUNCT	''	_	19	punct	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01049022
+# text = "Ini membantu sakit punggung, ini membantu rasa mual, produk ini membuat Anda tidur lelap sepanjang malam," ujar Dietrich dari kantor pusat perusahaan di Denver, Colorado, di mana ganja dijual secara legal.
+# text_en = "This strain helps with back pain, this strain helps with nausea, this product makes you sleep at night," says Dietrich from the company's headquarters in Denver, Colorado, where pot is sold legally.
+1	"	_	PUNCT	"	_	3	punct	_	SpaceAfter=No
+2	Ini	_	PRON	PRD	_	3	nsubj	_	_
+3	membantu	_	VERB	VV	_	0	root	_	_
+4	sakit	_	NOUN	NN	_	3	obj	_	_
+5	punggung	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	ini	_	PRON	PRD	_	8	nsubj	_	_
+8	membantu	_	VERB	VV	_	3	conj	_	_
+9	rasa	_	NOUN	NN	_	8	obj	_	_
+10	mual	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	14	punct	_	_
+12	produk	_	NOUN	NN	_	14	nsubj	_	_
+13	ini	_	DET	DT	_	12	det	_	_
+14	membuat	_	VERB	VV	_	3	conj	_	_
+15	Anda	_	PRON	PRP	_	14	obj	_	_
+16	tidur	_	VERB	VV	_	14	xcomp	_	_
+17	lelap	_	ADV	RB	_	16	advmod	_	_
+18	sepanjang	_	NOUN	NN	_	19	nmod:npmod	_	_
+19	malam	_	NOUN	NN	_	16	obl:tmod	_	SpaceAfter=No
+20	,	_	PUNCT	,	_	3	punct	_	SpaceAfter=No
+21	"	_	PUNCT	"	_	3	punct	_	_
+22	ujar	_	VERB	VV	_	3	parataxis	_	_
+23	Dietrich	_	PROPN	NNP	_	22	nsubj	_	_
+24	dari	_	ADP	IN	_	25	case	_	_
+25	kantor	_	NOUN	NN	_	23	nmod	_	_
+26	pusat	_	NOUN	NN	_	25	compound	_	_
+27	perusahaan	_	NOUN	NN	_	25	compound	_	_
+28	di	_	ADP	IN	_	29	case	_	_
+29	Denver	_	PROPN	NNP	_	25	nmod	_	SpaceAfter=No
+30	,	_	PUNCT	,	_	31	punct	_	_
+31	Colorado	_	PROPN	NNP	_	29	nmod:npmod	_	SpaceAfter=No
+32	,	_	PUNCT	,	_	31	punct	_	_
+33	di	_	SCONJ	SC	_	36	mark	_	_
+34	mana	_	PRON	PRP	_	33	fixed	_	_
+35	ganja	_	NOUN	NN	_	36	nsubj:pass	_	_
+36	dijual	_	VERB	VV	_	29	acl:relcl	_	_
+37	secara	_	ADP	IN	_	38	case:adv	_	_
+38	legal	_	ADV	RB	_	36	advmod	_	SpaceAfter=No
+39	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01016070
+# text = Contoh terbaru kontrol udara adalah curah hujan Tiongkok untuk Pertandingan Olimpiade Musim Panas 2008.
+# text_en = A recent example of weather control was China's preparation for the 2008 Summer Olympic Games.
+1	Contoh	_	NOUN	NN	_	6	nsubj	_	_
+2	terbaru	_	ADJ	JJ	_	1	amod	_	_
+3	kontrol	_	NOUN	NN	_	1	nmod:npmod	_	_
+4	udara	_	NOUN	NN	_	3	compound	_	_
+5	adalah	_	AUX	VC	_	6	cop	_	_
+6	curah	_	NOUN	NN	_	0	root	_	_
+7	hujan	_	NOUN	NN	_	6	compound	_	_
+8	Tiongkok	_	PROPN	NNP	_	6	nmod:npmod	_	_
+9	untuk	_	ADP	IN	_	10	case	_	_
+10	Pertandingan	_	PROPN	NNP	_	6	nmod	_	_
+11	Olimpiade	_	PROPN	NNP	_	10	flat	_	_
+12	Musim	_	PROPN	NNP	_	10	flat	_	_
+13	Panas	_	PROPN	NNP	_	10	flat	_	_
+14	2008	_	NUM	CD	_	10	nummod	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w01030092
+# text = Pegunungan Alpen menyediakan air, irigasi, dan listrik tenaga air bagi dataran rendah Eropa.
+# text_en = The Alps provide lowland Europe with drinking water, irrigation, and hydroelectric power.
+1	Pegunungan	_	PROPN	NNP	_	3	nsubj	_	_
+2	Alpen	_	PROPN	NNP	_	1	flat	_	_
+3	menyediakan	_	VERB	VV	_	0	root	_	_
+4	air	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	6	punct	_	_
+6	irigasi	_	NOUN	NN	_	4	conj	_	SpaceAfter=No
+7	,	_	PUNCT	,	_	9	punct	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	listrik	_	NOUN	NN	_	4	conj	_	_
+10	tenaga	_	NOUN	NN	_	9	compound	_	_
+11	air	_	NOUN	NN	_	10	compound	_	_
+12	bagi	_	ADP	IN	_	13	case	_	_
+13	dataran	_	NOUN	NN	_	3	obl	_	_
+14	rendah	_	ADJ	JJ	_	13	amod	_	_
+15	Eropa	_	PROPN	NNP	_	13	nmod:npmod	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w03005014
+# text = Dari abad 9 SM, teks Yunani pertama mulai muncul.
+# text_en = From the 9th century BC, the first Greek texts began to appear.
+1	Dari	_	ADP	IN	_	2	case	_	_
+2	abad	_	NOUN	NN	_	9	obl	_	_
+3	9	_	NUM	CD	_	2	nummod	_	_
+4	SM	_	PROPN	NNP	_	3	flat	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	teks	_	NOUN	NN	_	9	nsubj	_	_
+7	Yunani	_	PROPN	NNP	_	6	nmod:npmod	_	_
+8	pertama	_	ADJ	JJ	_	6	amod	_	_
+9	mulai	_	VERB	VV	_	0	root	_	_
+10	muncul	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No
+11	.	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = w01023120
+# text = Apa pun aturannya, pertarungan sering kali berakhir dengan kematian salah satu kuda jantan.
+# text_en = Whatever the rules were, the fights often resulted in the death of one of the stallions.
+1	Apa	_	PRON	WP	_	9	obl:mod	_	_
+2	pun	_	PART	RP	_	1	dep:prt	_	_
+3	aturan	_	NOUN	NN	_	1	nmod:npmod	_	SpaceAfter=No
+4	nya	_	DET	DT	_	3	det	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	9	punct	_	_
+6	pertarungan	_	NOUN	NN	_	9	nsubj	_	_
+7	sering	_	ADV	RB	_	9	advmod	_	_
+8	kali	_	PART	RP	_	7	compound:prt	_	_
+9	berakhir	_	VERB	VV	_	0	root	_	_
+10	dengan	_	ADP	IN	_	11	case	_	_
+11	kematian	_	NOUN	NN	_	9	obl	_	_
+12	salah	_	PART	RP	_	13	compound:prt	_	_
+13	satu	_	NUM	CD	_	14	nummod	_	_
+14	kuda	_	NOUN	NN	_	11	nmod:npmod	_	_
+15	jantan	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = w01062037
+# text = Tiberius dilaporkan menyesali keberangkatannya dan meminta untuk kembali ke Roma beberapa kali, namun Augustus menolak permintaannya setiap kali.
+# text_en = Tiberius reportedly regretted his departure and requested to return to Rome several times, but each time Augustus refused his requests.
+1	Tiberius	_	PROPN	NNP	_	2	nsubj:pass	_	_
+2	dilaporkan	_	VERB	VV	_	0	root	_	_
+3	menyesali	_	VERB	VV	_	2	xcomp	_	_
+4	keberangkatan	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
+5	nya	_	DET	PRP$	_	4	nmod:poss	_	_
+6	dan	_	CCONJ	CC	_	7	cc	_	_
+7	meminta	_	VERB	VV	_	3	conj	_	_
+8	untuk	_	SCONJ	SC	_	9	mark	_	_
+9	kembali	_	VERB	VV	_	7	xcomp	_	_
+10	ke	_	ADP	IN	_	11	case	_	_
+11	Roma	_	PROPN	NNP	_	9	obl	_	_
+12	beberapa	_	DET	DT	_	13	det	_	_
+13	kali	_	NOUN	NNB	_	7	obl:mod	_	SpaceAfter=No
+14	,	_	PUNCT	,	_	17	punct	_	_
+15	namun	_	CCONJ	CC	_	17	cc	_	_
+16	Augustus	_	PROPN	NNP	_	17	nsubj	_	_
+17	menolak	_	VERB	VV	_	7	conj	_	_
+18	permintaan	_	NOUN	NN	_	17	obj	_	SpaceAfter=No
+19	nya	_	DET	PRP$	_	18	nmod:poss	_	_
+20	setiap	_	DET	DT	_	21	det	_	_
+21	kali	_	NOUN	NNB	_	17	obl:mod	_	SpaceAfter=No
+22	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w01030094
+# text = Kota-kota seperti Milan bergantung pada 80 persen air dari aliran Alpen.
+# text_en = Cities such as Milan depend on 80 percent of water from Alpine runoff.
+1	Kota-kota	_	NOUN	NN	_	4	nsubj	_	_
+2	seperti	_	ADP	IN	_	3	case	_	_
+3	Milan	_	PROPN	NNP	_	1	nmod	_	_
+4	bergantung	_	VERB	VV	_	0	root	_	_
+5	pada	_	ADP	IN	_	8	case	_	_
+6	80	_	NUM	CD	_	7	nummod	_	_
+7	persen	_	NOUN	NNB	_	8	nmod:npmod	_	_
+8	air	_	NOUN	NN	_	4	obl	_	_
+9	dari	_	ADP	IN	_	10	case	_	_
+10	aliran	_	NOUN	NN	_	8	nmod	_	_
+11	Alpen	_	PROPN	NNP	_	10	nmod:npmod	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01031021
+# text = Ia menambahkan: “Ini adalah satu langkah dalam perjalanan panjang dalam menemukan kombinasi yang tepat untuk kontrasepsi hormonal pria.”
+# text_en = He added: "This has been one step in a long journey of finding the right combination for male hormonal contraception."
+1	Ia	_	PRON	PRP	_	2	nsubj	_	_
+2	menambahkan	_	VERB	VV	_	0	root	_	SpaceAfter=No
+3	:	_	PUNCT	:	_	8	punct	_	_
+4	“	_	PUNCT	``	_	8	punct	_	SpaceAfter=No
+5	Ini	_	PRON	PRD	_	8	nsubj	_	_
+6	adalah	_	AUX	VC	_	8	cop	_	_
+7	satu	_	NUM	CD	_	8	nummod	_	_
+8	langkah	_	NOUN	NN	_	2	parataxis	_	_
+9	dalam	_	ADP	IN	_	10	case	_	_
+10	perjalanan	_	NOUN	NN	_	8	nmod	_	_
+11	panjang	_	ADJ	JJ	_	10	amod	_	_
+12	dalam	_	SCONJ	SC	_	13	mark	_	_
+13	menemukan	_	VERB	VV	_	10	acl	_	_
+14	kombinasi	_	NOUN	NN	_	13	obj	_	_
+15	yang	_	PRON	WP	_	16	nsubj	_	_
+16	tepat	_	ADJ	JJ	_	14	acl:relcl	_	_
+17	untuk	_	ADP	IN	_	18	case	_	_
+18	kontrasepsi	_	NOUN	NN	_	14	nmod	_	_
+19	hormonal	_	ADJ	JJ	_	18	amod	_	_
+20	pria	_	NOUN	NN	_	18	nmod:npmod	_	SpaceAfter=No
+21	.	_	PUNCT	.	_	8	punct	_	SpaceAfter=No
+22	”	_	PUNCT	''	_	8	punct	_	_
+
+# sent_id = n01057014
+# text = Serpihan-serpihan itu membentuk sebuah cincin di sekitar khatulistiwa Bumi dan akhirnya ditarik bersama-sama oleh gravitasi untuk membentuk bulan.
+# text_en = The debris formed a ring around the Earth's equator and was eventually drawn together by gravity to form the moon.
+1	Serpihan-serpihan	_	NOUN	NN	_	3	nsubj	_	_
+2	itu	_	DET	DT	_	1	det	_	_
+3	membentuk	_	VERB	VV	_	0	root	_	_
+4	sebuah	_	DET	DT	_	5	det	_	_
+5	cincin	_	NOUN	NN	_	3	obj	_	_
+6	di	_	ADP	IN	_	8	case	_	_
+7	sekitar	_	NOUN	NN	_	8	nmod:npmod	_	_
+8	khatulistiwa	_	NOUN	NN	_	5	nmod	_	_
+9	Bumi	_	PROPN	NNP	_	8	nmod:poss	_	_
+10	dan	_	CCONJ	CC	_	12	cc	_	_
+11	akhirnya	_	ADV	RB	_	12	advmod	_	_
+12	ditarik	_	VERB	VV	_	3	conj	_	_
+13	bersama-sama	_	ADV	RB	_	12	advmod	_	_
+14	oleh	_	ADP	IN	_	15	case	_	_
+15	gravitasi	_	NOUN	NN	_	12	obl	_	_
+16	untuk	_	SCONJ	SC	_	17	mark	_	_
+17	membentuk	_	VERB	VV	_	12	advcl	_	_
+18	bulan	_	NOUN	NN	_	17	obj	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01125038
+# text = Pada tahun 1770, saudara laki-lakinya Prince Henry, Duke of Cumberland and Strathearn, terungkap sebagai pezinah, dan tahun berikutnya Cumberland menikahi seorang janda muda, Anne Horton.
+# text_en = In 1770, his brother Prince Henry, Duke of Cumberland and Strathearn, was exposed as an adulterer, and the following year Cumberland married a young widow, Anne Horton.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	tahun	_	NOUN	NN	_	17	obl	_	_
+3	1770	_	NUM	CD	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	saudara	_	NOUN	NN	_	17	nsubj:pass	_	_
+6	laki-laki	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
+7	nya	_	DET	PRP$	_	5	nmod:poss	_	_
+8	Prince	_	PROPN	NNP	_	5	appos	_	_
+9	Henry	_	PROPN	NNP	_	8	flat	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	11	punct	_	_
+11	Duke	_	PROPN	NNP	_	8	appos	_	_
+12	of	_	PROPN	NNP	_	11	flat	_	_
+13	Cumberland	_	PROPN	NNP	_	11	flat	_	_
+14	and	_	PROPN	NNP	_	11	flat	_	_
+15	Strathearn	_	PROPN	NNP	_	11	flat	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	11	punct	_	_
+17	terungkap	_	VERB	VV	_	0	root	_	_
+18	sebagai	_	ADP	IN	_	19	case	_	_
+19	pezinah	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
+20	,	_	PUNCT	,	_	25	punct	_	_
+21	dan	_	CCONJ	CC	_	25	cc	_	_
+22	tahun	_	NOUN	NN	_	25	obl:tmod	_	_
+23	berikutnya	_	ADJ	JJ	_	22	amod	_	_
+24	Cumberland	_	PROPN	NNP	_	25	nsubj	_	_
+25	menikahi	_	VERB	VV	_	17	conj	_	_
+26	seorang	_	DET	DT	_	27	det	_	_
+27	janda	_	NOUN	NN	_	25	obj	_	_
+28	muda	_	ADJ	JJ	_	27	amod	_	SpaceAfter=No
+29	,	_	PUNCT	,	_	30	punct	_	_
+30	Anne	_	PROPN	NNP	_	27	appos	_	_
+31	Horton	_	PROPN	NNP	_	30	flat	_	SpaceAfter=No
+32	.	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = w02017061
+# text = Jejak-jejak darah di pakaiannya berbentuk sama dengan yang dilaporkan berita pada hari pembunuhan.
+# text_en = The traces of blood on the clothes were in the shape that they were reported to have by the news reports on the day of the murder.
+1	Jejak-jejak	_	NOUN	NN	_	6	nsubj	_	_
+2	darah	_	NOUN	NN	_	1	compound	_	_
+3	di	_	ADP	IN	_	4	case	_	_
+4	pakaian	_	NOUN	NN	_	1	nmod	_	SpaceAfter=No
+5	nya	_	DET	PRP$	_	4	nmod:poss	_	_
+6	berbentuk	_	VERB	VV	_	0	root	_	_
+7	sama	_	ADJ	JJ	_	6	xcomp	_	_
+8	dengan	_	ADP	IN	_	9	case	_	_
+9	yang	_	PRON	PRP	_	7	obl	_	_
+10	dilaporkan	_	VERB	VV	_	9	acl	_	_
+11	berita	_	NOUN	NN	_	10	obl:agent	_	_
+12	pada	_	ADP	IN	_	13	case	_	_
+13	hari	_	NOUN	NN	_	10	obl	_	_
+14	pembunuhan	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
+15	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w01047071
+# text = Ia juga memanfaatkan hubungan pribadinya dengan banyak ilmuwan pemerintah, yang memasok informasi rahasia kepadanya.
+# text_en = She also took advantage of her personal connections with many government scientists, who supplied her with confidential information.
+1	Ia	_	PRON	PRP	_	3	nsubj	_	_
+2	juga	_	ADV	RB	_	3	advmod	_	_
+3	memanfaatkan	_	VERB	VV	_	0	root	_	_
+4	hubungan	_	NOUN	NN	_	3	obj	_	_
+5	pribadi	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
+6	nya	_	DET	PRP$	_	4	nmod:poss	_	_
+7	dengan	_	ADP	IN	_	9	case	_	_
+8	banyak	_	DET	DT	_	9	det	_	_
+9	ilmuwan	_	NOUN	NN	_	4	nmod	_	_
+10	pemerintah	_	NOUN	NN	_	9	compound	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	13	punct	_	_
+12	yang	_	PRON	WP	_	13	nsubj	_	_
+13	memasok	_	VERB	VV	_	9	acl:relcl	_	_
+14	informasi	_	NOUN	NN	_	13	obj	_	_
+15	rahasia	_	ADJ	JJ	_	14	amod	_	_
+16	kepada	_	ADP	IN	_	17	case	_	SpaceAfter=No
+17	nya	_	PRON	PRP	_	13	obl	_	SpaceAfter=No
+18	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w01080129
+# text = Philip kemudian bergerak melawan musuh-musuhnya di selatan.
+# text_en = Philip next marched against his southern enemies.
+1	Philip	_	PROPN	NNP	_	3	nsubj	_	_
+2	kemudian	_	ADV	RB	_	3	advmod	_	_
+3	bergerak	_	VERB	VV	_	0	root	_	_
+4	melawan	_	VERB	VV	_	3	xcomp	_	_
+5	musuh-musuh	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
+6	nya	_	DET	PRP$	_	5	nmod:poss	_	_
+7	di	_	ADP	IN	_	8	case	_	_
+8	selatan	_	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+9	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w05001026
+# text = Pada abad 20, antara tahun 1904 dan 1914, Antonio Gaudí menghadirkan reformasi yang berlangsung selama sepuluh tahun.
+# text_en = In the 20th century, between 1904 and 1914, Antonio Gaudí brought about a reform that lasted ten years.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	abad	_	NOUN	NN	_	13	obl	_	_
+3	20	_	NUM	CD	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	antara	_	ADP	IN	_	6	case	_	_
+6	tahun	_	NOUN	NN	_	13	obl	_	_
+7	1904	_	NUM	CD	_	6	nummod	_	_
+8	dan	_	CCONJ	CC	_	9	cc	_	_
+9	1914	_	NUM	CD	_	7	conj	_	SpaceAfter=No
+10	,	_	PUNCT	,	_	6	punct	_	_
+11	Antonio	_	PROPN	NNP	_	13	nsubj	_	_
+12	Gaudí	_	PROPN	NNP	_	11	flat	_	_
+13	menghadirkan	_	VERB	VV	_	0	root	_	_
+14	reformasi	_	NOUN	NN	_	13	obj	_	_
+15	yang	_	PRON	WP	_	16	nsubj	_	_
+16	berlangsung	_	VERB	VV	_	14	acl:relcl	_	_
+17	selama	_	ADP	IN	_	19	case	_	_
+18	sepuluh	_	NUM	CD	_	19	nummod	_	_
+19	tahun	_	NOUN	NN	_	16	obl	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = n01003013
+# text = Mungkin kode berpakaiannya terlalu sesak.
+# text_en = Maybe the dress code was too stuffy.
+1	Mungkin	_	ADV	RB	_	6	advmod	_	_
+2	kode	_	NOUN	NN	_	6	nsubj	_	_
+3	berpakaian	_	VERB	VV	_	2	acl	_	SpaceAfter=No
+4	nya	_	DET	DT	_	2	det	_	_
+5	terlalu	_	ADV	RB	_	6	advmod	_	_
+6	sesak	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w04002055
+# text = Pada tahun 1976, gelanggang pacuan kuda ini tidak lagi digunakan; pada tahun 1990, api menghancurkan sisa-sisa tribun yang terbuat dari kayu itu, yang kemudian dihancurkan bersama-sama dengan kandang-kandang kuda.
+# text_en = In 1976, the racecourse was no longer used; in 1990, a fire destroyed what remained of the wooden grandstands, which were later demolished along with the stables.
+1	Pada	_	ADP	IN	_	2	case	_	_
+2	tahun	_	NOUN	NN	_	11	obl	_	_
+3	1976	_	NUM	CD	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	,	_	2	punct	_	_
+5	gelanggang	_	NOUN	NN	_	11	nsubj:pass	_	_
+6	pacuan	_	NOUN	NN	_	5	nmod:npmod	_	_
+7	kuda	_	NOUN	NN	_	6	compound	_	_
+8	ini	_	DET	DT	_	5	det	_	_
+9	tidak	_	PART	NEG	_	11	advmod	_	_
+10	lagi	_	ADV	RB	_	11	advmod	_	_
+11	digunakan	_	VERB	VV	_	0	root	_	SpaceAfter=No
+12	;	_	PUNCT	:	_	18	punct	_	_
+13	pada	_	ADP	IN	_	14	case	_	_
+14	tahun	_	NOUN	NN	_	18	obl	_	_
+15	1990	_	NUM	CD	_	14	nummod	_	SpaceAfter=No
+16	,	_	PUNCT	,	_	14	punct	_	_
+17	api	_	NOUN	NN	_	18	nsubj	_	_
+18	menghancurkan	_	VERB	VV	_	11	parataxis	_	_
+19	sisa-sisa	_	NOUN	NN	_	18	obj	_	_
+20	tribun	_	NOUN	NN	_	19	nmod:npmod	_	_
+21	yang	_	PRON	WP	_	22	nsubj:pass	_	_
+22	terbuat	_	VERB	VV	_	19	acl:relcl	_	_
+23	dari	_	ADP	IN	_	24	case	_	_
+24	kayu	_	NOUN	NN	_	22	obl	_	_
+25	itu	_	DET	DT	_	24	det	_	SpaceAfter=No
+26	,	_	PUNCT	,	_	29	punct	_	_
+27	yang	_	PRON	WP	_	29	nsubj:pass	_	_
+28	kemudian	_	ADV	RB	_	29	advmod	_	_
+29	dihancurkan	_	VERB	VV	_	19	acl:relcl	_	_
+30	bersama-sama	_	ADV	RB	_	29	advmod	_	_
+31	dengan	_	ADP	IN	_	32	case	_	_
+32	kandang-kandang	_	NOUN	NN	_	29	obl	_	_
+33	kuda	_	NOUN	NN	_	32	compound	_	SpaceAfter=No
+34	.	_	PUNCT	.	_	11	punct	_	_
+
