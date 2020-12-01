@@ -4,7 +4,7 @@ CUDA_VISIBLE_DEVICES=3 OMP_NUM_THREADS=4 python -u ../parsing_conllu.py --mode t
  --loss_type token --warmup_steps 40 --reset 20 --weight_decay 0.0 --unk_replace 0.5 \
  --punctuation '.' '``' "''" ':' ',' '?' '!' \
  --word_embedding bert --word_path "../../UD_Indonesian_PUD/data/malaybert" --char_embedding random \
- --word2index_path "../../UD_Indonesian_PUD/data/word2index.json"
+ --word2index_path "../../UD_Indonesian_PUD/data/word2index.json" \
  --train "../../UD_Indonesian_PUD/data/folds/train1.conllu" \
  --dev "../../UD_Indonesian_PUD/data/folds/dev1.conllu" \
  --test "../../UD_Indonesian_PUD/data/folds/test1.conllu" \
