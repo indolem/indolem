@@ -9,7 +9,7 @@
 
 ## Experiment
 
-We modify [NeuroNLP2](https://github.com/XuezheMax/NeuroNLP2) and use Stanford Deep BiAffine Parser [_Deep Biaffine Attention for Neural Dependency Parsing_](https://arxiv.org/abs/1611.01734). By Timothy Dozat, Christopher D. Manning. In ICLR 2017.
+We modify [NeuroNLP2](https://github.com/XuezheMax/NeuroNLP2) and use [_Deep Biaffine Attention for Neural Dependency Parsing_](https://arxiv.org/abs/1611.01734). By Timothy Dozat, Christopher D. Manning. In ICLR 2017.
 
 #### Requirements for NeuroNLP2
 
