@@ -32,28 +32,31 @@ Now you are ready to run the experiment. We have provided script file in `experi
 
 For IndoBERT:
 ```
-./experiments/scripts/run_deepbiaf_indobert0.sh
-./experiments/scripts/run_deepbiaf_indobert1.sh
-./experiments/scripts/run_deepbiaf_indobert2.sh
-./experiments/scripts/run_deepbiaf_indobert3.sh
-./experiments/scripts/run_deepbiaf_indobert4.sh
-./experiments/scripts/run_deepbiaf_indobertGSD.sh
+cd experiments/scripts
+./run_deepbiaf_indobert0.sh
+./run_deepbiaf_indobert1.sh
+./run_deepbiaf_indobert2.sh
+./run_deepbiaf_indobert3.sh
+./run_deepbiaf_indobert4.sh
+./run_deepbiaf_indobertGSD.sh
 ```
 For MalayBERT:
 ```
-./experiments/scripts/run_deepbiaf_malaybert0.sh
-./experiments/scripts/run_deepbiaf_malaybert1.sh
-./experiments/scripts/run_deepbiaf_malaybert2.sh
-./experiments/scripts/run_deepbiaf_malaybert3.sh
-./experiments/scripts/run_deepbiaf_malaybert4.sh
-./experiments/scripts/run_deepbiaf_malaybertGSD.sh
+cd experiments/scripts
+./run_deepbiaf_malaybert0.sh
+./run_deepbiaf_malaybert1.sh
+./run_deepbiaf_malaybert2.sh
+./run_deepbiaf_malaybert3.sh
+./run_deepbiaf_malaybert4.sh
+./run_deepbiaf_malaybertGSD.sh
 ```
 For mBERT:
 ```
-./experiments/scripts/run_deepbiaf_mbert0.sh
-./experiments/scripts/run_deepbiaf_mbert1.sh
-./experiments/scripts/run_deepbiaf_mbert2.sh
-./experiments/scripts/run_deepbiaf_mbert3.sh
-./experiments/scripts/run_deepbiaf_mbert4.sh
-./experiments/scripts/run_deepbiaf_mbertGSD.sh
+cd experiments/scripts
+./run_deepbiaf_mbert0.sh
+./run_deepbiaf_mbert1.sh
+./run_deepbiaf_mbert2.sh
+./run_deepbiaf_mbert3.sh
+./run_deepbiaf_mbert4.sh
+./run_deepbiaf_mbertGSD.sh
 ```
