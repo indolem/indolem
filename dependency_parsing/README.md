@@ -19,6 +19,7 @@ gensim==0.12.0
 overrides==3.1.0
 conllu==4.2.1
 scipy==1.1.0
+transformers==3.1.0
 ```
 #### Experiment with BERT embedding
 
