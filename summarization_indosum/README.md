@@ -18,18 +18,22 @@ python make_datafiles_presum_mbert.py
 
 IndoBERT
 ```
-./scripts/train_indobert.sh
-./scripts/eval_indobert.sh
+cd scripts
+chmod +x *
+./train_indobert.sh
+./eval_indobert.sh
 ```
 MalayBERT
 ```
-./scripts/train_malaybert.sh
-./scripts/eval_malaybert.sh
+cd scripts
+./train_malaybert.sh
+./eval_malaybert.sh
 ```
 mBERT
 ```
-./scripts/train_mbert.sh
-./scripts/eval_mbert.sh
+cd scripts
+./train_mbert.sh
+./eval_mbert.sh
 ```
 
 ## Evaluation
