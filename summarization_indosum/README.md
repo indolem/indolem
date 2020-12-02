@@ -4,7 +4,9 @@ IndoLEM uses [IndoSum](https://arxiv.org/abs/1810.05334) for extractive summariz
 Our experiment is based on [Liu and Lapata (2018)](https://arxiv.org/abs/1908.08345) framework with three BERT models: IndoBERT, malayBERT, and mBERT.
 
 ## Requirements
+Tested with below configuration. Higher torch version is not suitable for [PreSumm](https://github.com/nlpyang/PreSumm).
 ```
+python==3.7.6
 torch==1.1.0
 torchvision==0.8.1
 transformers==3.0.0
