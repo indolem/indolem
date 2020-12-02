@@ -20,7 +20,7 @@ Python 3.6, PyTorch >=1.3.1, Gensim >= 0.12.0
 For each *UD-Indo-PUD* and *UD-Indo-GSD*, you can run jupyter notebook `extract.ipynb` to extract BERT embedding for Indonesian, Malaysian, and Multilingual BERT.
 This will take a while, especially for *UD-Indo-GSD*. A folder `data/` will be created in each repository *UD-Indo-PUD* and *UD-Indo-GSD.*
 
-We also provide the extracted version for each dataset. You can download them [here](https://drive.google.com/drive/folders/1dG2nxtvxRbzKLsFTSvwlxrZBvK71mtti?usp=sharing).
+You may skip the extraction step by downloading them [here](https://drive.google.com/drive/folders/1dG2nxtvxRbzKLsFTSvwlxrZBvK71mtti?usp=sharing).
 
 Now you are ready to run the experiment. We have provided script file in `experiments/scripts/`
 
