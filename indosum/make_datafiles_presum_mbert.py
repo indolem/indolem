@@ -125,7 +125,7 @@ for i in [1,2,3,4,5]:
     print('Create ', data_path)
     if os.path.exists(data_path):
         shutil.rmtree(data_path)
-    os.mkdir(data_path)
+    os.makedirs(data_path)
     format_to_bert(main_path + 'train.0'+str(i)+'.jsonl', data_path)
     format_to_bert(main_path + 'dev.0'+str(i)+'.jsonl', data_path)
     format_to_bert(main_path + 'test.0'+str(i)+'.jsonl', data_path)
