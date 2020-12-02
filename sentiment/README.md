@@ -17,7 +17,7 @@ python baseline_NB_LR.py
 #### BiLSTM
 Please download indonesian fasttext embedding ([cc.id.300.vec](https://fasttext.cc/docs/en/crawl-vectors.html)).
 ```
-CUDA_VISIBLE_DEVICES=0 python baseline_bilstm.py --data_path data/
+CUDA_VISIBLE_DEVICES=0 python baseline_bilstm.py --data_path data/ --fasttext_path path_to_fast_text_embedding
 ```
 
 ## Running BERT-based model
