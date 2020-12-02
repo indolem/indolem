@@ -32,7 +32,6 @@ For IndoBERT:
 ./experiments/scripts/run_deepbiaf_indobert3.sh
 ./experiments/scripts/run_deepbiaf_indobert4.sh
 ./experiments/scripts/run_deepbiaf_indobertGSD.sh
-
 ```
 For MalayBERT:
 ```
