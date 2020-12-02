@@ -138,7 +138,7 @@ def model_with_fasttext(train_tweet, dev_tweet, test_tweet, \
                 recurrent_regularizer=keras.regularizers.l2(0.2), return_sequences=True, dropout=0.3, recurrent_dropout=0.3)
         bilstm1 = Bidirectional(lstm1, merge_mode='concat')
         
-        batch_size, num_chat, num_token, hidden_size = embedded_tweet.shape
+        batch_size, num_tweet, num_token, hidden_size = embedded_tweet.shape
         embedded_tweet = reshape(embedded_tweet, shape=(-1, num_token, hidden_size))
         
         mask_tweet = reshape(mask_tweet, shape=(-1, args.max_token_tweet, 1)) #batch * 5 x #word x 1
@@ -219,7 +219,7 @@ def train_and_test_fasttext(trainset, devset, testset):
     test_tweet, test_denom = tokenize(tokenizer, test_tweet, test_denom)
     train_tweet = [sequence.pad_sequences(tweet, maxlen=args.max_token_tweet, padding='post') for tweet in train_tweet]
     dev_tweet = [sequence.pad_sequences(tweet, maxlen=args.max_token_tweet, padding='post') for tweet in dev_tweet]
-    test_tweet = [sequence.pad_sequences(chat, maxlen=args.max_token_tweet, padding='post') for chat in test_tweet]
+    test_tweet = [sequence.pad_sequences(tweet, maxlen=args.max_token_tweet, padding='post') for tweet in test_tweet]
     
     train_tweet = np.array(train_tweet)
     test_tweet = np.array(test_tweet)
