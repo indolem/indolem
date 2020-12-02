@@ -44,7 +44,7 @@ cd scripts
 ./train_mbert.sh
 ./eval_mbert.sh
 ```
-In `scripts/` run `chmod +x *` to enable bash execution.
+In `scripts/` run `chmod +x *` to enable bash execution. The training requires 3 GPUs (V100 16GB). If you have lower GPU size, please reduce the batch size.
 
 ## Evaluation
 
