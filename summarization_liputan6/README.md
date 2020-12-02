@@ -1,4 +1,4 @@
-# Liputan6: Summarization Corpus for Indonesian
+# Liputan6: Abstractive and Extractive Summarization
 
 ## About
 
