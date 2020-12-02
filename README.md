@@ -41,4 +41,4 @@ Experimental result over IndoLEM using mBERT, malayBERT and our IndoBERT:
 | Sentiment Analysis | F1 | 71.62 | 76.58 | 82.02 | <b>84.13</b> |
 | Summarization | R1/RL | 67.96/67.24 | 68.40/67.67 | 68.44/67.71 | <b>69.93</b>/<b>69.21</b> |
 | Next Tweet Prediction | Acc | 73.6 | 92.4 | 93.1 | <b>93.7</b> |
-| Tweet Ordering | Spearman corr. | 0.45 | 0.53 | 0.51 | <b>0.59</b> |
+| Tweet Ordering | Corr (ρ) | 0.45 | 0.53 | 0.51 | <b>0.59</b> |
