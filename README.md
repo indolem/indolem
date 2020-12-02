@@ -11,7 +11,7 @@ In Proceedings of the 28th COLING 2020.
 * news articles from Kompas, Tempo (Tala et al., 2003), and Liputan6 (55M words in total)
 * an Indonesian Web Corpus (Medved and Suchomel, 2017) (90M words).
 
-We trained the model for 2.4M steps (180 epochs) with the <b>final perplexity over the development set being 3.97</b> (similar to English BERT-base).
+We trained the model for 2.4M steps (180 epochs) with the <b>final perplexity over the development set being 3.97 (similar to English BERT-base)</b>.
 
 ### How to use
 
