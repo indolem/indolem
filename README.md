@@ -1,4 +1,4 @@
-# Welcome to IndoLEM and IndoBERT! 👋
+# :indonesia: Welcome to IndoLEM and IndoBERT! 👋 
 
 ## Paper
 Fajri Koto, Afshin, Rahimi, Jey Han Lau, and Timothy Baldwin. [_IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP_](https://www.aclweb.org/anthology/2020.coling-main.66.pdf). 
