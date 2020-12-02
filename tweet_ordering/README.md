@@ -13,7 +13,7 @@ The experiment is based on 5-fold cross validation. The splits are provided in `
 ## Running baselines
 
 Please download indonesian fasttext embedding ([cc.id.300.vec](https://fasttext.cc/docs/en/crawl-vectors.html)).
-#### BiLSTM
+#### BiLSTM (Hierarchichal)
 ```
 CUDA_VISIBLE_DEVICES=0 python baseline_bilstm.py --data_path data/ --fasttext_path path_to_fast_text_embedding
 ```
