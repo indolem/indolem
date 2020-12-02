@@ -1,7 +1,6 @@
 # Dependency Parsing
 
-## Data
-
+Our data is from [Universal Dependencies](https://universaldependencies.org/).
 #### 1. UD-Indo-PUD (5 folds)
 1,000 sentences of UD-Indo-PUD ([Zeman et al., 2018](https://www.aclweb.org/anthology/K17-3001/)), and we use the corrected version by  [Alfina et al. (2019)](https://github.com/ialfina/revised-id-pud)
 #### 2. UD-Indo-GSD (1 fold)
