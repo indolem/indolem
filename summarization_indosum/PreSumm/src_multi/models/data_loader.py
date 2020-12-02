@@ -36,7 +36,7 @@ class Batch(object):
 
             clss = torch.tensor(self._pad(pre_clss, -1))
             src_sent_labels = torch.tensor(self._pad(pre_src_sent_labels, 0))
-            mask_cls = 1 - (clss == -1)
+            mask_cls = 0 - (clss != -1)
             clss[clss == -1] = 0
             setattr(self, 'clss', clss.to(device))
             setattr(self, 'mask_cls', mask_cls.to(device))
