@@ -110,11 +110,11 @@ if __name__ == '__main__':
     args.world_size = len(args.gpu_ranks)
     os.environ["CUDA_VISIBLE_DEVICES"] = args.visible_gpus
 
+    os.makedirs(args.model_path, exist_ok=True)
     init_logger(args.log_file)
     device = "cpu" if args.visible_gpus == '-1' else "cuda"
     device_id = 0 if device == "cuda" else -1
     
-    os.makedirs(args.model_path, exist_ok=True)
 
     if (args.task == 'abs'):
         if args.uncased:
