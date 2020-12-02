@@ -5,8 +5,8 @@ CUDA_VISIBLE_DEVICES=7 OMP_NUM_THREADS=4 python -u ../parsing_conllu.py --mode t
  --punctuation '.' '``' "''" ':' ',' '?' '!' \
  --word_embedding bert --word_path "../../UD_Indonesian_GSD/data/indobert" --char_embedding random \
  --word2index_path "../../UD_Indonesian_GSD/data/word2index.json" \
- --train "../../UD_Indonesian_GSD/data/folds/train.conllu" \
- --dev "../../UD_Indonesian_GSD/data/folds/dev.conllu" \
- --test "../../UD_Indonesian_GSD/data/folds/test.conllu" \
+ --train "../../UD_Indonesian_GSD/data/train.conllu" \
+ --dev "../../UD_Indonesian_GSD/data/dev.conllu" \
+ --test "../../UD_Indonesian_GSD/data/test.conllu" \
  --model_path "models/indobertGSD/" \
  --normalize_digits 0
