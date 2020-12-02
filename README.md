@@ -39,6 +39,6 @@ Experimental result over IndoLEM using mBERT, malayBERT and our IndoBERT:
 | Dep. Parsing (GSD) | UAS/LAS | 85.25/80.35 | 86.85/81.78 | 86.99/81.87 | <b>87.12<b/>/<b>82.32</b> |
 | Dep. Parsing (PUD) | UAS/LAS | 84.04/79.01 | <b>90.58</b>/<b>85.44</b> | 88.91/83.56 | 89.23/83.95 |
 | Sentiment Analysis | F1 | 71.62 | 76.58 | 82.02 | <b>84.13</b> |
-| Summarization | R1/RL | 67.96/67.24 | 68.40/67.67 | 68.44/67.71 | <b>69.93</b>/<b>69.21</b> |
+| IndoSum | R1/RL | 67.96/67.24 | 68.40/67.67 | 68.44/67.71 | <b>69.93</b>/<b>69.21</b> |
 | Next Tweet Prediction | Acc | 73.6 | 92.4 | 93.1 | <b>93.7</b> |
 | Tweet Ordering | Corr (ρ) | 0.45 | 0.53 | 0.51 | <b>0.59</b> |
