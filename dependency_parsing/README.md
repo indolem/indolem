@@ -11,9 +11,15 @@ Our data is from [Universal Dependencies](https://universaldependencies.org/).
 We modify [NeuroNLP2](https://github.com/XuezheMax/NeuroNLP2) and use [_Deep Biaffine Attention for Neural Dependency Parsing_](https://arxiv.org/abs/1611.01734). By Timothy Dozat, Christopher D. Manning. In ICLR 2017.
 
 #### Requirements for NeuroNLP2
-
-Python 3.6, PyTorch >=1.3.1, Gensim >= 0.12.0
-
+Tested with:
+```
+python==3.6
+torch==1.3.1
+gensim==0.12.0
+overrides==3.1.0
+conllu==4.2.1
+scipy==1.1.0
+```
 #### Experiment with BERT embedding
 
 For each *UD-Indo-PUD* and *UD-Indo-GSD*, you can run jupyter notebook `extract.ipynb` to extract BERT embedding for Indonesian, Malaysian, and Multilingual BERT.
