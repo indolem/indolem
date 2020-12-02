@@ -15,6 +15,7 @@ The experiment is based on 5-fold cross validation. The splits are provided in `
 python baseline_NB_LR.py
 ```
 #### BiLSTM
+Please download indonesian fasttext embedding ([cc.id.300.vec](https://fasttext.cc/docs/en/crawl-vectors.html)).
 ```
 CUDA_VISIBLE_DEVICES=0 python baseline_bilstm.py --data_path data/
 ```
