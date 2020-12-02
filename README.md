@@ -2,7 +2,7 @@
 
 ## Paper
 Fajri Koto, Afshin, Rahimi, Jey Han Lau, and Timothy Baldwin. [_IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP_](https://www.aclweb.org/anthology/2020.coling-main.66.pdf). 
-In Proceedings of the 28th COLING 2020.
+In Proceedings of the 28th COLING, December 2020.
 
 ## 1. About IndoBERT
 
