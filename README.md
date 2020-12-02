@@ -36,8 +36,8 @@ Experimental result over IndoLEM using mBERT, malayBERT and our IndoBERT:
 | POS Tagging | Acc | 95.4 | <b>96.8</b> | <b>96.8</b> | <b>96.8</b> |
 | NER UGM | F1| 70.9 | 71.6 | 73.2 | <b>74.9</b> |
 | NER UI | F1 | 82.2 | 82.2 | 87.4 | <b>90.1</b> |
-| Dep. Parsing (UD-Indo-GSD) | UAS/LAS | 85.25/80.35 | 86.85/81.78 | 86.99/81.87 | <b>87.12<b/>/<b>82.32</b> |
-| Dep. Parsing (UD-Indo-PUD) | UAS/LAS | 84.04/79.01 | <b>90.58</b>/<b>85.44</b> | 88.91/83.56 | 89.23/83.95 |
+| Dep. Parsing (GSD) | UAS/LAS | 85.25/80.35 | 86.85/81.78 | 86.99/81.87 | <b>87.12<b/>/<b>82.32</b> |
+| Dep. Parsing (PUD) | UAS/LAS | 84.04/79.01 | <b>90.58</b>/<b>85.44</b> | 88.91/83.56 | 89.23/83.95 |
 | Sentiment Analysis | F1 | 71.62 | 76.58 | 82.02 | <b>84.13</b> |
 | Summarization | R1/R2/RL | 67.96/61.65/67.24 | 68.40/61.66/67.67 | 68.44/61.38/67.71 | <b>69.93</b>/<b>62.86</b>/<b>69.21</b> |
 | Next Tweet Prediction | Acc | 73.6 | 92.4 | 93.1 | <b>93.7</b> |
