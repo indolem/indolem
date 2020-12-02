@@ -44,7 +44,10 @@ cd scripts
 ./train_mbert.sh
 ./eval_mbert.sh
 ```
+
 In `scripts/` run `chmod +x *` to enable bash execution. The training requires 3 GPUs (V100 16GB). If you have lower GPU size, please reduce the batch size.
+
+Since we use 5-fold cross validation, the experiments are run 5 times with different folds in folder `data/`. Please adjust the script.
 
 ## Evaluation
 
