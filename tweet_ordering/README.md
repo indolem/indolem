@@ -21,15 +21,15 @@ CUDA_VISIBLE_DEVICES=0 python baseline_bilstm.py --data_path data/ --fasttext_pa
 ## Running BERT-based model
 #### IndoBERT
 ```
-CUDA_VISIBLE_DEVICES=0 python bert.py --data_path data/ --lang id
+CUDA_VISIBLE_DEVICES=0 python bert.py --data_path data/ --bert_lang id
 ```
 #### MalayBERT
 ```
-CUDA_VISIBLE_DEVICES=0 python bert.py --data_path data/ --lang my
+CUDA_VISIBLE_DEVICES=0 python bert.py --data_path data/ --bert_lang my
 ```
 #### mBERT
 ```
-CUDA_VISIBLE_DEVICES=0 python bert.py --data_path data/ --lang multi
+CUDA_VISIBLE_DEVICES=0 python bert.py --data_path data/ --bert_lang multi
 ```
 
 Please refer to the code, if you want to adjust another parameters.
