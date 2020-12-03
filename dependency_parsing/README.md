@@ -26,7 +26,7 @@ transformers==3.1.0
 For each *UD-Indo-PUD* and *UD-Indo-GSD*, you can run jupyter notebook `extract.ipynb` to extract BERT embedding for Indonesian, Malaysian, and Multilingual BERT.
 This will take a while, especially for *UD-Indo-GSD*. A folder `data/` will be created in each repository *UD-Indo-PUD* and *UD-Indo-GSD.*
 
-You may skip the extraction step by downloading them [here](https://drive.google.com/drive/folders/1dG2nxtvxRbzKLsFTSvwlxrZBvK71mtti?usp=sharing) and put the extracted files in `data\` for each UD data.
+You may skip the extraction step by downloading them [here](https://drive.google.com/drive/folders/1dG2nxtvxRbzKLsFTSvwlxrZBvK71mtti?usp=sharing) and put the extracted files in `UD_Indonesian_GSD/data/` and `UD_Indonesian_PUD/data`.
 
 Now you are ready to run the experiment. We have provided script file in `experiments/scripts/`
 
