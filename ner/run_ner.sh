@@ -7,8 +7,6 @@ pip install seqeval
 pip install transformers==2.9.0
 
 export MAX_LENGTH=128
-#export BERT_MODEL=bert-base-multilingual-cased
-export BERT_MODEL=/scratch/itee/ash/indobert/Indonesian/indobert/
 export BERT_MODEL="indolem/indobert-base-uncased"
 
 for f in 1 2 3 4 5
