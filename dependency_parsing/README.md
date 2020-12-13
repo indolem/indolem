@@ -21,6 +21,11 @@ conllu==4.2.1
 scipy==1.1.0
 transformers==3.1.0
 ```
+
+To install the requirements
+```
+pip install -r requirements.txt
+```
 #### Experiment with BERT embedding
 
 For each *UD-Indo-PUD* and *UD-Indo-GSD*, you can run jupyter notebook `extract.ipynb` to extract BERT embedding for Indonesian, Malaysian, and Multilingual BERT.
