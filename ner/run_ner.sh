@@ -27,7 +27,7 @@ cat $DATA_DIR/test.$FOLD.tsv  | tr '\t' ' '  | tr '  ' ' ' > test.txt
 cat train.txt dev.txt test.txt | cut -d " " -f 2 | grep -v "^$"| sort | uniq > labels.txt
 
 
-python3 run_ner.py \
+CUDA_VISIBLE_DEVICES=0 python3 run_ner.py \
 --data_dir . \
 --labels ./labels.txt \
 --model_name_or_path $BERT_MODEL \
